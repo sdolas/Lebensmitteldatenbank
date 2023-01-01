@@ -1,543 +1,543 @@
-"";"Kategorie";"Energie (kcal)";"Fett";"Kohlenhydrate";"Netto-Kohlenhydrate";"Eiweiß, Proteingehalt";"Ballaststoffe";"Wasser";"Alkohol (Ethanol)";"Mineralstoffe (Rohasche)";"organische Säuren";"PRAL-Wert"
-"Hühnerei Vollei frisch";"Eier und Eierprodukte, Teigwaren";"154";"11.2";"0.7";"0.7";"12.9";"0";"74.1";"0";"1.1";"0";"10.2"
-"Gnocchi gekocht";"Kartoffeln und Kartoffelerzeugnisse, stärkereiche Pflanzenteile, Pilze";"150";"0.5";"31.9";"31.9";"3.6";"1.9";"61";"0";"0.6";"0.4";"0.3"
-"Kopfsalat mit Essigmarinade (Zubereitung Haushalt)";"Menükomponenten";"110";"11.3";"1.1";"1.1";"0.9";"1.2";"84.2";"0";"0.9";"0.4";"2.8"
-"Salami Kroatische Art";"Wurst, Fleischwaren";"323";"24.7";"0.3";"0.3";"25.6";"0.1";"44.3";"0";"5.1";"0";"10.1"
-"Suppenhuhn Fleisch (mittelfett) frisch";"Fleisch (Wild, Geflügel, Federwild, Innereien)";"257";"20.3";"0";NA;"19";"0";"59.8";"0";"0.9";"0";"8.7"
-"Lyoner Wurst";"Wurst, Fleischwaren";"267";"24.1";"0.3";"0.3";"13";"0.1";"59";"0";"3.4";"0.1";"4.5"
-"Marzipan Rohmasse";"Süßwaren, Zucker, Bonbons, Schokolade, Brotaufstrich süß, Eis";"512";"35.2";"37.3";"37.3";"12.2";"9.9";"3.7";"0";"1.7";"0";"0.3"
-"Weintraube weiß frisch";"Früchte, Obst und Obsterzeugnisse";"71";"0.3";"15.6";"15.4";"0.7";"0.8";"81.3";"0";"0.5";"0.8";"3.4"
-"Kleber (Gluten)";"Cerealien, Getreide und Getreideprodukte, Reis";"393";"4";"7";NA;"81";"1";"6";"0";"1";"0";"39.7"
-"Rhabarber frisch";"Früchte, Obst und Obsterzeugnisse";"13";"0.1";"1.4";"1.4";"0.6";"2.3";"93.7";"0";"0.6";"1.4";"5.5"
-"Papaya";"Früchte, Obst und Obsterzeugnisse";"32";"0.1";"7.1";"7.1";"0.5";"1.9";"89.8";"0";"0.6";"0.1";"4.5"
-"Tomatensoße mit Tomatenmark (Zubereitung Gastronomie)";"Menükomponenten";"126";"8.2";"9.7";"9.7";"3.3";"2.1";"74.5";"0";"1.8";"0.3";"10.5"
-"Geflügel Döner";"Menükomponenten";"164";"2.6";"21.9";"21.9";"12.8";"1.6";"59.7";"0";"1.4";"0";"5.8"
-"Walnüsse geröstet";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";"675";"65.9";"9.6";"9.6";"13.1";"5.6";"4";"0";"1.8";"0";"5.7"
-"Gouda mind. 45% Fett i. Tr.";"Milch, Milcherzeugnisse, Käse";"364";"30.8";"0";NA;"21.9";"0";"40.9";"0";"2.9";"1";"18.9"
-"Haferflockenbrei (Zubereitung Haushalt)";"Menükomponenten";"133";"5.5";"15.6";"15.6";"4.8";"0.5";"72.5";"0";"0.8";"0.2";"1.8"
-"Kefir entrahmt";"Milch, Milcherzeugnisse, Käse";"38";"0.1";"4.2";"4.2";"3.4";"0";"90.2";"0.5";"0.8";"0.8";"0.3"
-"Lachsschinkenpastete";"Wurst, Fleischwaren";"250";"19.9";"0.5";"0.5";"17.6";"0.1";"57.5";"0";"4.3";"0";"6.6"
-"Mais-Fladenbrot";"Brot- und Kleingebäck";"222";"1.8";"45.5";"45.5";"5.2";"1.9";"43.6";"0";"2";"0";"5.9"
-"Roggen Vollkorn";"Cerealien, Getreide und Getreideprodukte, Reis";"294";"1.7";"59.7";"59.7";"9";"14";"13.7";"0";"1.9";"0";"3.1"
-"Schwein Schinken gekocht geräuchert";"Wurst, Fleischwaren";"121";"4.3";"1.1";"1.1";"19.5";"0";"71.9";"0";"3.3";"0";"10"
-"Blattspinat tiefgefroren";"Gemüse und Gemüseerzeugnisse";"18";"0.3";"0.5";"0.5";"2.6";"2.7";"91.5";"0";"1.5";"0.8";"12.3"
-"Weißkohl (Weißkraut) gegart";"Gemüse und Gemüseerzeugnisse";"20";"0.2";"3";NA;"1.3";"2.8";"91.9";"0";"0.5";"0.2";"1.7"
-"Maiskeimöl";"Fette, Öle, Butter, Schmalz";"883";"99.9";"0";NA;"0";"0";"0.1";"0";"0";"0";"0.2"
-"Brathähnchen Brustfilet roh";"Fleisch (Wild, Geflügel, Federwild, Innereien)";"102";"0.7";"0";NA;"23.6";"0";"74.6";"0";"1.2";"0";"12.9"
-"Schweineschmalz, -fett";"Fette, Öle, Butter, Schmalz";"882";"99.7";"0";NA;"0.1";"0";"0.1";"0";"0.1";"0";"0.1"
-"Plockwurst einfach";"Wurst, Fleischwaren";"434";"38.9";"0.4";"0.4";"21.7";"0.1";"34.6";"0";"4.4";"0";"9.9"
-"Hirse ganzes Korn roh";"Cerealien, Getreide und Getreideprodukte, Reis";"331";"3.6";"64";NA;"9.6";"13";"7.5";"0";"2";"0";"2.5"
-"Butterschmalz";"Fette, Öle, Butter, Schmalz";"880";"99.5";"0";NA;"0.3";"0";"0.2";"0";"0.1";"0";"0"
-"Frikadelle (Zubereitung Gastronomie)";"Menükomponenten";"165";"8.3";"3.6";"3.6";"19.1";"0.5";"66.9";"0";"1.7";"0";"9.5"
-"Kalb Leber roh";"Fleisch (Wild, Geflügel, Federwild, Innereien)";"87";"1.2";"4.1";"4.1";"14.9";"0";"78.5";"0";"1.4";"0";"11.4"
-"Stockwurst";"Wurst, Fleischwaren";"259";"21.5";"0.5";"0.5";"16.5";"0.1";"58.3";"0";"3";"0.1";"6.8"
-"Bier";"Alkoholische Getränke";"42";"0";"3.1";"3.1";"0.5";"0";"92.2";"4";"0.2";"0";"0"
-"Camembert Doppelrahmstufe";"Milch, Milcherzeugnisse, Käse";"362";"33.2";"0";NA;"16.8";"0";"46.5";"0";"3.3";"0.2";"11.2"
-"Schwein Filet (mager) frisch gegart";"Fleisch (Rind, Kalb, Schwein, Hammel, Lamm)";"146";"2.2";"0";NA;"31.1";"0";"65.4";"0";"1.3";"0";"14.7"
-"Schnittkäse";"Milch, Milcherzeugnisse, Käse";"354";"28.3";"0";NA;"24.8";"0";"41.9";"0";"4";"1";"19.1"
-"Debreziner Konserve";"Wurst, Fleischwaren";"331";"31";"0.3";"0.3";"13.8";"0.1";"52.2";"0";"2.5";"0.1";"5.6"
-"Zucchini gedünstet mit Knoblauch (Zubereitung Haushalt)";"Menükomponenten";"37";"2.1";"2.8";"2.8";"1.6";"1.2";"90.9";"0";"1.2";"0.3";"3.4"
-"Eier gekocht, gesalzen (Zubereitung Haushalt)";"Menükomponenten";"154";"11.2";"0.7";"0.7";"12.9";"0";"73.9";"0";"1.4";"0";"10.9"
-"Rind Leber roh";"Fleisch (Wild, Geflügel, Federwild, Innereien)";"132";"3.7";"5.3";"5.3";"19.2";"0";"70.3";"0";"1.6";"0";"14.6"
-"Krabbe klein (Shrimps) gegart";"Fische, Krusten-, Schalen-, Weichtiere";"93";"1.5";"0.8";"0.8";"18.9";"0";"77.4";"0";"1.4";"0";"9"
-"Wildreis gekocht";"Cerealien, Getreide und Getreideprodukte, Reis";"134";"0.4";"26.9";"26.9";"5.3";"2.2";"64.8";"0";"0.4";"0";"3.8"
-"Sülzwurst hervorhebend";"Wurst, Fleischwaren";"171";"8.3";"0.4";"0.4";"23.5";"0.1";"64.9";"0";"2.8";"0";"9.7"
-"Geflügelbratwurst";"Wurst, Fleischwaren";"115";"2.8";"0.3";"0.3";"21.9";"0.1";"71";"0";"3.8";"0";"10"
-"Weißer Preßkopf";"Wurst, Fleischwaren";"220";"14.2";"1.1";"1.1";"22.2";"0.1";"54.9";"0";"7.5";"0";"9.9"
-"Rind Hackfleisch frisch";"Fleisch (Rind, Kalb, Schwein, Hammel, Lamm)";"202";"13.6";"0.5";"0.5";"19.7";"0";"65.2";"0";"1.1";"0";"8.8"
-"Sülzkotelett";"Wurst, Fleischwaren";"119";"4.4";"0.9";"0.9";"18.8";"0";"70.2";"0";"5.6";"0";"5.8"
-"Gänseleberkäse getrüffelt";"Wurst, Fleischwaren";"221";"14.2";"2.7";"2.7";"20.7";"0";"58.8";"0";"3.4";"0.1";"12.3"
-"Pommes frites mit Ketchup";"Menükomponenten";"139";"6.2";"18";NA;"2.1";"1.3";"69.6";"0";"2.1";"0.6";"-7"
-"Mango tiefgefroren";"Früchte, Obst und Obsterzeugnisse";"63";"0.5";"13.4";"13.4";"0.6";"1.8";"82.6";"0";"0.5";"0.6";"-4"
-"Zwiebeln gebraten (zubereitet ohne Fett)";"Gemüse und Gemüseerzeugnisse";"29";"0.3";"5.2";"5.2";"1.2";"1.5";"91.2";"0";"0.5";"0.2";"2.1"
-"Schnittkäse Vollfettstufe";"Milch, Milcherzeugnisse, Käse";"344";"27";"0";NA;"25.3";"0";"42.7";"0";"4.1";"1";"19.4"
-"Zucker braun Rohzucker";"Süßwaren, Zucker, Bonbons, Schokolade, Brotaufstrich süß, Eis";"396";"0";"97.4";"97.4";"0";"0";"2.2";"0";"0.5";"0";"2.1"
-"Schinkenwurst Krakauer Art roh";"Wurst, Fleischwaren";"304";"26.5";"0.2";"0.2";"16.8";"0.1";"52.7";"0";"3.8";"0";"6.8"
-"Quark mit Kräutern Fettstufe";"Milch, Milcherzeugnisse, Käse";"113";"4.7";"11.8";"11.8";"5.5";"2";"74.4";"0";"1.2";"0.4";"2.2"
-"Pastete im Brotteig";"Wurst, Fleischwaren";"222";"15.5";"0.6";"0.6";"20.4";"0";"61.3";"0";"2.2";"0";"8.3"
-"Schwein Leber gegart";"Fleisch (Wild, Geflügel, Federwild, Innereien)";"148";"5.2";"1.1";"1.1";"24";"0";"68.4";"0";"1.3";"0";"19.2"
-"Lauchzwiebel roh";"Gemüse und Gemüseerzeugnisse";"42";"0.3";"8.5";"8.5";"0.9";"2.8";"86.6";"0";"0.7";"0.2";"5.6"
-"Kartoffelpüree (Zubereitung Gastronomie)";"Menükomponenten";"108";"5.6";"11.7";"11.7";"2.3";"1.6";"77.2";"0";"1.1";"0.5";"4.5"
-"Aprikose Konfitüre";"Früchte, Obst und Obsterzeugnisse";"250";"0.1";"60.6";"60.4";"0.3";"0.6";"37.5";"0";"0.3";"0.5";"1.2"
-"Klarer";"Alkoholische Getränke";"185";"0";"0";NA;"0";"0";"73.3";"26.7";"0";"0";"0.2"
-"Gerste Perlgraupen";"Cerealien, Getreide und Getreideprodukte, Reis";"339";"1.4";"71";NA;"9.7";"4.6";"12.2";"0";"1.2";"0";"5.9"
-"Lakritze";"Süßwaren, Zucker, Bonbons, Schokolade, Brotaufstrich süß, Eis";"375";"0.9";"86.2";"86.2";"4.3";"1.9";"5.9";"0";"0.7";"0";"0.6"
-"Westfälische grobe Mettwurst";"Wurst, Fleischwaren";"335";"28.7";"0.2";"0.2";"19.9";"0";"47.1";"0";"4.2";"0";"7.9"
-"Helle Zungenwurst Konserve";"Wurst, Fleischwaren";"265";"22.3";"0.7";"0.7";"15.9";"0.2";"57.5";"0";"3.4";"0";"6.8"
-"Schalotte roh";"Gemüse und Gemüseerzeugnisse";"22";"0.2";"3.3";"3.3";"1.5";"1.5";"92.5";"0";"0.8";"0.2";"4.6"
-"Cornflakes mit Zucker, Honig geröstet";"Cerealien, Getreide und Getreideprodukte, Reis";"353";"0.5";"79.3";"79.3";"6.5";"3.6";"6.9";"0";"3.2";"0";"2.3"
-"Haferdrink";"Cerealien, Getreide und Getreideprodukte, Reis";"46";"1.5";"6.7";"6.7";"1";"0.8";"89.6";"0";"0.3";"20";"0.5"
-"Spargel weiß gegart";"Gemüse und Gemüseerzeugnisse";"16";"0.1";"1.6";"1.6";"1.9";"1.5";"94.2";"0";"0.6";"0.2";"0.4"
-"Sojaerzeugnisse";"Vegetarische Produkte";"360";"23.4";"0.4";"0.4";"37.2";"17.1";"8.2";"0";"4.5";"0.3";"9.1"
-"Marmorkuchen aus Rührmasse";"Kuchen, Feinbackwaren, Dauerbackwaren";"391";"21.7";"42.9";"42.9";"6.2";"1.6";"26.8";"0";"0.7";"0";"6"
-"Weichkäse aus Ziegenmilch (45% Fett i. Tr.)";"Milch, Milcherzeugnisse, Käse";"275";"21.8";"0";NA;"20.1";"0";"53.6";"0";"4.2";"0.3";"15.8"
-"Landjäger";"Wurst, Fleischwaren";"456";"44.4";"0.4";"0.4";"15.2";"0";"36.2";"0";"3.8";"0";"6.5"
-"Zuckererbsen frisch";"Gemüse und Gemüseerzeugnisse";"59";"0.2";"10";NA;"4";"5";"79.6";"0";"0.9";"0.3";"2.4"
-"Weizen Grieß gegart";"Cerealien, Getreide und Getreideprodukte, Reis";"29";"0.1";"6.1";"6.1";"1";"0.7";"92.1";"0";"0.1";"0";"0.4"
-"Feldsalat frisch";"Gemüse und Gemüseerzeugnisse";"14";"0.4";"0.7";"0.7";"1.8";"1.8";"94.2";"0";"0.8";"0.3";"6.9"
-"Hafer ganzes Korn roh";"Cerealien, Getreide und Getreideprodukte, Reis";"332";"7.1";"55.7";"55.7";"10.7";"9.7";"13.8";"0";"2.9";"0";"6"
-"Weißbrot-Weizentoastbrot";"Brot- und Kleingebäck";"253";"3.3";"47.7";"47.7";"7.4";"2.9";"37";"0";"1.6";"0.1";"4.1"
-"Walnüsse";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";"654";"62.5";"10.6";"10.6";"14.4";"6.1";"4.4";"0";"2";"0";"6.3"
-"Konfitüre Gelee Marmeladen";"Süßwaren, Zucker, Bonbons, Schokolade, Brotaufstrich süß, Eis";"279";"0.1";"68.3";"68.1";"0.1";"0.7";"30.3";"0";"0.1";"0.2";"-1"
-"Kiwi frisch";"Früchte, Obst und Obsterzeugnisse";"61";"0.6";"10.8";"10.8";"1";"3.9";"80.5";"0";"0.7";"2.5";"5.7"
-"Haselnusspastete";"Wurst, Fleischwaren";"281";"23.1";"1.2";"1.2";"17.7";"0.8";"54";"0";"3.1";"0.1";"6.3"
-"Lachs tiefgefroren";"Fische, Krusten-, Schalen-, Weichtiere";"131";"6.3";"0";NA;"18.4";"0";"74";"0";"1.2";"0";"10.1"
-"Pumpernickel";"Brot- und Kleingebäck";"188";"1";"37.6";"37.6";"6.5";"8.7";"44.1";"0";"2.1";"0.1";"3.9"
-"Kaiserjagdwurst Konserve";"Wurst, Fleischwaren";"218";"16.8";"0.2";"0.2";"16.8";"0.1";"63.3";"0";"2.7";"0.1";"6.6"
-"Mais-Vollkornfladenbrot";"Brot- und Kleingebäck";"226";"2.7";"43.8";"43.8";"6.1";"6.2";"39";"0";"2.2";"0";"3.5"
-"Honig";"Süßwaren, Zucker, Bonbons, Schokolade, Brotaufstrich süß, Eis";"306";"0";"75.1";"75.1";"0.4";"0";"24.3";"0";"0.2";"0";"0.4"
-"Vollkornbrot mit Sonnenblumenkernen";"Brot- und Kleingebäck";"204";"2.9";"36.5";"36.5";"7.1";"8.6";"42.5";"0";"2.2";"0.1";"4.1"
-"Schaf Muskelfleisch";"Fleisch (Rind, Kalb, Schwein, Hammel, Lamm)";"117";"3.7";"0";NA;"20.8";"0";"74.3";"0";"1.2";"0";"10.5"
-"Rind Lunge frisch";"Fleisch (Wild, Geflügel, Federwild, Innereien)";"94";"2.6";"0";NA;"17.4";"0";"78.9";"0";"1";"0";"11.5"
-"Pak Choi frisch";"Gemüse und Gemüseerzeugnisse";"14";"0.3";"1.2";"1.2";"1.2";"1.9";"94.4";"0";"0.6";"0.4";"2.1"
-"Champignon frisch";"Kartoffeln und Kartoffelerzeugnisse, stärkereiche Pflanzenteile, Pilze";"15";"0.2";"0.6";"0.1";"2.7";"2";"93.3";"0";"1";"0.1";"3.4"
-"Knoblauchwurst einfach";"Wurst, Fleischwaren";"367";"34.2";"0.4";"0.4";"15.7";"0";"46.2";"0";"3.5";"0";"7.7"
-"Wurzelpetersilie frisch";"Gemüse und Gemüseerzeugnisse";"37";"0.5";"5.4";"4.6";"2.9";"4.3";"84.8";"0";"1.6";"0.2";"-6"
-"Apfel Fruchtsaft";"Früchte, Obst und Obsterzeugnisse";"47";"0";"11.1";"10.5";"0.1";"0";"87.9";"0.1";"0.3";"0.5";"2.3"
-"Beerenobst";"Früchte, Obst und Obsterzeugnisse";"71";"0.3";"15.6";"15.4";"0.7";"0.8";"81.3";"0";"0.5";"0.8";"3.4"
-"Pecannuss frisch";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";"692";"72";"4.4";"4.4";"9.3";"9.5";"3.2";"0";"1.6";"0";"0.4"
-"Schweinefilet im Netz                   ";"Wurst, Fleischwaren";"162";"8.1";"1.1";"1.1";"21.2";"0.4";"67.9";"0";"1.3";"0";"7.9"
-"Geflügelwiener Würstchen";"Wurst, Fleischwaren";"123";"4.9";"0.4";"0.4";"19.1";"0.2";"72.2";"0";"3.1";"0.1";"8.6"
-"Spekulatius aus Mürbeteig";"Kuchen, Feinbackwaren, Dauerbackwaren";"489";"25.6";"56.8";"56.8";"7.8";"3.3";"5.6";"0";"0.8";"0.1";"4.6"
-"Mosaik-, Schachbrettpastete und andere";"Wurst, Fleischwaren";"261";"22";"0.3";"0.3";"15.9";"0.1";"58.6";"0";"3";"0.1";"6.2"
-"Kresse frisch";"Gemüse und Gemüseerzeugnisse";"35";"0.7";"2.5";"2.5";"4.2";"3.5";"86.8";"0";"1.9";"0.4";"11.9"
-"Banane frisch";"Früchte, Obst und Obsterzeugnisse";"95";"0.2";"21.4";"21.4";"1.2";"2";"73.8";"0";"0.8";"0.6";"7.7"
-"Rumpsteak (Zubereitung Großküche)";"Menükomponenten";"159";"4.3";"0.1";"0.1";"29.7";"0";"63.8";"0";"2.2";"0";"14.4"
-"Linsen reif frisch";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";"309";"1.4";"49.3";"49.3";"23.5";"10.6";"9.3";"0";"3.2";"0.3";"4.8"
-"Oliven";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";"143";"13.9";"1.8";"1.8";"1.4";"2.4";"71.7";"0";"6.4";"2.5";"1.4"
-"Müsli";"Cerealien, Getreide und Getreideprodukte, Reis";"351";"7.3";"60";"59.9";"10.4";"8.1";"11.5";"0";"2";"0.4";"3.7"
-"Kokosflocken aus Fondant";"Süßwaren, Zucker, Bonbons, Schokolade, Brotaufstrich süß, Eis";"380";"9.1";"72.8";"72.8";"1";"2.3";"14.2";"0";"0.5";"0";"1.7"
-"Gouda mind. 10% Fett i. Tr.";"Milch, Milcherzeugnisse, Käse";"256";"16";"0";NA;"27.4";"0";"52.7";"0";"2.9";"1";"21.6"
-"Gelee einfach";"Süßwaren, Zucker, Bonbons, Schokolade, Brotaufstrich süß, Eis";"280";"0.1";"68.5";"68.3";"0.1";"0";"30.9";"0";"0.1";"0.2";"0.9"
-"Tomatensoße italienisch (Zubereitung Großküche)";"Menükomponenten";"75";"4.2";"6.4";"6.4";"2.7";"1.6";"83.5";"0";"1.4";"0.2";"6.6"
-"Kohlrabi frisch";"Gemüse und Gemüseerzeugnisse";"25";"0.1";"3.7";"3.7";"2";"1.5";"91.6";"0";"0.9";"0.2";"7.2"
-"Kokosnuss";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";"361";"36.5";"4.8";"4.8";"4.6";"9";"43.9";"0";"1.2";"0";"3.5"
-"Obstsalat süßsauer (Zubereitung Haushalt)";"Menükomponenten";"103";"1";"21.3";"20.7";"0.7";"1.9";"73.3";"0.5";"0.5";"0.8";"3.5"
-"Kalbfleischsülze";"Wurst, Fleischwaren";"109";"3.2";"0.2";"0.2";"19.7";"0";"74.7";"0";"2.1";"0";"8.3"
-"Salami ungarische Art";"Wurst, Fleischwaren";"366";"32.1";"0.3";"0.3";"19.8";"0";"43.5";"0";"4.2";"0";"7.9"
-"Muffins mit Schokolade";"Kuchen, Feinbackwaren, Dauerbackwaren";"286";"11.6";"37.3";"37.3";"7.8";"6.7";"34.5";"0";"1.8";"0.3";"0.9"
-"Graubrot-Weizenmischbrot mit Sonnenblumenkernen";"Brot- und Kleingebäck";"235";"3";"43.5";"43.5";"7.8";"4.3";"39.4";"0";"1.7";"0";"3.8"
-"Aprikose - Marille";"Früchte, Obst und Obsterzeugnisse";"43";"0.1";"8.5";"7.7";"0.9";"1.5";"86.8";"0";"0.7";"1.4";"5.1"
-"Schinkenroulade";"Wurst, Fleischwaren";"278";"22.1";"0.2";"0.2";"20.3";"0.1";"55.3";"0";"2";"0.1";"7.9"
-"Kartoffelsalat mit grüner Gurke und Mayonnaise (Zubereitung Gastronomie)";"Menükomponenten";"86";"4.9";"8.4";"8.4";"1.7";"1.4";"81.9";"0";"1.2";"0.6";"3.4"
-"Brötchen-Roggenbrötchen mit Sonnenblumenkernen";"Brot- und Kleingebäck";"239";"3.2";"44.8";"44.8";"7.1";"6.1";"36.7";"0";"2";"0.1";"2.8"
-"Leberwurst einfach";"Wurst, Fleischwaren";"330";"31.3";"0.6";"0.6";"12.4";"0.1";"53.2";"0";"2.3";"0";"6.6"
-"Bohnen grün tiefgefroren gegart";"Gemüse und Gemüseerzeugnisse";"27";"0.3";"3.3";"3.3";"2.6";"3.4";"87.5";"0";"0.7";"0.2";"3.1"
-"Vollkornbrot-Mehrkornvollkornbrot";"Brot- und Kleingebäck";"201";"1.2";"40";NA;"6.8";"8.2";"41.3";"0";"2.2";"0.1";"4.3"
-"Kalbfleisch-Pastete";"Wurst, Fleischwaren";"212";"12.1";"7.3";"7.3";"18.5";"0.5";"58.4";"0";"3.1";"0";"8.5"
-"Hausmacher Blutwurst Konserve";"Wurst, Fleischwaren";"344";"31.4";"0.6";"0.6";"15.7";"0.2";"49.9";"0";"2.2";"0";"7.8"
-"Salzstangen";"Kuchen, Feinbackwaren, Dauerbackwaren";"347";"0.5";"75.3";"75.3";"9";"0.7";"9";"0";"5.5";"0";"4.7"
-"Mozzarella";"Milch, Milcherzeugnisse, Käse";"290";"23.1";"1.9";"1.9";"18.8";"0";"64";"0";"1.9";"0.3";"14"
-"Brathähnchen Leber frisch";"Fleisch (Wild, Geflügel, Federwild, Innereien)";"139";"4.7";"5";NA;"19.1";"0";"69.5";"0";"1.7";"0";"14.4"
-"Rote Bete gegart";"Gemüse und Gemüseerzeugnisse";"32";"0.1";"6.1";"6.1";"1.4";"2.4";"88.9";"0";"0.8";"0.2";"1.8"
-"Agavendicksaft";"Süßwaren, Zucker, Bonbons, Schokolade, Brotaufstrich süß, Eis";"305";"0.4";"75";NA;"0.1";"0.2";"24.1";"0";"0.1";"0";"0"
-"Shiitakepilz frisch";"Kartoffeln und Kartoffelerzeugnisse, stärkereiche Pflanzenteile, Pilze";"42";"0.2";"12.3";"2.5";"1.6";"2";"83.6";"0";"0.2";"0.1";"1.1"
-"Mortadella Konserve";"Wurst, Fleischwaren";"308";"29.2";"0.4";"0.4";"12";"0.2";"54.8";"0";"3.3";"0.1";"4.2"
-"Marmelade";"Süßwaren, Zucker, Bonbons, Schokolade, Brotaufstrich süß, Eis";"279";"0.1";"68.3";"68.1";"0.1";"0.7";"30.3";"0";"0.1";"0.2";"-1"
-"Griechischer Joghurt";"Milch, Milcherzeugnisse, Käse";"229";"16.7";"13.5";"13.5";"5.8";"1.1";"62.2";"0";"0.7";"67.7";"0.6"
-"Rind Pökelfleisch gekocht ungeräuchert";"Wurst, Fleischwaren";"133";"7";"0.9";"0.9";"16.7";"0";"69";"0";"6.5";"0";"8.8"
-"Schwein Nacken (Kamm) (fett) frisch gegart";"Fleisch (Rind, Kalb, Schwein, Hammel, Lamm)";"256";"16.7";"0";NA;"26.7";"0";"55.5";"0";"1.1";"0";"11.7"
-"Hirsch Fleisch (mager) frisch";"Fleisch (Wild, Geflügel, Federwild, Innereien)";"113";"3.3";"0";NA;"20.6";"0";"74.9";"0";"1.1";"0";"10.3"
-"Geflügelleberwurst";"Wurst, Fleischwaren";"244";"16.8";"2.9";"2.9";"20.4";"0.1";"56.2";"0";"3.5";"0.1";"13.6"
-"Haselnusspastete mit Mürbeteig";"Wurst, Fleischwaren";"314";"25.4";"7.9";"7.9";"14.1";"1.3";"48.9";"0";"2.4";"0";"4.9"
-"Joghurt 10% mit Früchten";"Milch, Milcherzeugnisse, Käse";"144";"8.7";"13.2";"13.2";"2.7";"0.9";"73.2";"0";"0.6";"0.7";"0.3"
-"Geflügelbierwurst";"Wurst, Fleischwaren";"212";"13";"0.3";"0.3";"23.6";"0.1";"59.6";"0";"3.4";"0";"10.6"
-"Schwarze Graupenwürstchen";"Wurst, Fleischwaren";"241";"14.9";"16.6";"16.6";"10.4";"1.2";"54.5";"0";"2.4";"0";"3.4"
-"Tofu frisch";"Vegetarische Produkte";"77";"4.8";"0.5";"0.5";"8.1";"0.5";"85.3";"0";"0.7";"0";"2.6"
-"Rotwein leicht";"Alkoholische Getränke";"66";"0";"2.4";"2.4";"0.2";"0";"88.9";"7.9";"0.3";"0.3";"1.7"
-"Kürbiskern geröstet";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";"565";"46.4";"2.7";"2.7";"35.5";"8.7";"5.3";"0";"1.4";"0";"17"
-"Vollkornbrot mit Ölsamen";"Brot- und Kleingebäck";"204";"2.9";"36.5";"36.5";"7.1";"8.6";"42.5";"0";"2.2";"0.1";"4.1"
-"Linsen reif gegart";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";"115";"0.5";"18.4";"18.4";"8.8";"4.1";"66.1";"0";"1.1";"0.1";"2.9"
-"Bratwurst (nicht umgerötet)";"Wurst, Fleischwaren";"272";"25.1";"0.3";"0.3";"12.2";"0";"59.8";"0";"2.6";"0";"4.9"
-"Amaranth roh";"Cerealien, Getreide und Getreideprodukte, Reis";"385";"6.5";"66.2";"66.2";"14.5";"9.3";"0.2";"0";"3";"0";"6.5"
-"Brühwurst feingekuttert (umgerötet)";"Wurst, Fleischwaren";"267";"24.1";"0.3";"0.3";"13";"0.1";"59";"0";"3.4";"0.1";"4.5"
-"Avocado";"Früchte, Obst und Obsterzeugnisse";"130";"12.5";"3.6";"3.6";"1.4";"4.1";"77.2";"0";"1.3";"0";"9.9"
-"Hirschsalami";"Wurst, Fleischwaren";"294";"23";"0.2";"0.2";"22.2";"0";"49.9";"0";"4.5";"0.1";"10.4"
-"Cashewnuss geröstet und gesalzen";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";"583";"47.3";"24.8";"24.8";"15.8";"3.1";"3.9";"0";"5.1";"0";"5.3"
-"Geflügelknackwurst";"Wurst, Fleischwaren";"123";"4.9";"0.4";"0.4";"19.1";"0.2";"72.2";"0";"3.1";"0.1";"8.6"
-"Knacker einfach, Schüblinge einfach";"Wurst, Fleischwaren";"298";"28";"0.2";"0.2";"12.2";"0";"56.9";"0";"2.6";"0.1";"5"
-"Kiwi";"Früchte, Obst und Obsterzeugnisse";"61";"0.6";"10.8";"10.8";"1";"3.9";"80.5";"0";"0.7";"2.5";"5.7"
-"Erbswurst";"Wurst, Fleischwaren";"306";"23.6";"12.5";"12.5";"11.3";"4.9";"44.2";"0";"2.3";"0.2";"2.4"
-"Schnittkäse aus Ziegenmilch (50% Fett i. Tr.)";"Milch, Milcherzeugnisse, Käse";"400";"33.6";"2.3";"2.3";"21.9";"0";"36.7";"0";"4.1";"1.4";"16.4"
-"Milzwurst";"Wurst, Fleischwaren";"276";"23.2";"0.2";"0.2";"17.3";"0.1";"56.5";"0";"2.8";"0";"7.4"
-"Deutsche Salami";"Wurst, Fleischwaren";"365";"32.1";"0.2";"0.2";"19.8";"0.1";"43.5";"0";"4.2";"0";"7.9"
-"Haferkleieflocken";"Cerealien, Getreide und Getreideprodukte, Reis";"354";"6.7";"59.5";"59.5";"13.2";"9.7";"10.1";"0";"0.9";"0";"7.1"
-"Leinsamen";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";"444";"36.5";"7.7";"7.7";"22.3";"22.7";"7.5";"0";"3.3";"0";"4.2"
-"Brötchen mit Sonnenblumenkernen";"Brot- und Kleingebäck";"264";"3.6";"48.8";"48.8";"8.2";"3.3";"34.3";"0";"1.6";"0";"3.9"
-"Sonnenblumenöl";"Fette, Öle, Butter, Schmalz";"884";"100";"0";NA;"0";"0";"0";"0";"0";"0";"0"
-"Geflügelmortadella gebraten (zubereitet ohne Fett)";"Wurst, Fleischwaren";"246";"19.6";"4.3";"4.3";"13.3";"0.1";"61.1";"0";"1.4";"0.1";"8.9"
-"Zwieback";"Kuchen, Feinbackwaren, Dauerbackwaren";"365";"4.3";"71.4";"71.4";"9.2";"5.2";"8.5";"0";"1.4";"0";"5.1"
-"Spaghetti gekocht, mit Butterflöckchen (Zubereitung Gastronomie)";"Menükomponenten";"169";"5";"26";NA;"4.7";"1.9";"61.7";"0";"0.7";"0";"3.3"
-"Sonnenblumenkern roh";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";"480";"26.3";"34.7";"34.7";"26.1";"5.8";"3.8";"0";"3.3";"0";"11.9"
-"Macadamianuss roh";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";"697";"73";"4";NA;"8.8";"11.4";"1.2";"0";"1.6";"0";"2.7"
-"Chicoree frisch";"Gemüse und Gemüseerzeugnisse";"17";"0.2";"2.3";"2.3";"1.3";"1.3";"92.1";"0";"1";"0.3";"3.2"
-"Weiße Graupenwurst";"Wurst, Fleischwaren";"238";"12.9";"19.1";"19.1";"11.5";"1.3";"52.6";"0";"2.6";"0";"4.6"
-"Mortadella süddeutsch, Zungenwurst";"Wurst, Fleischwaren";"281";"23.5";"0.7";"0.7";"17.4";"0.2";"54.6";"0";"3.7";"0";"7.5"
-"Hüttenkäse Halbfettstufe";"Milch, Milcherzeugnisse, Käse";"102";"4.3";"2.6";"2.6";"12.6";"0";"78.3";"0";"1.4";"0.8";"8.4"
-"Kasseler gebraten im Backofen ohne Fett";"Wurst, Fleischwaren";"115";"2.2";"0";NA;"23.5";"0";"70.8";"0";"3.5";"0";"12.7"
-"Whisky";"Alkoholische Getränke";"250";"0";"0.1";"0.1";"0";"0";"63.9";"36";"0";"0";"0.1"
-"Margarine pflanzlich Linolsäure 30-50%";"Fette, Öle, Butter, Schmalz";"709";"80";"0.4";"0.4";"0.2";"0";"19";"0";"0.4";"0";"0.1"
-"Bohnen grün tiefgefroren";"Gemüse und Gemüseerzeugnisse";"27";"0.3";"3.3";"3.3";"2.6";"3.3";"87.7";"0";"0.8";"0.2";"3.9"
-"Geflügelmortadella gekocht";"Wurst, Fleischwaren";"288";"22.9";"5";NA;"16.1";"0.2";"54.2";"0";"1.5";"0.2";"11.3"
-"Studentenfutter mit Erdnüssen";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";"483";"33.1";"30.4";"30.4";"15.2";"8.8";"8.4";"0";"2.4";"1.6";"1.8"
-"Corned Beef";"Wurst, Fleischwaren";"141";"6";"0";NA;"21.7";"0";"69.3";"0";"3";"0";"11.8"
-"Brötchen-Roggenmischbrötchen";"Brot- und Kleingebäck";"223";"0.8";"47";NA;"6";"5";"39.3";"0";"1.7";"0.1";"3"
-"Pfefferminztee (Getränk)";"Alkoholfreie Getränke";"1";"0";"0.2";"0.2";"0";"0";"99.7";"0";"0.1";"0";"0.2"
-"Erbsen grün Konserve";"Gemüse und Gemüseerzeugnisse";"52";"0.3";"7.7";"7.7";"4.3";"3.3";"83.1";"0";"1.1";"0.2";"0.2"
-"Makrele roh Fischzuschnitt";"Fische, Krusten-, Schalen-, Weichtiere";"181";"11.9";"0";NA;"18.7";"0";"68.1";"0";"1.3";"0";"9.3"
-"Kürbiscremesuppe (Zubereitung Haushalt)";"Menükomponenten";"81";"4.7";"6.9";"6.9";"2.8";"0.8";"83.4";"0";"1.2";"0.2";"0.8"
-"Linsen-Eintopf (Zubereitung Gastronomie)";"Menükomponenten";"83";"1.4";"10.5";"10.5";"6.7";"2.4";"76.9";"0";"1.5";"0.3";"0.7"
-"Hafer Schrot";"Cerealien, Getreide und Getreideprodukte, Reis";"353";"7.1";"59.8";"59.8";"11.7";"5.6";"12.8";"0";"2.8";"0";"6.5"
-"Chilischote rot frisch";"Gemüse und Gemüseerzeugnisse";"28";"0.3";"4.2";"4.2";"1.8";"3.6";"89.2";"0";"0.6";"0.3";"7.7"
-"Saure Sahne";"Milch, Milcherzeugnisse, Käse";"117";"10";"3.3";"3.3";"3.1";"0";"82.2";"0";"0.7";"0.7";"0.2"
-"Papaya gegart";"Früchte, Obst und Obsterzeugnisse";"32";"0.1";"7.1";"7.1";"0.6";"1.9";"89.8";"0";"0.5";"0.1";"3.8"
-"Thunfisch Konserve in Öl, abgetropft";"Fische, Krusten-, Schalen-, Weichtiere";"222";"15.7";"0";NA;"20.5";"0";"60.6";"0";"3.2";"0";"8.7"
-"Joghurt mit Magermilch angereichert teilentrahmt";"Milch, Milcherzeugnisse, Käse";"55";"1.5";"5.3";"5.3";"4.3";"0";"87.1";"0";"1";"0.8";"0.2"
-"Zwiebelwurst";"Wurst, Fleischwaren";"266";"23.3";"2.1";"2.1";"12.8";"0.5";"58.2";"0";"3.2";"0.1";"8.6"
-"Johannisbeere schwarz Konfitüre";"Früchte, Obst und Obsterzeugnisse";"277";"0.1";"66.8";"66.8";"0.5";"2.5";"28.8";"0";"0.3";"1";"2.3"
-"Pökelwaren Pökelfleisch";"Wurst, Fleischwaren";"135";"7.3";"0.9";"0.9";"16.6";"0";"68.4";"0";"6.8";"0";"8.8"
-"Pfälzer Saumagen";"Wurst, Fleischwaren";"158";"6.8";"6.9";"6.9";"16.9";"1.1";"64.7";"0";"3.3";"0.3";"3.3"
-"Roggenfladenbrot";"Brot- und Kleingebäck";"211";"0.9";"43.8";"43.8";"6";"5.7";"41.6";"0";"1.9";"0.1";"2.4"
-"Spitzpaprika grün";"Gemüse und Gemüseerzeugnisse";"20";"0.3";"2.9";"2.9";"1.2";"3.6";"91.1";"0";"0.6";"0.3";"2.5"
-"Fleischwurst Pariser";"Wurst, Fleischwaren";"267";"24.1";"0.3";"0.3";"13";"0.1";"59";"0";"3.4";"0.1";"4.5"
-"Kalbsleberwurst grob";"Wurst, Fleischwaren";"346";"31.7";"1.1";"1.1";"14.9";"0.1";"49.4";"0";"2.6";"0.1";"7.7"
-"Erdnuss roh";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";"576";"48.1";"7.5";"7.5";"29.8";"11.7";"0.7";"0";"2.2";"0";"8.6"
-"Apfelmus (Zubereitung Haushalt)";"Menükomponenten";"66";"0.3";"15.2";"14.8";"0.3";"1.4";"82.1";"0";"0.2";"0.4";"-2"
-"Buchweizenbrot";"Brot- und Kleingebäck";"234";"1.7";"47.1";"47.1";"6.9";"3.7";"38.4";"0";"2.1";"0";"3.4"
-"Heidelbeere tiefgefroren";"Früchte, Obst und Obsterzeugnisse";"44";"0.6";"7.7";"7.7";"0.6";"5.1";"84.1";"0";"0.3";"1.5";"-1"
-"Schwein Schinken roh geräuchert (Lachsschinken)";"Wurst, Fleischwaren";"116";"4.4";"0.9";"0.9";"18.3";"0";"69.5";"0";"6.9";"0";"6.5"
-"Graubrot-Roggenbrot mit Käse";"Brot- und Kleingebäck";"215";"1.7";"42.6";"42.6";"6.5";"5.6";"41.6";"0";"1.9";"0.1";"2.9"
-"Blumenkohl tiefgefroren";"Gemüse und Gemüseerzeugnisse";"24";"0.3";"2.5";"2.4";"2.7";"3.2";"90.3";"0";"0.8";"0.2";"3.4"
-"Dinkelbrötchen";"Brot- und Kleingebäck";"226";"3.4";"38.1";"38.1";"10";"4.3";"42.2";"0";"2";"0";"4.7"
-"Cocktailtomaten";"Gemüse und Gemüseerzeugnisse";"20";"0.2";"2.6";"2.6";"1";"1.3";"93.9";"0";"0.6";"390";"-4"
-"Käsespätzle (Zubereitung Haushalt)";"Menükomponenten";"161";"6.2";"18.2";"18.2";"7.9";"1.1";"65.6";"0";"0.9";"0.1";"5.5"
-"Knäckebrot-Roggenbrot";"Brot- und Kleingebäck";"336";"1.5";"69.7";"69.7";"9.6";"9.1";"7";"0";"2.9";"0.1";"3.9"
-"Gurkensalat mit Joghurt (Zubereitung Haushalt)";"Menükomponenten";"58";"4.5";"3";"2.9";"1.2";"0.4";"89.4";"0";"1.1";"0.4";"1.7"
-"Müsli-Riegel";"Süßwaren, Zucker, Bonbons, Schokolade, Brotaufstrich süß, Eis";"375";"18.9";"43.9";"43.9";"6.9";"4.4";"24";"0";"1.4";"0.6";"0.1"
-"Schwein Rückenspeck";"Fleisch (Rind, Kalb, Schwein, Hammel, Lamm)";"697";"76.7";"0";NA;"4.7";"0";"18.3";"0";"0.3";"0";"2.7"
-"Reisdrink";"Cerealien, Getreide und Getreideprodukte, Reis";"52";"1.1";"9.9";"9.9";"0.5";"0.5";"87.7";"0";"0.3";"0";"0.1"
-"Rostbratwurst";"Wurst, Fleischwaren";"329";"29.5";"0.3";"0.3";"16.5";"0.1";"51.1";"0";"2.5";"0";"6.5"
-"Traubenzucker";"Süßwaren, Zucker, Bonbons, Schokolade, Brotaufstrich süß, Eis";"405";"0";"99.8";"99.8";"0";"0";"0.1";"0";"0";"0";"0.1"
-"Mungobohnen reif";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";"273";"1.2";"41.3";"41.3";"23.1";"15";"10.3";"0";"4.6";"0.3";"13.3"
-"Laugengebäck";"Kuchen, Feinbackwaren, Dauerbackwaren";"340";"2.6";"68.5";"68.5";"9.4";"4.1";"12";"0";"3.3";"0.1";"16.5"
-"Rind Mark";"Fleisch (Rind, Kalb, Schwein, Hammel, Lamm)";"837";"94";"0";NA;"1.5";"0";"4.4";"0";"0.1";"0";"0.9"
-"Erdbeerkonfitüre";"Früchte, Obst und Obsterzeugnisse";"268";"0.1";"65.1";NA;"0.3";"0.7";"33.2";"0";"0.2";"0.4";"-1"
-"Brathähnchen Brustfilet gekocht";"Fleisch (Wild, Geflügel, Federwild, Innereien)";"100";"0.4";"0";NA;"23.7";"0";"75.1";"0";"0.8";"0";"14.5"
-"Tiroler";"Wurst, Fleischwaren";"155";"6.7";"0.3";"0.3";"23.4";"0.1";"66.3";"0";"3.2";"0.1";"9.3"
-"Tomatensoße aus frischen Tomaten (Zubereitung Haushalt)";"Menükomponenten";"50";"3.2";"4.4";"4.4";"0.8";"0.5";"90.3";"0";"0.7";"0.1";"0.9"
-"Rind Milz frisch";"Fleisch (Wild, Geflügel, Federwild, Innereien)";"96";"2.3";"0";NA;"18.6";"0";"77.7";"0";"1.4";"0";"11.5"
-"Auberginenscheiben gebraten (Zubereitung Haushalt)";"Menükomponenten";"81";"5.7";"5.8";"5.8";"1.6";"2.8";"82.9";"0";"1";"0.2";"3.3"
-"Getreideerzeugnisse Frühstückscerealien";"Cerealien, Getreide und Getreideprodukte, Reis";"351";"7.3";"60";"59.9";"10.4";"8.1";"11.5";"0";"2";"0.4";"3.7"
-"Krakauer";"Wurst, Fleischwaren";"299";"26.5";"0.3";"0.3";"15.6";"0.1";"54.5";"0";"2.9";"0.1";"6.5"
-"Grünkohl tiefgefroren";"Gemüse und Gemüseerzeugnisse";"40";"1";"2.6";"2.6";"4.7";"4.6";"84.8";"0";"1.8";"0.5";"8.2"
-"Aubergine frisch";"Gemüse und Gemüseerzeugnisse";"17";"0.2";"2.5";"2.5";"1.2";"2.8";"92.6";"0";"0.5";"0.2";"3.8"
-"Porree frisch";"Gemüse und Gemüseerzeugnisse";"26";"0.3";"3.2";"3.1";"2.2";"2.2";"90.2";"0";"0.9";"0.2";"3.7"
-"Kidney-Bohnen Konserve gegart abgetropft";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";"72";"0.4";"8.7";"8.7";"5.4";"5.4";"78.1";"0";"1";"0.1";"0.5"
-"Grapefruit frisch";"Früchte, Obst und Obsterzeugnisse";"50";"0.2";"9";NA;"0.6";"0.6";"86.2";"0";"0.4";"3.2";"3.4"
-"Banane";"Früchte, Obst und Obsterzeugnisse";"95";"0.2";"21.4";"21.4";"1.2";"2";"73.8";"0";"0.8";"0.6";"7.7"
-"Stachelbeere frisch";"Früchte, Obst und Obsterzeugnisse";"44";"0.2";"8.5";"8.5";"0.8";"2.9";"85.7";"0";"0.5";"1.4";"3.5"
-"Bohne weiß frisch gegart";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";"112";"0.7";"16.9";"16.9";"9.1";"7.5";"62.2";"0";"1.5";"0.1";"0.9"
-"Hanfsamen";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";"464";"32.7";"2";NA;"25.6";"29.7";"6.7";"0";"3.3";"0";"1.7"
-"Rum";"Alkoholische Getränke";"231";"0";"0";NA;"0";"0";"66.6";"33.4";"0";"0";"0.1"
-"Käsekuchen aus Mürbeteig";"Kuchen, Feinbackwaren, Dauerbackwaren";"276";"14.1";"27.9";"27.9";"8.8";"0.9";"47";"0.1";"0.7";"0.4";"5.2"
-"Gänseleberpastete";"Wurst, Fleischwaren";"247";"17.6";"4";NA;"18.4";"0.2";"56.9";"0";"3";"0";"12"
-"Fleischwurst Konserve";"Wurst, Fleischwaren";"326";"30.1";"0.2";"0.2";"14.4";"0.1";"52.1";"0";"3";"0.1";"5.9"
-"Tomatensalat mit Essigmarinade und Zwiebeln (Zubereitung Haushalt)";"Menükomponenten";"56";"4.1";"3.6";"3.6";"0.9";"1";"89";"0";"1";"0.4";"3.5"
-"Bratwurst (Zubereitung Haushalt)";"Menükomponenten";"282";"26";"0.3";"0.3";"12.6";"0.1";"58.4";"0";"2.6";"0";"5.2"
-"Touristenwurst einfach";"Wurst, Fleischwaren";"322";"26.9";"0.2";"0.2";"20.5";"0.1";"49.1";"0";"3.1";"0.1";"9"
-"Buchweizen";"Cerealien, Getreide und Getreideprodukte, Reis";"340";"1.7";"71";NA;"9.1";"3.7";"12.8";"0";"1.7";"0";"4.6"
-"Weizen Mehl Type 550";"Cerealien, Getreide und Getreideprodukte, Reis";"345";"1.1";"72";NA;"10.6";"3.5";"12.3";"0";"0.5";"0";"5.2"
-"Thunfisch Konserve abgetropft";"Fische, Krusten-, Schalen-, Weichtiere";"219";"14.8";"0";NA;"21.7";"0";"60.3";"0";"3.2";"0";"9.3"
-"Weißbrot-Weizenbrot";"Brot- und Kleingebäck";"235";"1.3";"48.1";"48.1";"7.1";"3";"39.1";"0";"1.5";"0";"3.5"
-"Rind Rücken (Roastbeef) (mager) frisch gegart";"Fleisch (Rind, Kalb, Schwein, Hammel, Lamm)";"161";"3.9";"0";NA;"31.2";"0";"63.9";"0";"1";"0";"15.3"
-"Heidelbeere frisch";"Früchte, Obst und Obsterzeugnisse";"42";"0.6";"7.4";"7.4";"0.6";"4.9";"84.8";"0";"0.3";"1.4";"-1"
-"Mischgemüse gedünstet (Zubereitung Großküche)";"Menükomponenten";"53";"1.7";"6.9";"6.8";"2.3";"2.9";"84.7";"0";"1.1";"0.2";"2.7"
-"Rote Bete frisch";"Gemüse und Gemüseerzeugnisse";"42";"0.1";"8.4";"8.4";"1.5";"2.5";"86.3";"0";"1";"0.2";"5.7"
-"Kapstachelbeere frisch";"Früchte, Obst und Obsterzeugnisse";"76";"1.1";"13.3";"13.3";"2.3";"0.5";"81";"0";"0.8";"1";"1.4"
-"Grünkern";"Cerealien, Getreide und Getreideprodukte, Reis";"324";"2.7";"63.3";"63.3";"10.8";"8.8";"12.5";"0";"2";"0";"7.4"
-"Weiße Lyoner";"Wurst, Fleischwaren";"260";"21";"0.3";"0.3";"18.1";"0.1";"57.2";"0";"3.3";"0";"7.1"
-"Weiße Bohnen in Tomatensoße (Zubereitung Haushalt)";"Menükomponenten";"58";"1.3";"7.7";"7.7";"3.6";"2.8";"82.6";"0";"1.2";"0.1";"1.6"
-"Erdnuss geröstet";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";"615";"53";"9.3";"9.3";"26.9";"7.6";"1.6";"0";"1.7";"0";"4.3"
-"Brötchen-Roggenbrötchen";"Brot- und Kleingebäck";"223";"1";"46.3";"46.3";"6.4";"6";"38.2";"0";"2";"0.1";"2.5"
-"Endivien frisch";"Gemüse und Gemüseerzeugnisse";"11";"0.2";"0.3";"0.3";"1.8";"1.2";"95.4";"0";"0.9";"0.3";"5.4"
-"Thüringer Rotwurst Konserve";"Wurst, Fleischwaren";"241";"16";"0.4";"0.4";"24.3";"0.1";"56";"0";"3.3";"0";"11.1"
-"Leinöl";"Fette, Öle, Butter, Schmalz";"879";"99.5";"0";NA;"0";"0";"0.5";"0";"0";"0";"0"
-"Basmatireis ungekocht";"Cerealien, Getreide und Getreideprodukte, Reis";"353";"1.1";"75.4";"75.4";"9";"2.2";"11.9";"0";"0.3";"0";"4.9"
-"Leberwurst grob";"Wurst, Fleischwaren";"323";"27.8";"1.3";"1.3";"17.5";"0.1";"50.4";"0";"2.7";"0.1";"9.3"
-"Rote Bete Gemüsesaft";"Gemüse und Gemüseerzeugnisse";"35";"0.1";"7";NA;"1.4";"0.3";"89.6";"0";"1.6";"0.2";"5.3"
-"Kolbacz";"Wurst, Fleischwaren";"303";"27";"0.2";"0.2";"15.5";"0.1";"53.6";"0";"3.5";"0";"6.2"
-"Hefezopf aus Hefeteig fettarm";"Kuchen, Feinbackwaren, Dauerbackwaren";"302";"9.1";"46.6";"46.6";"7.5";"2.6";"32.8";"0";"0.9";"0.6";"2.2"
-"Johannisbeere schwarz frisch";"Früchte, Obst und Obsterzeugnisse";"57";"0.2";"10.3";"10.3";"1.3";"6.8";"78";"0";"0.8";"2.6";"6.2"
-"Fischstäbchen (Zubereitung Haushalt)";"Menükomponenten";"193";"8.8";"14.1";"14.1";"14.2";"0.9";"60.6";"0";"1.4";"0";"9.6"
-"Eisbergsalat frisch";"Gemüse und Gemüseerzeugnisse";"13";"0.2";"1.6";"1.6";"1";"1.8";"94.6";"0";"0.5";"0.3";"2.6"
-"Geflügelsalami fettarm";"Wurst, Fleischwaren";"180";"6.6";"0.4";"0.4";"29.4";"0.1";"58.9";"0";"4.6";"0";"13.1"
-"Gesülzter Hackbraten";"Wurst, Fleischwaren";"186";"12.6";"0.7";"0.7";"17.7";"0";"66.2";"0";"2.7";"0.1";"6.9"
-"Pizza margherita (Zubereitung Gastronomie)";"Menükomponenten";"258";"5.3";"43.9";"43.9";"8.1";"2.8";"38.8";"0";"1";"0.1";"3.6"
-"Graubrot-Weizenmischbrot mit Sauermilch";"Brot- und Kleingebäck";"225";"1.2";"45.2";"45.2";"7.4";"4.2";"39.9";"0";"1.7";"0.1";"3.7"
-"Preiselbeere Konfitüre";"Früchte, Obst und Obsterzeugnisse";"270";"0.2";"65.6";"65.6";"0.1";"1.1";"32.3";"0";"0.1";"0.5";"0.5"
-"Tomatensuppe (Zubereitung Haushalt)";"Menükomponenten";"29";"1.6";"2.7";"2.7";"0.8";"0.4";"93.6";"0";"0.7";"0.1";"0.9"
-"Gerste Graupen";"Cerealien, Getreide und Getreideprodukte, Reis";"339";"1.4";"71";NA;"9.7";"4.6";"12.2";"0";"1.2";"0";"5.9"
-"Kräutertee (Getränk)";"Alkoholfreie Getränke";"1";"0";"0.2";"0.2";"0";"0";"99.7";"0";"0.1";"0";"0.2"
-"Kalb Muskelfleisch";"Fleisch (Rind, Kalb, Schwein, Hammel, Lamm)";"94";"0.8";"0";NA;"21.3";"0";"76.7";"0";"1.2";"0";"10.5"
-"Vollkornmehl";"Cerealien, Getreide und Getreideprodukte, Reis";"309";"2.4";"59.5";"59.5";"11.4";"10";"15";"0";"1.7";"0";"7.6"
-"Grünkern Schrot";"Cerealien, Getreide und Getreideprodukte, Reis";"324";"2.7";"63.3";"63.3";"10.8";"8.8";"12.5";"0";"2";"0";"7.4"
-"Oliven schwarz";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";"353";"35.8";"4.9";"4.9";"2.2";"3.8";"41.3";"0";"9.5";"2.5";"0.1"
-"Geflügelwiener Würstchen erwärmt";"Wurst, Fleischwaren";"130";"5";"0.5";"0.5";"20.4";"0.2";"70.8";"0";"3";"0.1";"9.7"
-"Jagdwurst (Süddeutsche und Norddeutsche)";"Wurst, Fleischwaren";"218";"16.8";"0.2";"0.2";"16.8";"0.1";"63.3";"0";"2.7";"0.1";"6.6"
-"Margarine";"Fette, Öle, Butter, Schmalz";"709";"80";"0.4";"0.4";"0.2";"0";"19";"0";"0.4";"0";"0.1"
-"Sauerkraut Konserve abgetropft";"Gemüse und Gemüseerzeugnisse";"16";"0.3";"0.6";"0.6";"1.4";"3.3";"90.2";"0";"2.6";"1.6";"2.3"
-"Grünkohl frisch gegart";"Gemüse und Gemüseerzeugnisse";"28";"0.7";"1.6";"1.6";"3.4";"3.4";"89.2";"0";"1.3";"0.4";"3.1"
-"Französische Schweinefleisch-Terrine";"Wurst, Fleischwaren";"314";"27.4";"0.4";"0.4";"17.4";"0.3";"51.8";"0";"2.7";"0";"5.9"
-"Cabanossi";"Wurst, Fleischwaren";"451";"43.9";"0.3";"0.3";"15.2";"0.1";"36.9";"0";"3.6";"0";"6.1"
-"Couscous gekocht";"Cerealien, Getreide und Getreideprodukte, Reis";"142";"0.7";"28.5";"28.5";"4.9";"2.8";"62.9";"0";"0.3";"0";"2.5"
-"Butterkäse";"Milch, Milcherzeugnisse, Käse";"299";"23.5";"0";NA;"21.7";"0";"48.6";"0";"5.3";"0.9";"13.1"
-"Rind Fett";"Fleisch (Rind, Kalb, Schwein, Hammel, Lamm)";"856";"96.5";"0";NA;"0.8";"0";"2.6";"0";"0.1";"0";"0.5"
-"Orange, Apfelsine";"Früchte, Obst und Obsterzeugnisse";"47";"0.2";"9.2";"9.2";"1";"2.2";"85.7";"0";"0.5";"1.2";"3.3"
-"Sojaeiweiß texturiert (""Sojafleisch"")";"Vegetarische Produkte";"285";"0.5";"0.2";"0.2";"69";"16.6";"7";"0";"4.7";"0";"9.4"
-"Wollwurst, Geschwollene";"Wurst, Fleischwaren";"272";"25.1";"0.3";"0.3";"12.2";"0";"59.8";"0";"2.6";"0";"4.9"
-"Lachs frisch";"Fische, Krusten-, Schalen-, Weichtiere";"131";"6.3";"0";NA;"18.4";"0";"74";"0";"1.2";"0";"10.1"
-"Bierschinken Konserve";"Wurst, Fleischwaren";"180";"11.9";"0.1";"0.1";"18.3";"0";"67";"0";"2.6";"0.1";"7.1"
-"Bauernleberwurst";"Wurst, Fleischwaren";"356";"31.8";"1";NA;"17.4";"0.1";"47.1";"0";"2.6";"0";"9.7"
-"Fleischkäse im Teigmantel";"Wurst, Fleischwaren";"355";"28.9";"9.5";"9.5";"15";"0.6";"43.1";"0";"2.6";"0.1";"5.9"
-"Bratwurst geräuchert";"Wurst, Fleischwaren";"287";"22.9";"0.2";"0.2";"20.7";"0";"52.7";"0";"3.5";"0";"7.9"
-"Milchschokolade Vollmilch-Nuß";"Süßwaren, Zucker, Bonbons, Schokolade, Brotaufstrich süß, Eis";"521";"32.4";"49.1";"49.1";"8.5";"5.6";"1.8";"0";"2.3";"0.2";"2.9"
-"Basmatireis gekocht";"Cerealien, Getreide und Getreideprodukte, Reis";"131";"0.4";"28.1";"28.1";"3.3";"0.6";"67.5";"0";"0.1";"0";"1.7"
-"Vollkornteigwaren";"Eier und Eierprodukte, Teigwaren";"323";"2.5";"60.6";"60.6";"13.4";"11.5";"10.5";"0";"1.5";"0";"8.5"
-"Brie";"Milch, Milcherzeugnisse, Käse";"362";"33.2";"0";NA;"16.8";"0";"46.2";"0";"3.6";"0.2";"10.1"
-"Pistazie geröstet und gesalzen";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";"615";"54.3";"15.6";"15.6";"17.5";"6";"2.1";"0";"4.5";"0";"0.3"
-"Magerquark";"Milch, Milcherzeugnisse, Käse";"75";"0.2";"4";NA;"13.5";"0";"80.7";"0";"0.9";"0.8";"8.9"
-"Pistazie geröstet";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";"627";"55.4";"15.9";"15.9";"17.9";"6.1";"2.1";"0";"2.6";"0";"0.3"
-"Milchspeiseeis Vanille";"Süßwaren, Zucker, Bonbons, Schokolade, Brotaufstrich süß, Eis";"85";"2.4";"13.2";"13.2";"2.3";"0";"81.4";"0";"0.5";"0.2";"0"
-"Rindergulasch ""deutsche Art"" (Zubereitung Haushalt)";"Menükomponenten";"104";"6.9";"2.6";"2.6";"7.7";"1";"80.4";"0";"1.2";"0.1";"2.5"
-"Zwiebelleberwurst einfach";"Wurst, Fleischwaren";"330";"31.3";"0.6";"0.6";"12.4";"0.1";"53.2";"0";"2.3";"0";"6.6"
-"Spinat tiefgefroren gegart";"Gemüse und Gemüseerzeugnisse";"20";"0.4";"0.5";"0.5";"2.9";"3.1";"90.6";"0";"1.5";"1";"7.1"
-"Waldpilze";"Kartoffeln und Kartoffelerzeugnisse, stärkereiche Pflanzenteile, Pilze";"15";"0.7";"0.1";NA;"2.1";"7.6";"88.4";"0";"1";"0.1";"3.9"
-"Rind Steak (mager) frisch gegart";"Fleisch (Rind, Kalb, Schwein, Hammel, Lamm)";"161";"3.9";"0";NA;"31.2";"0";"63.9";"0";"1";"0";"15.3"
-"Leberwurst Aachener Frankfurter";"Wurst, Fleischwaren";"357";"32.9";"1.3";"1.3";"14.9";"0.2";"48";"0";"2.8";"0";"8.3"
-"Kidney-Bohnen";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";"297";"1.4";"36.5";"36.5";"22.1";"21.3";"11";"0";"3.8";"0.3";"-8"
-"Milchspeiseeis";"Süßwaren, Zucker, Bonbons, Schokolade, Brotaufstrich süß, Eis";"85";"2.4";"13.2";"13.2";"2.3";"0";"81.4";"0";"0.5";"0.2";"0"
-"Dinkelvollkornbrötchen";"Brot- und Kleingebäck";"246";"4.3";"40.1";"40.1";"11";"5.8";"36.5";"0";"2.2";"0";"4.8"
-"Grahambrötchen";"Brot- und Kleingebäck";"247";"1.4";"50.1";"50.1";"7.5";"3.5";"35.7";"0";"1.6";"0";"3.9"
-"Sojabohnen reif frisch gegart";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";"152";"9.9";"0.2";"0.2";"15.7";"7.5";"60.7";"0";"1.7";"0.1";"-1"
-"Schokoladenpudding mit Vanillesoße (Zubereitung Großküche)";"Menükomponenten";"130";"3.3";"21.6";"21.6";"3.1";"0.6";"70.5";"0";"0.8";"0.2";"0.3"
-"Kaffee mit Milch und Zucker (Getränk)";"Alkoholfreie Getränke";"12";"0.1";"2.3";"2.3";"0.3";"0";"97.1";"0";"0.1";"0";"1.3"
-"Maultaschen ""schwäbisch"" (Zubereitung Haushalt)";"Menükomponenten";"146";"5.5";"15.5";"15.5";"8.3";"1.3";"68.2";"0";"1";"0.1";"3.3"
-"Teigwaren aus Hartgrieß";"Eier und Eierprodukte, Teigwaren";"348";"1.2";"70.5";"70.5";"12.5";"5.1";"10";"0";"0.8";"0";"6.3"
-"Leberwurst fein";"Wurst, Fleischwaren";"328";"29.4";"1.5";"1.5";"15.2";"0.1";"51.1";"0";"2.6";"0.1";"9.2"
-"Margarine halbfett Linolsäure <30%";"Fette, Öle, Butter, Schmalz";"362";"40";"0.4";"0.4";"1.6";"0";"56.8";"0";"1.2";"0";"0.8"
-"Semmelbrösel";"Brot- und Kleingebäck";"358";"2.1";"73.5";"73.5";"10.1";"5.3";"6.8";"0";"2.2";"0";"4.7"
-"Linsen gekeimt frisch";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";"119";"0.5";"19.1";"19.1";"9";"3.1";"67.1";"0";"1";"0.3";"2.7"
-"Tahini aus rohem Sesam";"Vegetarische Produkte";"583";"48";"21.2";"21.2";"17.8";"5";"3.3";"0";"4.7";"0";"19.8"
-"Edelkastanien (Marone) gegart";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";"197";"2";"41.1";"41.1";"3";"8.8";"44.3";"0";"0.9";"0";"8.6"
-"Gemüsepaprika grün frisch";"Gemüse und Gemüseerzeugnisse";"20";"0.3";"2.9";"2.9";"1.2";"3.6";"91.1";"0";"0.6";"0.3";"2.5"
-"Vollkornbrötchen mit Sonnenblumenkernen";"Brot- und Kleingebäck";"237";"3.7";"41.9";"41.9";"8.6";"6.6";"36.6";"0";"2.5";"0";"5.9"
-"Wurstkuchen mit Mürbeteig";"Wurst, Fleischwaren";"333";"23.5";"15.3";"15.3";"15.4";"0.9";"42.5";"0";"2.2";"0.2";"8.1"
-"Meerrettich frisch";"Gemüse und Gemüseerzeugnisse";"64";"0.3";"11.7";"11.7";"2.8";"7.5";"74.9";"0";"2.2";"0.7";"10.1"
-"Pommes frites mit Mayonnaise";"Menükomponenten";"227";"17.7";"14.8";"14.8";"2.1";"1.2";"61.8";"0";"1.8";"0.6";"5.9"
-"Vollkornbrot-Weizen, Roggenvollkornschrottoastbrot";"Brot- und Kleingebäck";"241";"3.8";"42.9";"42.9";"8.2";"7.6";"35.1";"0";"2.3";"0.1";"5.4"
-"Heidelbeere Konfitüre";"Früchte, Obst und Obsterzeugnisse";"271";"0.2";"65.8";"65.8";"0.2";"1.8";"31.3";"0";"0.1";"0.5";"0.4"
-"Linsensuppe (Zubereitung Haushalt)";"Menükomponenten";"65";"1.8";"7";NA;"5.2";"1.7";"82.8";"0";"1.1";"0.1";"0.1"
-"Gorgonzola";"Milch, Milcherzeugnisse, Käse";"356";"31.2";"0";NA;"19.4";"0";"43.5";"0";"5.3";"0.6";"8.7"
-"Miso";"Vegetarische Produkte";"115";"6.1";"4.7";"4.7";"10.5";"10.5";"55.5";"0";"12.7";"0";"5.6"
-"Brühwurst mit Fleischeinlage (nicht umgerötet)";"Wurst, Fleischwaren";"276";"23.2";"0.2";"0.2";"17.3";"0.1";"56.5";"0";"2.8";"0";"7.4"
-"Geflügelmortadella fettarm";"Wurst, Fleischwaren";"236";"19.1";"4";NA;"12.6";"0.1";"62.7";"0";"1.4";"0.1";"7.9"
-"Schweinebauch in Aspik";"Wurst, Fleischwaren";"153";"9.4";"1";NA;"16.1";"0";"67.7";"0";"5.8";"0";"6.6"
-"Linsen reif Konserve";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";"77";"0.3";"12.3";"12.3";"5.8";"2.6";"76.9";"0";"1.3";"0.1";"1.1"
-"Trüffelmosaikpastete";"Wurst, Fleischwaren";"261";"22";"0.3";"0.3";"15.9";"0.1";"58.6";"0";"3";"0.1";"6.2"
-"Frikadelle (Zubereitung Großküche)";"Menükomponenten";"156";"5.9";"5";NA;"20.5";"0.5";"66.3";"0";"1.8";"0";"10.6"
-"Mais";"Cerealien, Getreide und Getreideprodukte, Reis";"331";"3.8";"64.7";"64.7";"8.5";"9.2";"12.3";"0";"1.3";"0";"3.4"
-"Dosenschinken";"Wurst, Fleischwaren";"121";"4.3";"1.1";"1.1";"19.5";"0";"71.9";"0";"3.3";"0";"10"
-"Champignonpastete";"Wurst, Fleischwaren";"259";"21";"0.3";"0.2";"17.7";"0.3";"57.4";"0";"3.2";"0.1";"6.4"
-"Kichererbsen";"Gemüse und Gemüseerzeugnisse";"141";"2.7";"21.2";"21.2";"7.5";"4.4";"61.4";"0";"1.3";"0.3";"3.7"
-"Sardine Konserve in Öl, abgetropft";"Fische, Krusten-, Schalen-, Weichtiere";"221";"13.9";"0";NA;"24.1";"0";"58.4";"0";"3.6";"0";"14.7"
-"Eierpastete";"Wurst, Fleischwaren";"286";"24.3";"0.5";"0.5";"16.8";"0.2";"55";"0";"3";"0.1";"7.3"
-"Pflaumen frisch";"Früchte, Obst und Obsterzeugnisse";"47";"0.2";"10.2";"8.8";"0.6";"1.7";"85.6";"0";"0.5";"1.3";"4.1"
-"Gurke";"Gemüse und Gemüseerzeugnisse";"12";"0.2";"1.8";"1.8";"0.6";"0.5";"96";"0";"0.6";"0.3";"2.2"
-"Landjäger Würste";"Wurst, Fleischwaren";"456";"44.4";"0.4";"0.4";"15.2";"0";"36.2";"0";"3.8";"0";"6.5"
-"Rotkohl Konserve gegart";"Gemüse und Gemüseerzeugnisse";"15";"0.2";"2";NA;"1.3";"2.2";"93.2";"0";"1";"0.2";"0.8"
-"Buschbohnen grün frisch";"Gemüse und Gemüseerzeugnisse";"25";"0.2";"3.2";"3.2";"2.4";"3";"88.7";"0";"0.7";"0.2";"-4"
-"Plockwurst";"Wurst, Fleischwaren";"432";"37";"0.3";"0.3";"25.6";"0.1";"31.5";"0";"5.6";"0";"10.8"
-"Rote Rübe frisch";"Gemüse und Gemüseerzeugnisse";"42";"0.1";"8.4";"8.4";"1.5";"2.5";"86.3";"0";"1";"0.2";"5.7"
-"Putenschnitzel ""italienische Art"" (Zubereitung Gastronomie)";"Menükomponenten";"188";"9.4";"6.6";"6.6";"19.1";"0.4";"62.9";"0";"1.5";"0";"9.6"
-"Leinsamen geschrotet";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";"450";"36.9";"7.8";"7.8";"22.5";"21.8";"7.6";"0";"3.4";"0";"4.3"
-"Lebkuchenteigbackwaren";"Kuchen, Feinbackwaren, Dauerbackwaren";"412";"19.8";"49.4";"49.4";"8.8";"5.2";"15.2";"0";"1.2";"0.4";"1.1"
-"Champignonpastete mit Mürbeteig";"Wurst, Fleischwaren";"315";"26.2";"9";NA;"11.4";"0.7";"49.8";"0";"2.8";"0";"4.1"
-"Schweinegrillschnitten                   ";"Wurst, Fleischwaren";"188";"11.2";"1";NA;"21";"0.3";"62.5";"0";"3.9";"0";"7.5"
-"Schwein Filet (mager) frisch";"Fleisch (Rind, Kalb, Schwein, Hammel, Lamm)";"107";"2";"0";NA;"22";"0";"74.8";"0";"1.2";"0";"9"
-"Filetblutwurst";"Wurst, Fleischwaren";"247";"17.4";"0.6";"0.6";"22.4";"0";"54.8";"0";"4.8";"0";"10.4"
-"Hanfnussöl";"Fette, Öle, Butter, Schmalz";"898";"99.8";"0";NA;"0";"0";"0.2";"0";"0";"0";"0"
-"Apfel-Streuselkuchen aus Mürbeteig fettreich";"Kuchen, Feinbackwaren, Dauerbackwaren";"232";"11";"31.2";"30.8";"2";"1.8";"53.4";"0";"0.3";"0.4";"0.9"
-"Hühnerei Vollei";"Eier und Eierprodukte, Teigwaren";"154";"11.2";"0.7";"0.7";"12.9";"0";"74.1";"0";"1.1";"0";"10.2"
-"Sardine Konserve abgetropft";"Fische, Krusten-, Schalen-, Weichtiere";"117";"4.5";"0";NA;"19.1";"0";"72.9";"0";"3.4";"0";"8.5"
-"Cervelatwurst";"Wurst, Fleischwaren";"369";"32.4";"0.3";"0.3";"20.1";"0.1";"42.8";"0";"4.3";"0";"8.3"
-"Kalbfleischwurst";"Wurst, Fleischwaren";"321";"30.1";"0.2";"0.2";"13.4";"0";"53.4";"0";"2.9";"0";"6.1"
-"Hirse roh";"Cerealien, Getreide und Getreideprodukte, Reis";"357";"3.9";"68.8";"68.8";"10.6";"3.9";"10.5";"0";"1.6";"0";"8.4"
-"Eisbergsalat";"Gemüse und Gemüseerzeugnisse";"13";"0.2";"1.6";"1.6";"1";"1.8";"94.6";"0";"0.5";"0.3";"2.6"
-"Petersilienblatt frisch";"Gemüse und Gemüseerzeugnisse";"53";"0.4";"7.4";"7.4";"4.4";"4.3";"81.1";"0";"2.1";"0.4";"18.3"
-"Mandelmus";"Vegetarische Produkte";"664";"59.1";"19.7";"19.7";"15.1";"1.5";"1";"0";"3.6";"0";"3.2"
-"Paranuss";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";"660";"66.8";"3.6";"3.6";"13.6";"8.1";"4.3";"0";"3.6";"0";"12.2"
-"Zander tiefgefroren";"Fische, Krusten-, Schalen-, Weichtiere";"84";"0.7";"0";NA;"19.2";"0";"78.9";"0";"1.2";"0";"7.4"
-"Brie Vollfettstufe";"Milch, Milcherzeugnisse, Käse";"284";"22.4";"0";NA;"21";"0";"52";"0";"4.2";"0.4";"15.8"
-"Erdnussbutter, -mus";"Fette, Öle, Butter, Schmalz";"597";"50";"12.2";"12.2";"26.1";"7.6";"0.7";"0";"3.4";"0";"4.8"
-"Fenchel";"Gemüse und Gemüseerzeugnisse";"19";"0.2";"3";"2.9";"1.4";"2";"92.4";"0";"1";"0";"6.5"
-"Lamm Leber roh";"Fleisch (Wild, Geflügel, Federwild, Innereien)";"134";"5";"1.8";"1.8";"20.4";"0";"71.4";"0";"1.4";"0";"16.3"
-"Quark";"Milch, Milcherzeugnisse, Käse";"75";"0.2";"4";NA;"13.5";"0";"80.7";"0";"0.9";"0.8";"8.9"
-"Apfelkuchen aus Rührmasse";"Kuchen, Feinbackwaren, Dauerbackwaren";"214";"9.5";"28.4";NA;"3.4";"1.6";"56.2";"0";"0.5";"0.3";"1.9"
-"Kuhmilch Trinkmilch fettarm";"Milch, Milcherzeugnisse, Käse";"48";"1.6";"4.9";"4.9";"3.4";"0";"89.2";"0";"0.7";"0.2";"0.2"
-"Puderzucker";"Süßwaren, Zucker, Bonbons, Schokolade, Brotaufstrich süß, Eis";"405";"0";"99.8";"99.8";"0";"0";"0.1";"0";"0";"0";"0.1"
-"Brathähnchen Schenkel roh";"Fleisch (Wild, Geflügel, Federwild, Innereien)";"173";"11.2";"0";NA;"18.2";"0";"69.5";"0";"1.1";"0";"9.6"
-"Pökelwaren Eisbein";"Wurst, Fleischwaren";"154";"9.1";"0.9";"0.9";"17.2";"0";"65.9";"0";"6.8";"0";"6.3"
-"Granatapfel frisch";"Früchte, Obst und Obsterzeugnisse";"78";"0.6";"16.7";"16.7";"0.7";"2.2";"78.5";"0";"0.7";"0.6";"5.3"
-"Dinkelbrot (Vollkornbrot)";"Brot- und Kleingebäck";"234";"3.5";"39.5";"39.5";"10.4";"4.4";"40.1";"0";"2.1";"0";"4.9"
-"Distelöl (Safloröl)";"Fette, Öle, Butter, Schmalz";"879";"99.5";"0";NA;"0";"0";"0.5";"0";"0";"0";"0"
-"Pute frisch";"Fleisch (Wild, Geflügel, Federwild, Innereien)";"216";"15";"0";NA;"20.6";"0";"63.2";"0";"1.2";"0";"11.1"
-"Chinakohl frisch gegart";"Gemüse und Gemüseerzeugnisse";"12";"0.3";"0.9";"0.9";"1.1";"1.9";"94.8";"0";"0.6";"0.4";"0.7"
-"Bleichsellerie Gemüsesaft";"Gemüse und Gemüseerzeugnisse";"14";"0.2";"1.8";"1.6";"1";"0.3";"94.6";"0";"1.6";"0.5";"5.7"
-"Zwetschge Konfitüre";"Früchte, Obst und Obsterzeugnisse";"272";"0";"66.3";"66.3";"0.2";"0.8";"31.9";"0";"0.2";"0.5";"1.6"
-"Hering frisch Fischzuschnitt";"Fische, Krusten-, Schalen-, Weichtiere";"206";"15";"0";NA;"18.2";"0";"65.3";"0";"1.5";"0";"9.1"
-"Erbsen grün tiefgefroren gegart";"Gemüse und Gemüseerzeugnisse";"84";"0.5";"12.4";"12.4";"6.9";"5.5";"73.5";"0";"0.9";"0.3";"0.9"
-"Milchreis (Zubereitung Gastronomie)";"Menükomponenten";"129";"2.9";"21.4";"21.4";"3.9";"0.3";"70.7";"0";"0.7";"0.2";"0.8"
-"Reisbrot";"Brot- und Kleingebäck";"235";"1.7";"47";NA;"7.2";"3.6";"38.5";"0";"2.1";"0";"4.5"
-"Weizenkeimöl";"Fette, Öle, Butter, Schmalz";"879";"99.5";"0";NA;"0";"0";"0.5";"0";"0";"0";"0"
-"Pinienkern";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";"575";"50.7";"7.3";"7.3";"24";"7.2";"6.4";"0";"4.4";"0";"11.6"
-"Dattel frisch";"Früchte, Obst und Obsterzeugnisse";"280";"0.5";"65";NA;"2";"8.7";"21.4";"0";"1.2";"1.3";"12.6"
-"Hirse Korn geschält roh";"Cerealien, Getreide und Getreideprodukte, Reis";"357";"3.9";"68.8";"68.8";"10.6";"3.9";"10.5";"0";"1.6";"0";"8.4"
-"Edelkastanien (Maronen) geröstet";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";"261";"10.9";"37.8";"37.8";"2.7";"7.7";"39.9";"0";"1.1";"0";"10.8"
-"Tee grün (Getränk)";"Alkoholfreie Getränke";"0";"0";"0";NA;"0.1";"0";"99.8";"0";"0.1";"0";"0.5"
-"Schlackwurst";"Wurst, Fleischwaren";"391";"36.5";"0.6";"0.6";"16.4";"0";"42.8";"0";"3.8";"0";"6.7"
-"Brathähnchen Brustfilet gebraten (zubereitet ohne Fett)";"Fleisch (Wild, Geflügel, Federwild, Innereien)";"115";"0.7";"0";NA;"26.8";"0";"71.3";"0";"1.2";"0";"14.8"
-"Graubrot-Roggenmischbrot mit Sonnenblumenkernen";"Brot- und Kleingebäck";"226";"2.9";"42.9";"42.9";"6.4";"4.8";"41.1";"0";"1.7";"0.1";"3"
-"Wassermelone roh";"Früchte, Obst und Obsterzeugnisse";"38";"0.2";"8.3";"8.3";"0.6";"0.2";"90.2";"0";"0.4";"0.1";"-2"
-"Knäckebrot-Roggenmischbrot mit Leinsamen";"Brot- und Kleingebäck";"343";"3.3";"66.9";"66.9";"10.2";"9.6";"7";"0";"2.7";"0.1";"5.2"
-"Rind Niere frisch";"Fleisch (Wild, Geflügel, Federwild, Innereien)";"96";"3.3";"0.9";"0.9";"15.7";"0";"78.9";"0";"1.2";"0";"11.4"
-"Porree frisch gegart";"Gemüse und Gemüseerzeugnisse";"23";"0.3";"2.5";"2.4";"2.3";"2.3";"90.8";"0";"0.8";"0.2";"1.5"
-"Kartoffeln ungeschält roh";"Kartoffeln und Kartoffelerzeugnisse, stärkereiche Pflanzenteile, Pilze";"73";"0";"15.6";"15.6";"1.9";"1.2";"79.6";"0";"1";"0.6";"6.6"
-"Haselnuss geröstet";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";"671";"66.7";"5.4";"5.4";"14.8";"7";"3.8";"0";"2.3";"0";"2.9"
-"Dattel";"Früchte, Obst und Obsterzeugnisse";"280";"0.5";"65";NA;"2";"8.7";"21.4";"0";"1.2";"1.3";"12.6"
-"Kümmelwurst Rohwurst";"Wurst, Fleischwaren";"308";"27.8";"0.2";"0.2";"15.2";"0";"53.2";"0";"3.6";"0";"6.5"
-"Thüringer Rotwurst";"Wurst, Fleischwaren";"173";"10.2";"0.2";"0.2";"20.2";"0";"66.5";"0";"2.8";"0";"8.8"
-"Mandeldrink ungesüßt";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";"13";"1.1";"0";NA;"0.4";"0.3";"97.4";"0";"0.5";"250";"5.8"
-"Reis Kleie";"Cerealien, Getreide und Getreideprodukte, Reis";"379";"15.8";"45.7";"45.7";"13.3";"12";"9.7";"0";"3.5";"0";"24.9"
-"Kartoffelsuppe (Zubereitung Haushalt)";"Menükomponenten";"42";"1.4";"6.3";"6.3";"0.9";"0.9";"89.5";"0";"0.9";"0.2";"-2"
-"Buchweizenvollkornbrot";"Brot- und Kleingebäck";"215";"1.4";"42.8";"42.8";"7.1";"5.2";"41.2";"0";"2.4";"0";"4.8"
-"Burgunder Schinken in Aspik";"Wurst, Fleischwaren";"120";"2.3";"0.2";"0.2";"24.3";"0.1";"71.7";"0";"1.4";"0";"8.6"
-"Sesam geröstet";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";"600";"54.9";"9.3";"9.3";"19";"10.2";"1.8";"0";"4.8";"0";"3.6"
-"Zungenpreßkopf";"Wurst, Fleischwaren";"257";"22.5";"1.2";"1.2";"13.2";"0.1";"58.2";"0";"4.8";"0";"6.6"
-"Preßköpfe";"Wurst, Fleischwaren";"285";"23.8";"0.3";"0.3";"18";"0.1";"54.5";"0";"3.3";"0.1";"7.2"
-"Kasseler Kamm roh geräuchert";"Wurst, Fleischwaren";"155";"7.5";"0.9";"0.9";"20.9";"0";"67.5";"0";"3.2";"0";"8.9"
-"Glühwein";"Alkoholische Getränke";"105";"0";"14.8";"14.8";"0.2";"0.1";"78.3";"6.2";"0.2";"0.3";"0.9"
-"Walnussöl";"Fette, Öle, Butter, Schmalz";"879";"99.5";"0";NA;"0";"0";"0.5";"0";"0";"0";"0"
-"Kokosnuss Mehl";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";"360";"14";"20";NA;"21";"35";"8.5";"0";"1.5";"0";"4.9"
-"Fladenbrote";"Brot- und Kleingebäck";"235";"1.3";"48.1";"48.1";"7.1";"3";"39.1";"0";"1.5";"0";"3.5"
-"Graubrot mit Käse";"Brot- und Kleingebäck";"214";"1.5";"43.1";"43.1";"6.2";"4.6";"42.7";"0";"1.7";"0.1";"3.2"
-"Schinkenpreßkopf";"Wurst, Fleischwaren";"210";"15.6";"0.3";"0.3";"17.4";"0.1";"63.3";"0";"3.4";"0";"6.5"
-"Graubrot-Roggentoastbrot";"Brot- und Kleingebäck";"247";"3.5";"46.1";"46.1";"7.2";"6.1";"35";"0";"2.1";"0.1";"2.8"
-"Hirse Flocken";"Cerealien, Getreide und Getreideprodukte, Reis";"357";"3.9";"68.8";"68.8";"10.6";"3.9";"10.5";"0";"1.6";"0";"8.4"
-"Frühstücksfleisch";"Wurst, Fleischwaren";"289";"25.2";"0.3";"0.3";"16";"0.1";"55.7";"0";"2.7";"0.1";"6.1"
-"Moosbeere frisch";"Früchte, Obst und Obsterzeugnisse";"36";"0.7";"3.9";"3.9";"0.4";"3.8";"87.1";"0";"0.2";"3.9";"1.7"
-"Saure Sahne 20 % Fett";"Milch, Milcherzeugnisse, Käse";"204";"20";"3.4";"3.4";"2.8";"0";"72.6";"0";"0.5";"0.7";"0"
-"Olivenpastete";"Wurst, Fleischwaren";"275";"23.9";"0.8";"0.8";"14.7";"0.9";"56.5";"0";"3";"0.1";"5.5"
-"Hühnerei Vollei frisch";"Eier und Eierprodukte, Teigwaren";"154";"11.2";"0.7";"0.7";"12.9";"0";"74.1";"0";"1.1";"0";"10.2"
-"Cabanossi (Brühwurst)";"Wurst, Fleischwaren";"331";"30.9";"0.3";"0.3";"13.7";"0.1";"52.1";"0";"2.7";"0.1";"5.6"
-"Gemüsepaprika rot";"Gemüse und Gemüseerzeugnisse";"37";"0.5";"6.4";"6.4";"1.3";"3.6";"87.3";"0";"0.6";"0.3";"4.2"
-"Lasagne al forno (Zubereitung Gastronomie)";"Menükomponenten";"150";"9.7";"7.6";"7.6";"8.3";"0.7";"72.1";"0";"1.5";"0.1";"3.4"
-"Straßburger Gänseleberwurst";"Wurst, Fleischwaren";"244";"17";"3.1";"3.1";"20";"0.1";"56.2";"0";"3.5";"0.1";"13.4"
-"Joghurt teilentrahmt";"Milch, Milcherzeugnisse, Käse";"46";"1.5";"4.1";"4.1";"3.4";"0";"89.5";"0";"0.8";"0.8";"0.4"
-"Garnele frisch";"Fische, Krusten-, Schalen-, Weichtiere";"102";"1.7";"0.9";"0.9";"20.3";"0";"75.8";"0";"1.2";"0";"12"
-"Brühwurst";"Wurst, Fleischwaren";"296";"26.4";"0.3";"0.3";"15.2";"0.1";"55.1";"0";"2.9";"0.1";"6.4"
-"Spitzpaprika rot";"Gemüse und Gemüseerzeugnisse";"37";"0.5";"6.4";"6.4";"1.3";"3.6";"87.3";"0";"0.6";"0.3";"4.2"
-"Zungenwurst hell";"Wurst, Fleischwaren";"265";"22.3";"0.7";"0.7";"15.9";"0.2";"57.5";"0";"3.4";"0";"6.8"
-"Kaffee mit Kondensmilch und Zucker (Getränk)";"Alkoholfreie Getränke";"14";"0.2";"2.5";"2.5";"0.4";"0";"96.7";"0";"0.1";"0";"1.3"
-"Rinderbierschinken";"Wurst, Fleischwaren";"194";"12";"0.2";"0.2";"21.4";"0";"63.1";"0";"3.2";"0.1";"9"
-"Geflügelfleischkäse gekocht";"Wurst, Fleischwaren";"176";"6.7";"0.4";"0.4";"28.4";"0.1";"60.6";"0";"3.8";"0";"14.3"
-"Hafer Vollkornflocken";"Cerealien, Getreide und Getreideprodukte, Reis";"354";"6.7";"59.5";"59.5";"13.2";"9.7";"10.1";"0";"0.9";"0";"7.1"
-"Zuckermelone - Honigmelone";"Früchte, Obst und Obsterzeugnisse";"55";"0.1";"12.4";"12.4";"0.9";"0.7";"85.4";"0";"0.4";"0.1";"5.7"
-"Füllung für Spanferkel";"Wurst, Fleischwaren";"221";"15.6";"6.6";"6.6";"13.7";"1";"60.4";"0";"2.4";"0.2";"5.8"
-"Getrüffelte Zungenpastete";"Wurst, Fleischwaren";"312";"25.8";"7.6";"7.4";"13.2";"1.2";"50";"0";"2.1";"0";"5.7"
-"Gurke frisch";"Gemüse und Gemüseerzeugnisse";"12";"0.2";"1.8";"1.8";"0.6";"0.5";"96";"0";"0.6";"0.3";"2.2"
-"Casein";"Milch, Milcherzeugnisse, Käse";"338";"0.8";"0";NA;"81.5";"0";"16";"0";"1.7";"0";"63.2"
-"Schwein Speck und Schinken";"Wurst, Fleischwaren";"152";"7.7";"0";NA;"20.7";"0";"70.6";"0";"1";"0";"9.5"
-"Makrele geräuchert";"Fische, Krusten-, Schalen-, Weichtiere";"335";"29.2";"0";NA;"18.9";"0";"50.8";"0";"2.6";"0";"9"
-"Zungenblutwurst";"Wurst, Fleischwaren";"293";"23.6";"1.2";"1.2";"19.4";"0.1";"51.3";"0";"4.3";"0";"10.3"
-"Lupinenmehl";"Gemüse und Gemüseerzeugnisse";"340";"8.1";"11.5";"11.5";"38.4";"29.5";"6.2";"0";"2.1";"628";"5.8"
-"Eiscreme";"Süßwaren, Zucker, Bonbons, Schokolade, Brotaufstrich süß, Eis";"160";"2.7";"30.7";"30.7";"2.6";"0";"63";"0";"0.8";"0.3";"0.4"
-"Wurst";"Wurst, Fleischwaren";"355";"30.8";"0.2";"0.2";"20.1";"0.1";"44.5";"0";"4.3";"0";"8.3"
-"Pastinake roh";"Gemüse und Gemüseerzeugnisse";"59";"0.4";"12.1";"12.1";"1.3";"2.1";"81.8";"0";"1.2";"0.5";"8.6"
-"Olivenöl";"Fette, Öle, Butter, Schmalz";"881";"99.6";"0.2";"0.2";"0";"0";"0.1";"0";"0.2";"0";"0"
-"Schinken-Käsesülze";"Wurst, Fleischwaren";"145";"7.7";"1.5";"1.5";"17.4";"0.1";"70.2";"0";"2.8";"0.3";"8.5"
-"Kartoffelstärke Mehl";"Kartoffeln und Kartoffelerzeugnisse, stärkereiche Pflanzenteile, Pilze";"341";"0.1";"83.1";"83.1";"0.6";"0.1";"15.7";"0";"0.4";"0.1";"0.4"
-"Mandeldrink gesüßt";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";"22";"1.1";"2.4";"2.4";"0.4";"0.4";"95.3";"0";"0.4";"40";"0.9"
-"Füllung für Kalbsbrust";"Wurst, Fleischwaren";"258";"20.6";"6.1";"6.1";"12.6";"0.4";"58";"0";"2.4";"0";"5.1"
-"Blattspinat gegart";"Gemüse und Gemüseerzeugnisse";"19";"0.3";"0.5";"0.5";"2.8";"3";"91";"0";"1.5";"0.9";"7.6"
-"Erdbeere frisch";"Früchte, Obst und Obsterzeugnisse";"32";"0.4";"5.5";"5.4";"0.8";"2";"89.8";"0";"0.5";"1";"2.4"
-"Tilsiter";"Milch, Milcherzeugnisse, Käse";"354";"27.7";"0";NA;"26.3";"0";"40.3";"0";"4.9";"0.8";"18.6"
-"Wiener Schnitzel (Zubereitung Großküche)";"Menükomponenten";"211";"7.6";"17.3";"17.3";"18.1";"1.1";"54.3";"0";"1.5";"0.1";"9.6"
-"Graupenblutwurst";"Wurst, Fleischwaren";"283";"20.3";"16.4";"16.4";"9";"1.2";"50.8";"0";"2.3";"0";"2.9"
-"Schupfnudeln (Zubereitung Haushalt)";"Menükomponenten";"127";"2";"21.6";"21.6";"5";"2.2";"67.7";"0";"1.1";"0.4";"0.8"
-"Kasseler Rippenspeer roh geräuchert";"Wurst, Fleischwaren";"147";"8.3";"0.9";"0.9";"17.4";"0";"66.6";"0";"6.9";"0";"7"
-"Limette Fruchtsaft";"Früchte, Obst und Obsterzeugnisse";"92";"1.7";"15.3";"15.3";"0.4";"0.1";"78";"0";"0.2";"4.4";"1.3"
-"Blumenkohl gedämpft";"Gemüse und Gemüseerzeugnisse";"24";"0.3";"2.5";"2.4";"2.6";"3.1";"90.6";"0";"0.8";"0.2";"3.1"
-"Putenbrust gebraten, mit Soße (Zubereitung Großküche)";"Menükomponenten";"68";"1.6";"2.8";"2.7";"10.5";"0.8";"82.9";"0";"1.3";"0.1";"2.7"
-"Preßsäckel";"Wurst, Fleischwaren";"285";"23.8";"0.3";"0.3";"18";"0.1";"54.5";"0";"3.3";"0.1";"7.2"
-"Vollkornbrot-Roggenvollkornbrot";"Brot- und Kleingebäck";"188";"1";"37.6";"37.6";"6.5";"8.7";"44.1";"0";"2.1";"0.1";"3.9"
-"Sauermilchkäse (Harzer) Magerstufe";"Milch, Milcherzeugnisse, Käse";"131";"0.7";"0";NA;"30";"0";"63.6";"0";"4.7";"1";"19.9"
-"Mandel süß Mehl";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";"610";"54.9";"5.9";"5.9";"24.9";"8.2";"4.7";"0";"1.4";"0";"3.7"
-"Rettich weiß frisch";"Gemüse und Gemüseerzeugnisse";"14";"0.2";"1.9";"1.9";"1.1";"2.5";"93.5";"0";"0.7";"0.1";"-6"
-"Pute Brust frisch";"Fleisch (Wild, Geflügel, Federwild, Innereien)";"107";"1";"0";NA;"24.1";"0";"73.7";"0";"1.2";"0";"11.6"
-"Zwiebeln";"Gemüse und Gemüseerzeugnisse";"28";"0.3";"4.9";"4.9";"1.2";"1.4";"91.5";"0";"0.5";"0.2";"2.2"
-"Grapefruit Fruchtsaft";"Früchte, Obst und Obsterzeugnisse";"48";"0.1";"8.5";"8.5";"0.5";"0.1";"87.3";"0";"0.3";"3.2";"2.8"
-"Orange Fruchtsaft";"Früchte, Obst und Obsterzeugnisse";"45";"0.2";"8.8";"8.8";"0.9";"0.2";"88.2";"0";"0.5";"1.3";"2.9"
-"Cabanossi Konserve";"Wurst, Fleischwaren";"331";"30.9";"0.3";"0.3";"13.7";"0.1";"52.1";"0";"2.7";"0.1";"5.6"
-"Puffreis";"Cerealien, Getreide und Getreideprodukte, Reis";"390";"2.3";"83.5";"83.5";"7.5";"2";"2.5";"0";"2.2";"0";"4.3"
-"Kartoffeln ungeschält roh gegart mit Küchenabfall";"Kartoffeln und Kartoffelerzeugnisse, stärkereiche Pflanzenteile, Pilze";"56";"0";"12";NA;"1.5";"1";"64";"0";"0.7";"0.4";"4.6"
-"Blumenkohl gekocht";"Gemüse und Gemüseerzeugnisse";"19";"0.3";"2";NA;"2";"2.4";"92.7";"0";"0.6";"0.1";"1.4"
-"Walnuss europäisch";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";"654";"62.5";"10.6";"10.6";"14.4";"6.1";"4.4";"0";"2";"0";"6.3"
-"Rind Herz frisch";"Fleisch (Wild, Geflügel, Federwild, Innereien)";"97";"2.7";"0.6";"0.6";"17.5";"0";"78.2";"0";"1.1";"0";"9.7"
-"Sardelle Konserve";"Fische, Krusten-, Schalen-, Weichtiere";"80";"1.8";"0";NA;"15.8";"0";"79";"0";"3.4";"0";"6.5"
-"Hühnerei Eiweiß frisch gegart";"Eier und Eierprodukte, Teigwaren";"48";"0.2";"0.7";"0.7";"10.6";"0";"87.8";"0";"0.7";"0";"3.4"
-"Konfitüre, Marmelade mit Fruchtzucker für Diabetiker";"Diätetische Lebensmittel";"109";"0.1";"29.5";"20.4";"0.4";"0.3";"68.9";"0";"0.2";"0.6";"0.6"
-"Schinkentorte";"Wurst, Fleischwaren";"122";"5.1";"2.5";"2.5";"16.4";"0.5";"72.6";"0";"2.7";"0.2";"5.6"
-"Sülzwürste";"Wurst, Fleischwaren";"171";"8.3";"0.4";"0.4";"23.5";"0.1";"64.9";"0";"2.8";"0";"9.7"
-"Wiener Würstchen Konserve";"Wurst, Fleischwaren";"304";"27.7";"0.2";"0.2";"14.4";"0.1";"54.7";"0";"2.9";"0.1";"5.9"
-"Fenchelgemüse gedünstet (Zubereitung Haushalt)";"Menükomponenten";"65";"4.4";"2.9";"2.9";"3.4";"4.3";"82.5";"0";"2.4";"0.2";"9.5"
-"Skyr";"Milch, Milcherzeugnisse, Käse";"63";"0.5";"4.3";"4.3";"10";"0.5";"84.1";"0";"0.6";"0";"7.1"
-"Bierschinken-Pastete";"Wurst, Fleischwaren";"261";"17.8";"7.9";"7.9";"17.6";"0.6";"51.6";"0";"4.5";"0";"6.9"
-"Parmesan";"Milch, Milcherzeugnisse, Käse";"440";"34.8";"0";NA;"32.3";"0";"27";"0";"5.5";"0.4";"24.7"
-"Köhler tiefgefroren gegart";"Fische, Krusten-, Schalen-, Weichtiere";"96";"1.1";"0";NA;"21.3";"0";"76.4";"0";"1.2";"0";"10"
-"Rotkohl frisch gegart";"Gemüse und Gemüseerzeugnisse";"18";"0.2";"2.5";"2.5";"1.4";"2.4";"92.8";"0";"0.5";"0.2";"1.9"
-"Bierschinken, Schinkenpastete";"Wurst, Fleischwaren";"180";"11.9";"0.1";"0.1";"18.3";"0";"67";"0";"2.6";"0.1";"7.1"
-"Brötchen-Weizenbrötchen";"Brot- und Kleingebäck";"248";"1.4";"50.7";"50.7";"7.4";"3.2";"35.8";"0";"1.5";"0";"3.7"
-"Curry-Bratwurst";"Wurst, Fleischwaren";"273";"25.1";"0.3";"0.3";"12.2";"0.1";"59.7";"0";"2.6";"0";"4.8"
-"Ricotta Vollfettstufe";"Milch, Milcherzeugnisse, Käse";"164";"13";"0.5";"0.5";"11.3";"0";"72.1";"0";"2.7";"0.5";"6.2"
-"Rind Gulasch (mager) frisch gegart";"Fleisch (Rind, Kalb, Schwein, Hammel, Lamm)";"157";"4.8";"0";NA;"28.4";"0";"65.9";"0";"1";"0";"16.7"
-"Fleischwurst, Stadtwurst";"Wurst, Fleischwaren";"283";"25.3";"0.2";"0.2";"14.2";"0.1";"57.3";"0";"2.7";"0.1";"6"
-"Mettwurst grob";"Wurst, Fleischwaren";"311";"27.4";"0.2";"0.2";"16.9";"0.1";"52.5";"0";"3.1";"0";"6.8"
-"Schwartenmagen";"Wurst, Fleischwaren";"181";"11.1";"0.7";"0.7";"19.5";"0.1";"62.5";"0";"5.9";"0.2";"6"
-"Brötchen mit Milch";"Brot- und Kleingebäck";"267";"2.5";"51.6";"51.6";"8.5";"3.1";"32.3";"0";"1.8";"0.1";"3.6"
-"Pute Truthahn gegart";"Fleisch (Wild, Geflügel, Federwild, Innereien)";"253";"16.2";"0";NA;"27";"0";"55.6";"0";"1.1";"0";"14.2"
-"Frischkäse Doppelrahmstufe";"Milch, Milcherzeugnisse, Käse";"335";"31.5";"2.5";"2.5";"11";"0";"53";"0";"1.4";"0.6";"7.7"
-"Edamer";"Milch, Milcherzeugnisse, Käse";"354";"28.3";"0";NA;"24.8";"0";"41.9";"0";"4";"1";"19.1"
-"Seitan (braun)";"Vegetarische Produkte";"137";"2.1";"7.8";"7.8";"21.6";"0.7";"66.5";"0";"1.3";"0";"10.2"
-"Bismarckhering Konserve, abgetropft";"Fische, Krusten-, Schalen-, Weichtiere";"180";"11.6";"3.2";"3.2";"15.5";"0.5";"66.9";"0";"1.9";"0.4";"7.7"
-"Tatar (Schabefleisch) frisch";"Fleisch (Rind, Kalb, Schwein, Hammel, Lamm)";"113";"3";"0";NA;"21.4";"0";"74.4";"0";"1.2";"0";"9.3"
-"Moosbeere";"Früchte, Obst und Obsterzeugnisse";"36";"0.7";"3.9";"3.9";"0.4";"3.8";"87.1";"0";"0.2";"3.9";"1.7"
-"Pfälzer, Augsburger, Regensburger";"Wurst, Fleischwaren";"331";"30.9";"0.3";"0.3";"13.7";"0.1";"52.1";"0";"2.7";"0.1";"5.6"
-"Weißer Fleischkäse";"Wurst, Fleischwaren";"291";"26.9";"0.1";"0.1";"13.1";"0";"57.4";"0";"2.4";"0";"5.3"
-"Schwein Rücken (Kotelett) (mittelfett) frisch gegart";"Fleisch (Rind, Kalb, Schwein, Hammel, Lamm)";"210";"10.6";"0";NA;"28.7";"0";"59.5";"0";"1.2";"0";"12.5"
-"Bratkartoffeln (Zubereitung Gastronomie)";"Menükomponenten";"108";"5";"13.4";"13.4";"1.9";"2.1";"75.8";"0";"1.2";"0.6";"4.6"
-"Xylit";"Diätetische Lebensmittel";"236";"0";"99";NA;"0";"0";"1";"0";"0";"0";"0"
-"Suppenhuhn Klein frisch gegart";"Fleisch (Wild, Geflügel, Federwild, Innereien)";"186";"9";"2.8";"2.8";"23.4";"0";"63.9";"0";"1";"0";"13.4"
-"Brötchen-Weizenmischbrötchen";"Brot- und Kleingebäck";"231";"0.9";"47.5";"47.5";"7.5";"4.5";"37.7";"0";"1.8";"0";"3.9"
-"Pizza tonno (Zubereitung Gastronomie)";"Menükomponenten";"201";"10.2";"21.9";"21.9";"5.3";"2";"58.8";"0";"1.5";"0.3";"0.5"
-"Haferflocken";"Cerealien, Getreide und Getreideprodukte, Reis";"354";"6.7";"59.5";"59.5";"13.2";"9.7";"10.1";"0";"0.9";"0";"7.1"
-"Kondensmilch 10 % Fett";"Milch, Milcherzeugnisse, Käse";"176";"10";"12.5";"12.5";"8.8";"0";"66.3";"0";"2";"0.4";"0.5"
-"Mettwurst schnittfeste Gruppe";"Wurst, Fleischwaren";"367";"34.8";"0.2";"0.2";"14.6";"0";"46.9";"0";"3.5";"0";"6"
-"Reisnudeln";"Cerealien, Getreide und Getreideprodukte, Reis";"357";"0.6";"83.2";"83.2";"3.4";"1.6";"10.3";"0";"0.9";"0";"6.2"
-"Kalbfleisch-Galantine";"Wurst, Fleischwaren";"120";"1.9";"0";NA;"25.5";"0";"69.3";"0";"3.2";"0";"12.5"
-"Kabeljau frisch Fischzuschnitt";"Fische, Krusten-, Schalen-, Weichtiere";"77";"0.7";"0";NA;"17.4";"0";"80.7";"0";"1.2";"0";"7.6"
-"Spätzle (Zubereitung Gastronomie)";"Menükomponenten";"130";"2.3";"21.6";"21.6";"5.3";"1.2";"69";"0";"0.5";"0";"3.3"
-"Wildbret-Galantine                     ";"Wurst, Fleischwaren";"195";"11.7";"0.1";"0.1";"22.3";"0";"62.1";"0";"3.7";"0";"10.2"
-"Champignon Konserve gegart abgetropft";"Kartoffeln und Kartoffelerzeugnisse, stärkereiche Pflanzenteile, Pilze";"14";"0.2";"0.4";"0.1";"2.6";"2";"92.9";"0";"1.6";"0.2";"0.1"
-"Sprotte frisch";"Fische, Krusten-, Schalen-, Weichtiere";"214";"16.6";"0";NA;"16.7";"0";"64.9";"0";"1.8";"0";"7.4"
-"Buchweizen Vollkorn";"Cerealien, Getreide und Getreideprodukte, Reis";"340";"1.7";"71";NA;"9.1";"9.9";"6.6";"0";"1.7";"0";"2.4"
-"Rührei (Zubereitung Haushalt)";"Menükomponenten";"164";"12.7";"1.5";"1.5";"11.1";"0";"73.2";"0";"1.4";"0";"8.3"
+name;Kategorie;Energie (kcal);Fett;Kohlenhydrate;Netto-Kohlenhydrate;Eiweiß, Proteingehalt;Ballaststoffe;Wasser;Alkohol (Ethanol);Mineralstoffe (Rohasche);organische Säuren;PRAL-Wert
+Hühnerei Vollei frisch;Eier und Eierprodukte, Teigwaren;154;11,2;0,7;0,7;12,9;0;74,1;0;1,1;0;10,2
+Gnocchi gekocht;Kartoffeln und Kartoffelerzeugnisse, stärkereiche Pflanzenteile, Pilze;150;0,5;31,9;31,9;3,6;1,9;61;0;0,6;0,4;0,3
+Kopfsalat mit Essigmarinade (Zubereitung Haushalt);Menükomponenten;110;11,3;1,1;1,1;0,9;1,2;84,2;0;0,9;0,4;2,8
+Salami Kroatische Art;Wurst, Fleischwaren;323;24,7;0,3;0,3;25,6;0,1;44,3;0;5,1;0;10,1
+Suppenhuhn Fleisch (mittelfett) frisch;Fleisch (Wild, Geflügel, Federwild, Innereien);257;20,3;0;NA;19;0;59,8;0;0,9;0;8,7
+Lyoner Wurst;Wurst, Fleischwaren;267;24,1;0,3;0,3;13;0,1;59;0;3,4;0,1;4,5
+Marzipan Rohmasse;Süßwaren, Zucker, Bonbons, Schokolade, Brotaufstrich süß, Eis;512;35,2;37,3;37,3;12,2;9,9;3,7;0;1,7;0;0,3
+Weintraube weiß frisch;Früchte, Obst und Obsterzeugnisse;71;0,3;15,6;15,4;0,7;0,8;81,3;0;0,5;0,8;3,4
+Kleber (Gluten);Cerealien, Getreide und Getreideprodukte, Reis;393;4;7;NA;81;1;6;0;1;0;39,7
+Rhabarber frisch;Früchte, Obst und Obsterzeugnisse;13;0,1;1,4;1,4;0,6;2,3;93,7;0;0,6;1,4;5,5
+Papaya;Früchte, Obst und Obsterzeugnisse;32;0,1;7,1;7,1;0,5;1,9;89,8;0;0,6;0,1;4,5
+Tomatensoße mit Tomatenmark (Zubereitung Gastronomie);Menükomponenten;126;8,2;9,7;9,7;3,3;2,1;74,5;0;1,8;0,3;10,5
+Geflügel Döner;Menükomponenten;164;2,6;21,9;21,9;12,8;1,6;59,7;0;1,4;0;5,8
+Walnüsse geröstet;Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen;675;65,9;9,6;9,6;13,1;5,6;4;0;1,8;0;5,7
+Gouda mind. 45% Fett i. Tr.;Milch, Milcherzeugnisse, Käse;364;30,8;0;NA;21,9;0;40,9;0;2,9;1;18,9
+Haferflockenbrei (Zubereitung Haushalt);Menükomponenten;133;5,5;15,6;15,6;4,8;0,5;72,5;0;0,8;0,2;1,8
+Kefir entrahmt;Milch, Milcherzeugnisse, Käse;38;0,1;4,2;4,2;3,4;0;90,2;0,5;0,8;0,8;0,3
+Lachsschinkenpastete;Wurst, Fleischwaren;250;19,9;0,5;0,5;17,6;0,1;57,5;0;4,3;0;6,6
+Mais-Fladenbrot;Brot- und Kleingebäck;222;1,8;45,5;45,5;5,2;1,9;43,6;0;2;0;5,9
+Roggen Vollkorn;Cerealien, Getreide und Getreideprodukte, Reis;294;1,7;59,7;59,7;9;14;13,7;0;1,9;0;3,1
+Schwein Schinken gekocht geräuchert;Wurst, Fleischwaren;121;4,3;1,1;1,1;19,5;0;71,9;0;3,3;0;10
+Blattspinat tiefgefroren;Gemüse und Gemüseerzeugnisse;18;0,3;0,5;0,5;2,6;2,7;91,5;0;1,5;0,8;12,3
+Weißkohl (Weißkraut) gegart;Gemüse und Gemüseerzeugnisse;20;0,2;3;NA;1,3;2,8;91,9;0;0,5;0,2;1,7
+Maiskeimöl;Fette, Öle, Butter, Schmalz;883;99,9;0;NA;0;0;0,1;0;0;0;0,2
+Brathähnchen Brustfilet roh;Fleisch (Wild, Geflügel, Federwild, Innereien);102;0,7;0;NA;23,6;0;74,6;0;1,2;0;12,9
+Schweineschmalz, -fett;Fette, Öle, Butter, Schmalz;882;99,7;0;NA;0,1;0;0,1;0;0,1;0;0,1
+Plockwurst einfach;Wurst, Fleischwaren;434;38,9;0,4;0,4;21,7;0,1;34,6;0;4,4;0;9,9
+Hirse ganzes Korn roh;Cerealien, Getreide und Getreideprodukte, Reis;331;3,6;64;NA;9,6;13;7,5;0;2;0;2,5
+Butterschmalz;Fette, Öle, Butter, Schmalz;880;99,5;0;NA;0,3;0;0,2;0;0,1;0;0
+Frikadelle (Zubereitung Gastronomie);Menükomponenten;165;8,3;3,6;3,6;19,1;0,5;66,9;0;1,7;0;9,5
+Kalb Leber roh;Fleisch (Wild, Geflügel, Federwild, Innereien);87;1,2;4,1;4,1;14,9;0;78,5;0;1,4;0;11,4
+Stockwurst;Wurst, Fleischwaren;259;21,5;0,5;0,5;16,5;0,1;58,3;0;3;0,1;6,8
+Bier;Alkoholische Getränke;42;0;3,1;3,1;0,5;0;92,2;4;0,2;0;0
+Camembert Doppelrahmstufe;Milch, Milcherzeugnisse, Käse;362;33,2;0;NA;16,8;0;46,5;0;3,3;0,2;11,2
+Schwein Filet (mager) frisch gegart;Fleisch (Rind, Kalb, Schwein, Hammel, Lamm);146;2,2;0;NA;31,1;0;65,4;0;1,3;0;14,7
+Schnittkäse;Milch, Milcherzeugnisse, Käse;354;28,3;0;NA;24,8;0;41,9;0;4;1;19,1
+Debreziner Konserve;Wurst, Fleischwaren;331;31;0,3;0,3;13,8;0,1;52,2;0;2,5;0,1;5,6
+Zucchini gedünstet mit Knoblauch (Zubereitung Haushalt);Menükomponenten;37;2,1;2,8;2,8;1,6;1,2;90,9;0;1,2;0,3;3,4
+Eier gekocht, gesalzen (Zubereitung Haushalt);Menükomponenten;154;11,2;0,7;0,7;12,9;0;73,9;0;1,4;0;10,9
+Rind Leber roh;Fleisch (Wild, Geflügel, Federwild, Innereien);132;3,7;5,3;5,3;19,2;0;70,3;0;1,6;0;14,6
+Krabbe klein (Shrimps) gegart;Fische, Krusten-, Schalen-, Weichtiere;93;1,5;0,8;0,8;18,9;0;77,4;0;1,4;0;9
+Wildreis gekocht;Cerealien, Getreide und Getreideprodukte, Reis;134;0,4;26,9;26,9;5,3;2,2;64,8;0;0,4;0;3,8
+Sülzwurst hervorhebend;Wurst, Fleischwaren;171;8,3;0,4;0,4;23,5;0,1;64,9;0;2,8;0;9,7
+Geflügelbratwurst;Wurst, Fleischwaren;115;2,8;0,3;0,3;21,9;0,1;71;0;3,8;0;10
+Weißer Preßkopf;Wurst, Fleischwaren;220;14,2;1,1;1,1;22,2;0,1;54,9;0;7,5;0;9,9
+Rind Hackfleisch frisch;Fleisch (Rind, Kalb, Schwein, Hammel, Lamm);202;13,6;0,5;0,5;19,7;0;65,2;0;1,1;0;8,8
+Sülzkotelett;Wurst, Fleischwaren;119;4,4;0,9;0,9;18,8;0;70,2;0;5,6;0;5,8
+Gänseleberkäse getrüffelt;Wurst, Fleischwaren;221;14,2;2,7;2,7;20,7;0;58,8;0;3,4;0,1;12,3
+Pommes frites mit Ketchup;Menükomponenten;139;6,2;18;NA;2,1;1,3;69,6;0;2,1;0,6;-7
+Mango tiefgefroren;Früchte, Obst und Obsterzeugnisse;63;0,5;13,4;13,4;0,6;1,8;82,6;0;0,5;0,6;-4
+Zwiebeln gebraten (zubereitet ohne Fett);Gemüse und Gemüseerzeugnisse;29;0,3;5,2;5,2;1,2;1,5;91,2;0;0,5;0,2;2,1
+Schnittkäse Vollfettstufe;Milch, Milcherzeugnisse, Käse;344;27;0;NA;25,3;0;42,7;0;4,1;1;19,4
+Zucker braun Rohzucker;Süßwaren, Zucker, Bonbons, Schokolade, Brotaufstrich süß, Eis;396;0;97,4;97,4;0;0;2,2;0;0,5;0;2,1
+Schinkenwurst Krakauer Art roh;Wurst, Fleischwaren;304;26,5;0,2;0,2;16,8;0,1;52,7;0;3,8;0;6,8
+Quark mit Kräutern Fettstufe;Milch, Milcherzeugnisse, Käse;113;4,7;11,8;11,8;5,5;2;74,4;0;1,2;0,4;2,2
+Pastete im Brotteig;Wurst, Fleischwaren;222;15,5;0,6;0,6;20,4;0;61,3;0;2,2;0;8,3
+Schwein Leber gegart;Fleisch (Wild, Geflügel, Federwild, Innereien);148;5,2;1,1;1,1;24;0;68,4;0;1,3;0;19,2
+Lauchzwiebel roh;Gemüse und Gemüseerzeugnisse;42;0,3;8,5;8,5;0,9;2,8;86,6;0;0,7;0,2;5,6
+Kartoffelpüree (Zubereitung Gastronomie);Menükomponenten;108;5,6;11,7;11,7;2,3;1,6;77,2;0;1,1;0,5;4,5
+Aprikose Konfitüre;Früchte, Obst und Obsterzeugnisse;250;0,1;60,6;60,4;0,3;0,6;37,5;0;0,3;0,5;1,2
+Klarer;Alkoholische Getränke;185;0;0;NA;0;0;73,3;26,7;0;0;0,2
+Gerste Perlgraupen;Cerealien, Getreide und Getreideprodukte, Reis;339;1,4;71;NA;9,7;4,6;12,2;0;1,2;0;5,9
+Lakritze;Süßwaren, Zucker, Bonbons, Schokolade, Brotaufstrich süß, Eis;375;0,9;86,2;86,2;4,3;1,9;5,9;0;0,7;0;0,6
+Westfälische grobe Mettwurst;Wurst, Fleischwaren;335;28,7;0,2;0,2;19,9;0;47,1;0;4,2;0;7,9
+Helle Zungenwurst Konserve;Wurst, Fleischwaren;265;22,3;0,7;0,7;15,9;0,2;57,5;0;3,4;0;6,8
+Schalotte roh;Gemüse und Gemüseerzeugnisse;22;0,2;3,3;3,3;1,5;1,5;92,5;0;0,8;0,2;4,6
+Cornflakes mit Zucker, Honig geröstet;Cerealien, Getreide und Getreideprodukte, Reis;353;0,5;79,3;79,3;6,5;3,6;6,9;0;3,2;0;2,3
+Haferdrink;Cerealien, Getreide und Getreideprodukte, Reis;46;1,5;6,7;6,7;1;0,8;89,6;0;0,3;20;0,5
+Spargel weiß gegart;Gemüse und Gemüseerzeugnisse;16;0,1;1,6;1,6;1,9;1,5;94,2;0;0,6;0,2;0,4
+Sojaerzeugnisse;Vegetarische Produkte;360;23,4;0,4;0,4;37,2;17,1;8,2;0;4,5;0,3;9,1
+Marmorkuchen aus Rührmasse;Kuchen, Feinbackwaren, Dauerbackwaren;391;21,7;42,9;42,9;6,2;1,6;26,8;0;0,7;0;6
+Weichkäse aus Ziegenmilch (45% Fett i. Tr.);Milch, Milcherzeugnisse, Käse;275;21,8;0;NA;20,1;0;53,6;0;4,2;0,3;15,8
+Landjäger;Wurst, Fleischwaren;456;44,4;0,4;0,4;15,2;0;36,2;0;3,8;0;6,5
+Zuckererbsen frisch;Gemüse und Gemüseerzeugnisse;59;0,2;10;NA;4;5;79,6;0;0,9;0,3;2,4
+Weizen Grieß gegart;Cerealien, Getreide und Getreideprodukte, Reis;29;0,1;6,1;6,1;1;0,7;92,1;0;0,1;0;0,4
+Feldsalat frisch;Gemüse und Gemüseerzeugnisse;14;0,4;0,7;0,7;1,8;1,8;94,2;0;0,8;0,3;6,9
+Hafer ganzes Korn roh;Cerealien, Getreide und Getreideprodukte, Reis;332;7,1;55,7;55,7;10,7;9,7;13,8;0;2,9;0;6
+Weißbrot-Weizentoastbrot;Brot- und Kleingebäck;253;3,3;47,7;47,7;7,4;2,9;37;0;1,6;0,1;4,1
+Walnüsse;Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen;654;62,5;10,6;10,6;14,4;6,1;4,4;0;2;0;6,3
+Konfitüre Gelee Marmeladen;Süßwaren, Zucker, Bonbons, Schokolade, Brotaufstrich süß, Eis;279;0,1;68,3;68,1;0,1;0,7;30,3;0;0,1;0,2;-1
+Kiwi frisch;Früchte, Obst und Obsterzeugnisse;61;0,6;10,8;10,8;1;3,9;80,5;0;0,7;2,5;5,7
+Haselnusspastete;Wurst, Fleischwaren;281;23,1;1,2;1,2;17,7;0,8;54;0;3,1;0,1;6,3
+Lachs tiefgefroren;Fische, Krusten-, Schalen-, Weichtiere;131;6,3;0;NA;18,4;0;74;0;1,2;0;10,1
+Pumpernickel;Brot- und Kleingebäck;188;1;37,6;37,6;6,5;8,7;44,1;0;2,1;0,1;3,9
+Kaiserjagdwurst Konserve;Wurst, Fleischwaren;218;16,8;0,2;0,2;16,8;0,1;63,3;0;2,7;0,1;6,6
+Mais-Vollkornfladenbrot;Brot- und Kleingebäck;226;2,7;43,8;43,8;6,1;6,2;39;0;2,2;0;3,5
+Honig;Süßwaren, Zucker, Bonbons, Schokolade, Brotaufstrich süß, Eis;306;0;75,1;75,1;0,4;0;24,3;0;0,2;0;0,4
+Vollkornbrot mit Sonnenblumenkernen;Brot- und Kleingebäck;204;2,9;36,5;36,5;7,1;8,6;42,5;0;2,2;0,1;4,1
+Schaf Muskelfleisch;Fleisch (Rind, Kalb, Schwein, Hammel, Lamm);117;3,7;0;NA;20,8;0;74,3;0;1,2;0;10,5
+Rind Lunge frisch;Fleisch (Wild, Geflügel, Federwild, Innereien);94;2,6;0;NA;17,4;0;78,9;0;1;0;11,5
+Pak Choi frisch;Gemüse und Gemüseerzeugnisse;14;0,3;1,2;1,2;1,2;1,9;94,4;0;0,6;0,4;2,1
+Champignon frisch;Kartoffeln und Kartoffelerzeugnisse, stärkereiche Pflanzenteile, Pilze;15;0,2;0,6;0,1;2,7;2;93,3;0;1;0,1;3,4
+Knoblauchwurst einfach;Wurst, Fleischwaren;367;34,2;0,4;0,4;15,7;0;46,2;0;3,5;0;7,7
+Wurzelpetersilie frisch;Gemüse und Gemüseerzeugnisse;37;0,5;5,4;4,6;2,9;4,3;84,8;0;1,6;0,2;-6
+Apfel Fruchtsaft;Früchte, Obst und Obsterzeugnisse;47;0;11,1;10,5;0,1;0;87,9;0,1;0,3;0,5;2,3
+Beerenobst;Früchte, Obst und Obsterzeugnisse;71;0,3;15,6;15,4;0,7;0,8;81,3;0;0,5;0,8;3,4
+Pecannuss frisch;Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen;692;72;4,4;4,4;9,3;9,5;3,2;0;1,6;0;0,4
+Schweinefilet im Netz                   ;Wurst, Fleischwaren;162;8,1;1,1;1,1;21,2;0,4;67,9;0;1,3;0;7,9
+Geflügelwiener Würstchen;Wurst, Fleischwaren;123;4,9;0,4;0,4;19,1;0,2;72,2;0;3,1;0,1;8,6
+Spekulatius aus Mürbeteig;Kuchen, Feinbackwaren, Dauerbackwaren;489;25,6;56,8;56,8;7,8;3,3;5,6;0;0,8;0,1;4,6
+Mosaik-, Schachbrettpastete und andere;Wurst, Fleischwaren;261;22;0,3;0,3;15,9;0,1;58,6;0;3;0,1;6,2
+Kresse frisch;Gemüse und Gemüseerzeugnisse;35;0,7;2,5;2,5;4,2;3,5;86,8;0;1,9;0,4;11,9
+Banane frisch;Früchte, Obst und Obsterzeugnisse;95;0,2;21,4;21,4;1,2;2;73,8;0;0,8;0,6;7,7
+Rumpsteak (Zubereitung Großküche);Menükomponenten;159;4,3;0,1;0,1;29,7;0;63,8;0;2,2;0;14,4
+Linsen reif frisch;Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen;309;1,4;49,3;49,3;23,5;10,6;9,3;0;3,2;0,3;4,8
+Oliven;Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen;143;13,9;1,8;1,8;1,4;2,4;71,7;0;6,4;2,5;1,4
+Müsli;Cerealien, Getreide und Getreideprodukte, Reis;351;7,3;60;59,9;10,4;8,1;11,5;0;2;0,4;3,7
+Kokosflocken aus Fondant;Süßwaren, Zucker, Bonbons, Schokolade, Brotaufstrich süß, Eis;380;9,1;72,8;72,8;1;2,3;14,2;0;0,5;0;1,7
+Gouda mind. 10% Fett i. Tr.;Milch, Milcherzeugnisse, Käse;256;16;0;NA;27,4;0;52,7;0;2,9;1;21,6
+Gelee einfach;Süßwaren, Zucker, Bonbons, Schokolade, Brotaufstrich süß, Eis;280;0,1;68,5;68,3;0,1;0;30,9;0;0,1;0,2;0,9
+Tomatensoße italienisch (Zubereitung Großküche);Menükomponenten;75;4,2;6,4;6,4;2,7;1,6;83,5;0;1,4;0,2;6,6
+Kohlrabi frisch;Gemüse und Gemüseerzeugnisse;25;0,1;3,7;3,7;2;1,5;91,6;0;0,9;0,2;7,2
+Kokosnuss;Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen;361;36,5;4,8;4,8;4,6;9;43,9;0;1,2;0;3,5
+Obstsalat süßsauer (Zubereitung Haushalt);Menükomponenten;103;1;21,3;20,7;0,7;1,9;73,3;0,5;0,5;0,8;3,5
+Kalbfleischsülze;Wurst, Fleischwaren;109;3,2;0,2;0,2;19,7;0;74,7;0;2,1;0;8,3
+Salami ungarische Art;Wurst, Fleischwaren;366;32,1;0,3;0,3;19,8;0;43,5;0;4,2;0;7,9
+Muffins mit Schokolade;Kuchen, Feinbackwaren, Dauerbackwaren;286;11,6;37,3;37,3;7,8;6,7;34,5;0;1,8;0,3;0,9
+Graubrot-Weizenmischbrot mit Sonnenblumenkernen;Brot- und Kleingebäck;235;3;43,5;43,5;7,8;4,3;39,4;0;1,7;0;3,8
+Aprikose - Marille;Früchte, Obst und Obsterzeugnisse;43;0,1;8,5;7,7;0,9;1,5;86,8;0;0,7;1,4;5,1
+Schinkenroulade;Wurst, Fleischwaren;278;22,1;0,2;0,2;20,3;0,1;55,3;0;2;0,1;7,9
+Kartoffelsalat mit grüner Gurke und Mayonnaise (Zubereitung Gastronomie);Menükomponenten;86;4,9;8,4;8,4;1,7;1,4;81,9;0;1,2;0,6;3,4
+Brötchen-Roggenbrötchen mit Sonnenblumenkernen;Brot- und Kleingebäck;239;3,2;44,8;44,8;7,1;6,1;36,7;0;2;0,1;2,8
+Leberwurst einfach;Wurst, Fleischwaren;330;31,3;0,6;0,6;12,4;0,1;53,2;0;2,3;0;6,6
+Bohnen grün tiefgefroren gegart;Gemüse und Gemüseerzeugnisse;27;0,3;3,3;3,3;2,6;3,4;87,5;0;0,7;0,2;3,1
+Vollkornbrot-Mehrkornvollkornbrot;Brot- und Kleingebäck;201;1,2;40;NA;6,8;8,2;41,3;0;2,2;0,1;4,3
+Kalbfleisch-Pastete;Wurst, Fleischwaren;212;12,1;7,3;7,3;18,5;0,5;58,4;0;3,1;0;8,5
+Hausmacher Blutwurst Konserve;Wurst, Fleischwaren;344;31,4;0,6;0,6;15,7;0,2;49,9;0;2,2;0;7,8
+Salzstangen;Kuchen, Feinbackwaren, Dauerbackwaren;347;0,5;75,3;75,3;9;0,7;9;0;5,5;0;4,7
+Mozzarella;Milch, Milcherzeugnisse, Käse;290;23,1;1,9;1,9;18,8;0;64;0;1,9;0,3;14
+Brathähnchen Leber frisch;Fleisch (Wild, Geflügel, Federwild, Innereien);139;4,7;5;NA;19,1;0;69,5;0;1,7;0;14,4
+Rote Bete gegart;Gemüse und Gemüseerzeugnisse;32;0,1;6,1;6,1;1,4;2,4;88,9;0;0,8;0,2;1,8
+Agavendicksaft;Süßwaren, Zucker, Bonbons, Schokolade, Brotaufstrich süß, Eis;305;0,4;75;NA;0,1;0,2;24,1;0;0,1;0;0
+Shiitakepilz frisch;Kartoffeln und Kartoffelerzeugnisse, stärkereiche Pflanzenteile, Pilze;42;0,2;12,3;2,5;1,6;2;83,6;0;0,2;0,1;1,1
+Mortadella Konserve;Wurst, Fleischwaren;308;29,2;0,4;0,4;12;0,2;54,8;0;3,3;0,1;4,2
+Marmelade;Süßwaren, Zucker, Bonbons, Schokolade, Brotaufstrich süß, Eis;279;0,1;68,3;68,1;0,1;0,7;30,3;0;0,1;0,2;-1
+Griechischer Joghurt;Milch, Milcherzeugnisse, Käse;229;16,7;13,5;13,5;5,8;1,1;62,2;0;0,7;67,7;0,6
+Rind Pökelfleisch gekocht ungeräuchert;Wurst, Fleischwaren;133;7;0,9;0,9;16,7;0;69;0;6,5;0;8,8
+Schwein Nacken (Kamm) (fett) frisch gegart;Fleisch (Rind, Kalb, Schwein, Hammel, Lamm);256;16,7;0;NA;26,7;0;55,5;0;1,1;0;11,7
+Hirsch Fleisch (mager) frisch;Fleisch (Wild, Geflügel, Federwild, Innereien);113;3,3;0;NA;20,6;0;74,9;0;1,1;0;10,3
+Geflügelleberwurst;Wurst, Fleischwaren;244;16,8;2,9;2,9;20,4;0,1;56,2;0;3,5;0,1;13,6
+Haselnusspastete mit Mürbeteig;Wurst, Fleischwaren;314;25,4;7,9;7,9;14,1;1,3;48,9;0;2,4;0;4,9
+Joghurt 10% mit Früchten;Milch, Milcherzeugnisse, Käse;144;8,7;13,2;13,2;2,7;0,9;73,2;0;0,6;0,7;0,3
+Geflügelbierwurst;Wurst, Fleischwaren;212;13;0,3;0,3;23,6;0,1;59,6;0;3,4;0;10,6
+Schwarze Graupenwürstchen;Wurst, Fleischwaren;241;14,9;16,6;16,6;10,4;1,2;54,5;0;2,4;0;3,4
+Tofu frisch;Vegetarische Produkte;77;4,8;0,5;0,5;8,1;0,5;85,3;0;0,7;0;2,6
+Rotwein leicht;Alkoholische Getränke;66;0;2,4;2,4;0,2;0;88,9;7,9;0,3;0,3;1,7
+Kürbiskern geröstet;Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen;565;46,4;2,7;2,7;35,5;8,7;5,3;0;1,4;0;17
+Vollkornbrot mit Ölsamen;Brot- und Kleingebäck;204;2,9;36,5;36,5;7,1;8,6;42,5;0;2,2;0,1;4,1
+Linsen reif gegart;Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen;115;0,5;18,4;18,4;8,8;4,1;66,1;0;1,1;0,1;2,9
+Bratwurst (nicht umgerötet);Wurst, Fleischwaren;272;25,1;0,3;0,3;12,2;0;59,8;0;2,6;0;4,9
+Amaranth roh;Cerealien, Getreide und Getreideprodukte, Reis;385;6,5;66,2;66,2;14,5;9,3;0,2;0;3;0;6,5
+Brühwurst feingekuttert (umgerötet);Wurst, Fleischwaren;267;24,1;0,3;0,3;13;0,1;59;0;3,4;0,1;4,5
+Avocado;Früchte, Obst und Obsterzeugnisse;130;12,5;3,6;3,6;1,4;4,1;77,2;0;1,3;0;9,9
+Hirschsalami;Wurst, Fleischwaren;294;23;0,2;0,2;22,2;0;49,9;0;4,5;0,1;10,4
+Cashewnuss geröstet und gesalzen;Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen;583;47,3;24,8;24,8;15,8;3,1;3,9;0;5,1;0;5,3
+Geflügelknackwurst;Wurst, Fleischwaren;123;4,9;0,4;0,4;19,1;0,2;72,2;0;3,1;0,1;8,6
+Knacker einfach, Schüblinge einfach;Wurst, Fleischwaren;298;28;0,2;0,2;12,2;0;56,9;0;2,6;0,1;5
+Kiwi;Früchte, Obst und Obsterzeugnisse;61;0,6;10,8;10,8;1;3,9;80,5;0;0,7;2,5;5,7
+Erbswurst;Wurst, Fleischwaren;306;23,6;12,5;12,5;11,3;4,9;44,2;0;2,3;0,2;2,4
+Schnittkäse aus Ziegenmilch (50% Fett i. Tr.);Milch, Milcherzeugnisse, Käse;400;33,6;2,3;2,3;21,9;0;36,7;0;4,1;1,4;16,4
+Milzwurst;Wurst, Fleischwaren;276;23,2;0,2;0,2;17,3;0,1;56,5;0;2,8;0;7,4
+Deutsche Salami;Wurst, Fleischwaren;365;32,1;0,2;0,2;19,8;0,1;43,5;0;4,2;0;7,9
+Haferkleieflocken;Cerealien, Getreide und Getreideprodukte, Reis;354;6,7;59,5;59,5;13,2;9,7;10,1;0;0,9;0;7,1
+Leinsamen;Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen;444;36,5;7,7;7,7;22,3;22,7;7,5;0;3,3;0;4,2
+Brötchen mit Sonnenblumenkernen;Brot- und Kleingebäck;264;3,6;48,8;48,8;8,2;3,3;34,3;0;1,6;0;3,9
+Sonnenblumenöl;Fette, Öle, Butter, Schmalz;884;100;0;NA;0;0;0;0;0;0;0
+Geflügelmortadella gebraten (zubereitet ohne Fett);Wurst, Fleischwaren;246;19,6;4,3;4,3;13,3;0,1;61,1;0;1,4;0,1;8,9
+Zwieback;Kuchen, Feinbackwaren, Dauerbackwaren;365;4,3;71,4;71,4;9,2;5,2;8,5;0;1,4;0;5,1
+Spaghetti gekocht, mit Butterflöckchen (Zubereitung Gastronomie);Menükomponenten;169;5;26;NA;4,7;1,9;61,7;0;0,7;0;3,3
+Sonnenblumenkern roh;Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen;480;26,3;34,7;34,7;26,1;5,8;3,8;0;3,3;0;11,9
+Macadamianuss roh;Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen;697;73;4;NA;8,8;11,4;1,2;0;1,6;0;2,7
+Chicoree frisch;Gemüse und Gemüseerzeugnisse;17;0,2;2,3;2,3;1,3;1,3;92,1;0;1;0,3;3,2
+Weiße Graupenwurst;Wurst, Fleischwaren;238;12,9;19,1;19,1;11,5;1,3;52,6;0;2,6;0;4,6
+Mortadella süddeutsch, Zungenwurst;Wurst, Fleischwaren;281;23,5;0,7;0,7;17,4;0,2;54,6;0;3,7;0;7,5
+Hüttenkäse Halbfettstufe;Milch, Milcherzeugnisse, Käse;102;4,3;2,6;2,6;12,6;0;78,3;0;1,4;0,8;8,4
+Kasseler gebraten im Backofen ohne Fett;Wurst, Fleischwaren;115;2,2;0;NA;23,5;0;70,8;0;3,5;0;12,7
+Whisky;Alkoholische Getränke;250;0;0,1;0,1;0;0;63,9;36;0;0;0,1
+Margarine pflanzlich Linolsäure 30-50%;Fette, Öle, Butter, Schmalz;709;80;0,4;0,4;0,2;0;19;0;0,4;0;0,1
+Bohnen grün tiefgefroren;Gemüse und Gemüseerzeugnisse;27;0,3;3,3;3,3;2,6;3,3;87,7;0;0,8;0,2;3,9
+Geflügelmortadella gekocht;Wurst, Fleischwaren;288;22,9;5;NA;16,1;0,2;54,2;0;1,5;0,2;11,3
+Studentenfutter mit Erdnüssen;Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen;483;33,1;30,4;30,4;15,2;8,8;8,4;0;2,4;1,6;1,8
+Corned Beef;Wurst, Fleischwaren;141;6;0;NA;21,7;0;69,3;0;3;0;11,8
+Brötchen-Roggenmischbrötchen;Brot- und Kleingebäck;223;0,8;47;NA;6;5;39,3;0;1,7;0,1;3
+Pfefferminztee (Getränk);Alkoholfreie Getränke;1;0;0,2;0,2;0;0;99,7;0;0,1;0;0,2
+Erbsen grün Konserve;Gemüse und Gemüseerzeugnisse;52;0,3;7,7;7,7;4,3;3,3;83,1;0;1,1;0,2;0,2
+Makrele roh Fischzuschnitt;Fische, Krusten-, Schalen-, Weichtiere;181;11,9;0;NA;18,7;0;68,1;0;1,3;0;9,3
+Kürbiscremesuppe (Zubereitung Haushalt);Menükomponenten;81;4,7;6,9;6,9;2,8;0,8;83,4;0;1,2;0,2;0,8
+Linsen-Eintopf (Zubereitung Gastronomie);Menükomponenten;83;1,4;10,5;10,5;6,7;2,4;76,9;0;1,5;0,3;0,7
+Hafer Schrot;Cerealien, Getreide und Getreideprodukte, Reis;353;7,1;59,8;59,8;11,7;5,6;12,8;0;2,8;0;6,5
+Chilischote rot frisch;Gemüse und Gemüseerzeugnisse;28;0,3;4,2;4,2;1,8;3,6;89,2;0;0,6;0,3;7,7
+Saure Sahne;Milch, Milcherzeugnisse, Käse;117;10;3,3;3,3;3,1;0;82,2;0;0,7;0,7;0,2
+Papaya gegart;Früchte, Obst und Obsterzeugnisse;32;0,1;7,1;7,1;0,6;1,9;89,8;0;0,5;0,1;3,8
+Thunfisch Konserve in Öl, abgetropft;Fische, Krusten-, Schalen-, Weichtiere;222;15,7;0;NA;20,5;0;60,6;0;3,2;0;8,7
+Joghurt mit Magermilch angereichert teilentrahmt;Milch, Milcherzeugnisse, Käse;55;1,5;5,3;5,3;4,3;0;87,1;0;1;0,8;0,2
+Zwiebelwurst;Wurst, Fleischwaren;266;23,3;2,1;2,1;12,8;0,5;58,2;0;3,2;0,1;8,6
+Johannisbeere schwarz Konfitüre;Früchte, Obst und Obsterzeugnisse;277;0,1;66,8;66,8;0,5;2,5;28,8;0;0,3;1;2,3
+Pökelwaren Pökelfleisch;Wurst, Fleischwaren;135;7,3;0,9;0,9;16,6;0;68,4;0;6,8;0;8,8
+Pfälzer Saumagen;Wurst, Fleischwaren;158;6,8;6,9;6,9;16,9;1,1;64,7;0;3,3;0,3;3,3
+Roggenfladenbrot;Brot- und Kleingebäck;211;0,9;43,8;43,8;6;5,7;41,6;0;1,9;0,1;2,4
+Spitzpaprika grün;Gemüse und Gemüseerzeugnisse;20;0,3;2,9;2,9;1,2;3,6;91,1;0;0,6;0,3;2,5
+Fleischwurst Pariser;Wurst, Fleischwaren;267;24,1;0,3;0,3;13;0,1;59;0;3,4;0,1;4,5
+Kalbsleberwurst grob;Wurst, Fleischwaren;346;31,7;1,1;1,1;14,9;0,1;49,4;0;2,6;0,1;7,7
+Erdnuss roh;Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen;576;48,1;7,5;7,5;29,8;11,7;0,7;0;2,2;0;8,6
+Apfelmus (Zubereitung Haushalt);Menükomponenten;66;0,3;15,2;14,8;0,3;1,4;82,1;0;0,2;0,4;-2
+Buchweizenbrot;Brot- und Kleingebäck;234;1,7;47,1;47,1;6,9;3,7;38,4;0;2,1;0;3,4
+Heidelbeere tiefgefroren;Früchte, Obst und Obsterzeugnisse;44;0,6;7,7;7,7;0,6;5,1;84,1;0;0,3;1,5;-1
+Schwein Schinken roh geräuchert (Lachsschinken);Wurst, Fleischwaren;116;4,4;0,9;0,9;18,3;0;69,5;0;6,9;0;6,5
+Graubrot-Roggenbrot mit Käse;Brot- und Kleingebäck;215;1,7;42,6;42,6;6,5;5,6;41,6;0;1,9;0,1;2,9
+Blumenkohl tiefgefroren;Gemüse und Gemüseerzeugnisse;24;0,3;2,5;2,4;2,7;3,2;90,3;0;0,8;0,2;3,4
+Dinkelbrötchen;Brot- und Kleingebäck;226;3,4;38,1;38,1;10;4,3;42,2;0;2;0;4,7
+Cocktailtomaten;Gemüse und Gemüseerzeugnisse;20;0,2;2,6;2,6;1;1,3;93,9;0;0,6;390;-4
+Käsespätzle (Zubereitung Haushalt);Menükomponenten;161;6,2;18,2;18,2;7,9;1,1;65,6;0;0,9;0,1;5,5
+Knäckebrot-Roggenbrot;Brot- und Kleingebäck;336;1,5;69,7;69,7;9,6;9,1;7;0;2,9;0,1;3,9
+Gurkensalat mit Joghurt (Zubereitung Haushalt);Menükomponenten;58;4,5;3;2,9;1,2;0,4;89,4;0;1,1;0,4;1,7
+Müsli-Riegel;Süßwaren, Zucker, Bonbons, Schokolade, Brotaufstrich süß, Eis;375;18,9;43,9;43,9;6,9;4,4;24;0;1,4;0,6;0,1
+Schwein Rückenspeck;Fleisch (Rind, Kalb, Schwein, Hammel, Lamm);697;76,7;0;NA;4,7;0;18,3;0;0,3;0;2,7
+Reisdrink;Cerealien, Getreide und Getreideprodukte, Reis;52;1,1;9,9;9,9;0,5;0,5;87,7;0;0,3;0;0,1
+Rostbratwurst;Wurst, Fleischwaren;329;29,5;0,3;0,3;16,5;0,1;51,1;0;2,5;0;6,5
+Traubenzucker;Süßwaren, Zucker, Bonbons, Schokolade, Brotaufstrich süß, Eis;405;0;99,8;99,8;0;0;0,1;0;0;0;0,1
+Mungobohnen reif;Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen;273;1,2;41,3;41,3;23,1;15;10,3;0;4,6;0,3;13,3
+Laugengebäck;Kuchen, Feinbackwaren, Dauerbackwaren;340;2,6;68,5;68,5;9,4;4,1;12;0;3,3;0,1;16,5
+Rind Mark;Fleisch (Rind, Kalb, Schwein, Hammel, Lamm);837;94;0;NA;1,5;0;4,4;0;0,1;0;0,9
+Erdbeerkonfitüre;Früchte, Obst und Obsterzeugnisse;268;0,1;65,1;NA;0,3;0,7;33,2;0;0,2;0,4;-1
+Brathähnchen Brustfilet gekocht;Fleisch (Wild, Geflügel, Federwild, Innereien);100;0,4;0;NA;23,7;0;75,1;0;0,8;0;14,5
+Tiroler;Wurst, Fleischwaren;155;6,7;0,3;0,3;23,4;0,1;66,3;0;3,2;0,1;9,3
+Tomatensoße aus frischen Tomaten (Zubereitung Haushalt);Menükomponenten;50;3,2;4,4;4,4;0,8;0,5;90,3;0;0,7;0,1;0,9
+Rind Milz frisch;Fleisch (Wild, Geflügel, Federwild, Innereien);96;2,3;0;NA;18,6;0;77,7;0;1,4;0;11,5
+Auberginenscheiben gebraten (Zubereitung Haushalt);Menükomponenten;81;5,7;5,8;5,8;1,6;2,8;82,9;0;1;0,2;3,3
+Getreideerzeugnisse Frühstückscerealien;Cerealien, Getreide und Getreideprodukte, Reis;351;7,3;60;59,9;10,4;8,1;11,5;0;2;0,4;3,7
+Krakauer;Wurst, Fleischwaren;299;26,5;0,3;0,3;15,6;0,1;54,5;0;2,9;0,1;6,5
+Grünkohl tiefgefroren;Gemüse und Gemüseerzeugnisse;40;1;2,6;2,6;4,7;4,6;84,8;0;1,8;0,5;8,2
+Aubergine frisch;Gemüse und Gemüseerzeugnisse;17;0,2;2,5;2,5;1,2;2,8;92,6;0;0,5;0,2;3,8
+Porree frisch;Gemüse und Gemüseerzeugnisse;26;0,3;3,2;3,1;2,2;2,2;90,2;0;0,9;0,2;3,7
+Kidney-Bohnen Konserve gegart abgetropft;Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen;72;0,4;8,7;8,7;5,4;5,4;78,1;0;1;0,1;0,5
+Grapefruit frisch;Früchte, Obst und Obsterzeugnisse;50;0,2;9;NA;0,6;0,6;86,2;0;0,4;3,2;3,4
+Banane;Früchte, Obst und Obsterzeugnisse;95;0,2;21,4;21,4;1,2;2;73,8;0;0,8;0,6;7,7
+Stachelbeere frisch;Früchte, Obst und Obsterzeugnisse;44;0,2;8,5;8,5;0,8;2,9;85,7;0;0,5;1,4;3,5
+Bohne weiß frisch gegart;Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen;112;0,7;16,9;16,9;9,1;7,5;62,2;0;1,5;0,1;0,9
+Hanfsamen;Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen;464;32,7;2;NA;25,6;29,7;6,7;0;3,3;0;1,7
+Rum;Alkoholische Getränke;231;0;0;NA;0;0;66,6;33,4;0;0;0,1
+Käsekuchen aus Mürbeteig;Kuchen, Feinbackwaren, Dauerbackwaren;276;14,1;27,9;27,9;8,8;0,9;47;0,1;0,7;0,4;5,2
+Gänseleberpastete;Wurst, Fleischwaren;247;17,6;4;NA;18,4;0,2;56,9;0;3;0;12
+Fleischwurst Konserve;Wurst, Fleischwaren;326;30,1;0,2;0,2;14,4;0,1;52,1;0;3;0,1;5,9
+Tomatensalat mit Essigmarinade und Zwiebeln (Zubereitung Haushalt);Menükomponenten;56;4,1;3,6;3,6;0,9;1;89;0;1;0,4;3,5
+Bratwurst (Zubereitung Haushalt);Menükomponenten;282;26;0,3;0,3;12,6;0,1;58,4;0;2,6;0;5,2
+Touristenwurst einfach;Wurst, Fleischwaren;322;26,9;0,2;0,2;20,5;0,1;49,1;0;3,1;0,1;9
+Buchweizen;Cerealien, Getreide und Getreideprodukte, Reis;340;1,7;71;NA;9,1;3,7;12,8;0;1,7;0;4,6
+Weizen Mehl Type 550;Cerealien, Getreide und Getreideprodukte, Reis;345;1,1;72;NA;10,6;3,5;12,3;0;0,5;0;5,2
+Thunfisch Konserve abgetropft;Fische, Krusten-, Schalen-, Weichtiere;219;14,8;0;NA;21,7;0;60,3;0;3,2;0;9,3
+Weißbrot-Weizenbrot;Brot- und Kleingebäck;235;1,3;48,1;48,1;7,1;3;39,1;0;1,5;0;3,5
+Rind Rücken (Roastbeef) (mager) frisch gegart;Fleisch (Rind, Kalb, Schwein, Hammel, Lamm);161;3,9;0;NA;31,2;0;63,9;0;1;0;15,3
+Heidelbeere frisch;Früchte, Obst und Obsterzeugnisse;42;0,6;7,4;7,4;0,6;4,9;84,8;0;0,3;1,4;-1
+Mischgemüse gedünstet (Zubereitung Großküche);Menükomponenten;53;1,7;6,9;6,8;2,3;2,9;84,7;0;1,1;0,2;2,7
+Rote Bete frisch;Gemüse und Gemüseerzeugnisse;42;0,1;8,4;8,4;1,5;2,5;86,3;0;1;0,2;5,7
+Kapstachelbeere frisch;Früchte, Obst und Obsterzeugnisse;76;1,1;13,3;13,3;2,3;0,5;81;0;0,8;1;1,4
+Grünkern;Cerealien, Getreide und Getreideprodukte, Reis;324;2,7;63,3;63,3;10,8;8,8;12,5;0;2;0;7,4
+Weiße Lyoner;Wurst, Fleischwaren;260;21;0,3;0,3;18,1;0,1;57,2;0;3,3;0;7,1
+Weiße Bohnen in Tomatensoße (Zubereitung Haushalt);Menükomponenten;58;1,3;7,7;7,7;3,6;2,8;82,6;0;1,2;0,1;1,6
+Erdnuss geröstet;Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen;615;53;9,3;9,3;26,9;7,6;1,6;0;1,7;0;4,3
+Brötchen-Roggenbrötchen;Brot- und Kleingebäck;223;1;46,3;46,3;6,4;6;38,2;0;2;0,1;2,5
+Endivien frisch;Gemüse und Gemüseerzeugnisse;11;0,2;0,3;0,3;1,8;1,2;95,4;0;0,9;0,3;5,4
+Thüringer Rotwurst Konserve;Wurst, Fleischwaren;241;16;0,4;0,4;24,3;0,1;56;0;3,3;0;11,1
+Leinöl;Fette, Öle, Butter, Schmalz;879;99,5;0;NA;0;0;0,5;0;0;0;0
+Basmatireis ungekocht;Cerealien, Getreide und Getreideprodukte, Reis;353;1,1;75,4;75,4;9;2,2;11,9;0;0,3;0;4,9
+Leberwurst grob;Wurst, Fleischwaren;323;27,8;1,3;1,3;17,5;0,1;50,4;0;2,7;0,1;9,3
+Rote Bete Gemüsesaft;Gemüse und Gemüseerzeugnisse;35;0,1;7;NA;1,4;0,3;89,6;0;1,6;0,2;5,3
+Kolbacz;Wurst, Fleischwaren;303;27;0,2;0,2;15,5;0,1;53,6;0;3,5;0;6,2
+Hefezopf aus Hefeteig fettarm;Kuchen, Feinbackwaren, Dauerbackwaren;302;9,1;46,6;46,6;7,5;2,6;32,8;0;0,9;0,6;2,2
+Johannisbeere schwarz frisch;Früchte, Obst und Obsterzeugnisse;57;0,2;10,3;10,3;1,3;6,8;78;0;0,8;2,6;6,2
+Fischstäbchen (Zubereitung Haushalt);Menükomponenten;193;8,8;14,1;14,1;14,2;0,9;60,6;0;1,4;0;9,6
+Eisbergsalat frisch;Gemüse und Gemüseerzeugnisse;13;0,2;1,6;1,6;1;1,8;94,6;0;0,5;0,3;2,6
+Geflügelsalami fettarm;Wurst, Fleischwaren;180;6,6;0,4;0,4;29,4;0,1;58,9;0;4,6;0;13,1
+Gesülzter Hackbraten;Wurst, Fleischwaren;186;12,6;0,7;0,7;17,7;0;66,2;0;2,7;0,1;6,9
+Pizza margherita (Zubereitung Gastronomie);Menükomponenten;258;5,3;43,9;43,9;8,1;2,8;38,8;0;1;0,1;3,6
+Graubrot-Weizenmischbrot mit Sauermilch;Brot- und Kleingebäck;225;1,2;45,2;45,2;7,4;4,2;39,9;0;1,7;0,1;3,7
+Preiselbeere Konfitüre;Früchte, Obst und Obsterzeugnisse;270;0,2;65,6;65,6;0,1;1,1;32,3;0;0,1;0,5;0,5
+Tomatensuppe (Zubereitung Haushalt);Menükomponenten;29;1,6;2,7;2,7;0,8;0,4;93,6;0;0,7;0,1;0,9
+Gerste Graupen;Cerealien, Getreide und Getreideprodukte, Reis;339;1,4;71;NA;9,7;4,6;12,2;0;1,2;0;5,9
+Kräutertee (Getränk);Alkoholfreie Getränke;1;0;0,2;0,2;0;0;99,7;0;0,1;0;0,2
+Kalb Muskelfleisch;Fleisch (Rind, Kalb, Schwein, Hammel, Lamm);94;0,8;0;NA;21,3;0;76,7;0;1,2;0;10,5
+Vollkornmehl;Cerealien, Getreide und Getreideprodukte, Reis;309;2,4;59,5;59,5;11,4;10;15;0;1,7;0;7,6
+Grünkern Schrot;Cerealien, Getreide und Getreideprodukte, Reis;324;2,7;63,3;63,3;10,8;8,8;12,5;0;2;0;7,4
+Oliven schwarz;Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen;353;35,8;4,9;4,9;2,2;3,8;41,3;0;9,5;2,5;0,1
+Geflügelwiener Würstchen erwärmt;Wurst, Fleischwaren;130;5;0,5;0,5;20,4;0,2;70,8;0;3;0,1;9,7
+Jagdwurst (Süddeutsche und Norddeutsche);Wurst, Fleischwaren;218;16,8;0,2;0,2;16,8;0,1;63,3;0;2,7;0,1;6,6
+Margarine;Fette, Öle, Butter, Schmalz;709;80;0,4;0,4;0,2;0;19;0;0,4;0;0,1
+Sauerkraut Konserve abgetropft;Gemüse und Gemüseerzeugnisse;16;0,3;0,6;0,6;1,4;3,3;90,2;0;2,6;1,6;2,3
+Grünkohl frisch gegart;Gemüse und Gemüseerzeugnisse;28;0,7;1,6;1,6;3,4;3,4;89,2;0;1,3;0,4;3,1
+Französische Schweinefleisch-Terrine;Wurst, Fleischwaren;314;27,4;0,4;0,4;17,4;0,3;51,8;0;2,7;0;5,9
+Cabanossi;Wurst, Fleischwaren;451;43,9;0,3;0,3;15,2;0,1;36,9;0;3,6;0;6,1
+Couscous gekocht;Cerealien, Getreide und Getreideprodukte, Reis;142;0,7;28,5;28,5;4,9;2,8;62,9;0;0,3;0;2,5
+Butterkäse;Milch, Milcherzeugnisse, Käse;299;23,5;0;NA;21,7;0;48,6;0;5,3;0,9;13,1
+Rind Fett;Fleisch (Rind, Kalb, Schwein, Hammel, Lamm);856;96,5;0;NA;0,8;0;2,6;0;0,1;0;0,5
+Orange, Apfelsine;Früchte, Obst und Obsterzeugnisse;47;0,2;9,2;9,2;1;2,2;85,7;0;0,5;1,2;3,3
+"Sojaeiweiß texturiert (""Sojafleisch"")";Vegetarische Produkte;285;0,5;0,2;0,2;69;16,6;7;0;4,7;0;9,4
+Wollwurst, Geschwollene;Wurst, Fleischwaren;272;25,1;0,3;0,3;12,2;0;59,8;0;2,6;0;4,9
+Lachs frisch;Fische, Krusten-, Schalen-, Weichtiere;131;6,3;0;NA;18,4;0;74;0;1,2;0;10,1
+Bierschinken Konserve;Wurst, Fleischwaren;180;11,9;0,1;0,1;18,3;0;67;0;2,6;0,1;7,1
+Bauernleberwurst;Wurst, Fleischwaren;356;31,8;1;NA;17,4;0,1;47,1;0;2,6;0;9,7
+Fleischkäse im Teigmantel;Wurst, Fleischwaren;355;28,9;9,5;9,5;15;0,6;43,1;0;2,6;0,1;5,9
+Bratwurst geräuchert;Wurst, Fleischwaren;287;22,9;0,2;0,2;20,7;0;52,7;0;3,5;0;7,9
+Milchschokolade Vollmilch-Nuß;Süßwaren, Zucker, Bonbons, Schokolade, Brotaufstrich süß, Eis;521;32,4;49,1;49,1;8,5;5,6;1,8;0;2,3;0,2;2,9
+Basmatireis gekocht;Cerealien, Getreide und Getreideprodukte, Reis;131;0,4;28,1;28,1;3,3;0,6;67,5;0;0,1;0;1,7
+Vollkornteigwaren;Eier und Eierprodukte, Teigwaren;323;2,5;60,6;60,6;13,4;11,5;10,5;0;1,5;0;8,5
+Brie;Milch, Milcherzeugnisse, Käse;362;33,2;0;NA;16,8;0;46,2;0;3,6;0,2;10,1
+Pistazie geröstet und gesalzen;Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen;615;54,3;15,6;15,6;17,5;6;2,1;0;4,5;0;0,3
+Magerquark;Milch, Milcherzeugnisse, Käse;75;0,2;4;NA;13,5;0;80,7;0;0,9;0,8;8,9
+Pistazie geröstet;Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen;627;55,4;15,9;15,9;17,9;6,1;2,1;0;2,6;0;0,3
+Milchspeiseeis Vanille;Süßwaren, Zucker, Bonbons, Schokolade, Brotaufstrich süß, Eis;85;2,4;13,2;13,2;2,3;0;81,4;0;0,5;0,2;0
+"Rindergulasch ""deutsche Art"" (Zubereitung Haushalt)";Menükomponenten;104;6,9;2,6;2,6;7,7;1;80,4;0;1,2;0,1;2,5
+Zwiebelleberwurst einfach;Wurst, Fleischwaren;330;31,3;0,6;0,6;12,4;0,1;53,2;0;2,3;0;6,6
+Spinat tiefgefroren gegart;Gemüse und Gemüseerzeugnisse;20;0,4;0,5;0,5;2,9;3,1;90,6;0;1,5;1;7,1
+Waldpilze;Kartoffeln und Kartoffelerzeugnisse, stärkereiche Pflanzenteile, Pilze;15;0,7;0,1;NA;2,1;7,6;88,4;0;1;0,1;3,9
+Rind Steak (mager) frisch gegart;Fleisch (Rind, Kalb, Schwein, Hammel, Lamm);161;3,9;0;NA;31,2;0;63,9;0;1;0;15,3
+Leberwurst Aachener Frankfurter;Wurst, Fleischwaren;357;32,9;1,3;1,3;14,9;0,2;48;0;2,8;0;8,3
+Kidney-Bohnen;Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen;297;1,4;36,5;36,5;22,1;21,3;11;0;3,8;0,3;-8
+Milchspeiseeis;Süßwaren, Zucker, Bonbons, Schokolade, Brotaufstrich süß, Eis;85;2,4;13,2;13,2;2,3;0;81,4;0;0,5;0,2;0
+Dinkelvollkornbrötchen;Brot- und Kleingebäck;246;4,3;40,1;40,1;11;5,8;36,5;0;2,2;0;4,8
+Grahambrötchen;Brot- und Kleingebäck;247;1,4;50,1;50,1;7,5;3,5;35,7;0;1,6;0;3,9
+Sojabohnen reif frisch gegart;Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen;152;9,9;0,2;0,2;15,7;7,5;60,7;0;1,7;0,1;-1
+Schokoladenpudding mit Vanillesoße (Zubereitung Großküche);Menükomponenten;130;3,3;21,6;21,6;3,1;0,6;70,5;0;0,8;0,2;0,3
+Kaffee mit Milch und Zucker (Getränk);Alkoholfreie Getränke;12;0,1;2,3;2,3;0,3;0;97,1;0;0,1;0;1,3
+"Maultaschen ""schwäbisch"" (Zubereitung Haushalt)";Menükomponenten;146;5,5;15,5;15,5;8,3;1,3;68,2;0;1;0,1;3,3
+Teigwaren aus Hartgrieß;Eier und Eierprodukte, Teigwaren;348;1,2;70,5;70,5;12,5;5,1;10;0;0,8;0;6,3
+Leberwurst fein;Wurst, Fleischwaren;328;29,4;1,5;1,5;15,2;0,1;51,1;0;2,6;0,1;9,2
+Margarine halbfett Linolsäure <30%;Fette, Öle, Butter, Schmalz;362;40;0,4;0,4;1,6;0;56,8;0;1,2;0;0,8
+Semmelbrösel;Brot- und Kleingebäck;358;2,1;73,5;73,5;10,1;5,3;6,8;0;2,2;0;4,7
+Linsen gekeimt frisch;Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen;119;0,5;19,1;19,1;9;3,1;67,1;0;1;0,3;2,7
+Tahini aus rohem Sesam;Vegetarische Produkte;583;48;21,2;21,2;17,8;5;3,3;0;4,7;0;19,8
+Edelkastanien (Marone) gegart;Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen;197;2;41,1;41,1;3;8,8;44,3;0;0,9;0;8,6
+Gemüsepaprika grün frisch;Gemüse und Gemüseerzeugnisse;20;0,3;2,9;2,9;1,2;3,6;91,1;0;0,6;0,3;2,5
+Vollkornbrötchen mit Sonnenblumenkernen;Brot- und Kleingebäck;237;3,7;41,9;41,9;8,6;6,6;36,6;0;2,5;0;5,9
+Wurstkuchen mit Mürbeteig;Wurst, Fleischwaren;333;23,5;15,3;15,3;15,4;0,9;42,5;0;2,2;0,2;8,1
+Meerrettich frisch;Gemüse und Gemüseerzeugnisse;64;0,3;11,7;11,7;2,8;7,5;74,9;0;2,2;0,7;10,1
+Pommes frites mit Mayonnaise;Menükomponenten;227;17,7;14,8;14,8;2,1;1,2;61,8;0;1,8;0,6;5,9
+Vollkornbrot-Weizen, Roggenvollkornschrottoastbrot;Brot- und Kleingebäck;241;3,8;42,9;42,9;8,2;7,6;35,1;0;2,3;0,1;5,4
+Heidelbeere Konfitüre;Früchte, Obst und Obsterzeugnisse;271;0,2;65,8;65,8;0,2;1,8;31,3;0;0,1;0,5;0,4
+Linsensuppe (Zubereitung Haushalt);Menükomponenten;65;1,8;7;NA;5,2;1,7;82,8;0;1,1;0,1;0,1
+Gorgonzola;Milch, Milcherzeugnisse, Käse;356;31,2;0;NA;19,4;0;43,5;0;5,3;0,6;8,7
+Miso;Vegetarische Produkte;115;6,1;4,7;4,7;10,5;10,5;55,5;0;12,7;0;5,6
+Brühwurst mit Fleischeinlage (nicht umgerötet);Wurst, Fleischwaren;276;23,2;0,2;0,2;17,3;0,1;56,5;0;2,8;0;7,4
+Geflügelmortadella fettarm;Wurst, Fleischwaren;236;19,1;4;NA;12,6;0,1;62,7;0;1,4;0,1;7,9
+Schweinebauch in Aspik;Wurst, Fleischwaren;153;9,4;1;NA;16,1;0;67,7;0;5,8;0;6,6
+Linsen reif Konserve;Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen;77;0,3;12,3;12,3;5,8;2,6;76,9;0;1,3;0,1;1,1
+Trüffelmosaikpastete;Wurst, Fleischwaren;261;22;0,3;0,3;15,9;0,1;58,6;0;3;0,1;6,2
+Frikadelle (Zubereitung Großküche);Menükomponenten;156;5,9;5;NA;20,5;0,5;66,3;0;1,8;0;10,6
+Mais;Cerealien, Getreide und Getreideprodukte, Reis;331;3,8;64,7;64,7;8,5;9,2;12,3;0;1,3;0;3,4
+Dosenschinken;Wurst, Fleischwaren;121;4,3;1,1;1,1;19,5;0;71,9;0;3,3;0;10
+Champignonpastete;Wurst, Fleischwaren;259;21;0,3;0,2;17,7;0,3;57,4;0;3,2;0,1;6,4
+Kichererbsen;Gemüse und Gemüseerzeugnisse;141;2,7;21,2;21,2;7,5;4,4;61,4;0;1,3;0,3;3,7
+Sardine Konserve in Öl, abgetropft;Fische, Krusten-, Schalen-, Weichtiere;221;13,9;0;NA;24,1;0;58,4;0;3,6;0;14,7
+Eierpastete;Wurst, Fleischwaren;286;24,3;0,5;0,5;16,8;0,2;55;0;3;0,1;7,3
+Pflaumen frisch;Früchte, Obst und Obsterzeugnisse;47;0,2;10,2;8,8;0,6;1,7;85,6;0;0,5;1,3;4,1
+Gurke;Gemüse und Gemüseerzeugnisse;12;0,2;1,8;1,8;0,6;0,5;96;0;0,6;0,3;2,2
+Landjäger Würste;Wurst, Fleischwaren;456;44,4;0,4;0,4;15,2;0;36,2;0;3,8;0;6,5
+Rotkohl Konserve gegart;Gemüse und Gemüseerzeugnisse;15;0,2;2;NA;1,3;2,2;93,2;0;1;0,2;0,8
+Buschbohnen grün frisch;Gemüse und Gemüseerzeugnisse;25;0,2;3,2;3,2;2,4;3;88,7;0;0,7;0,2;-4
+Plockwurst;Wurst, Fleischwaren;432;37;0,3;0,3;25,6;0,1;31,5;0;5,6;0;10,8
+Rote Rübe frisch;Gemüse und Gemüseerzeugnisse;42;0,1;8,4;8,4;1,5;2,5;86,3;0;1;0,2;5,7
+"Putenschnitzel ""italienische Art"" (Zubereitung Gastronomie)";Menükomponenten;188;9,4;6,6;6,6;19,1;0,4;62,9;0;1,5;0;9,6
+Leinsamen geschrotet;Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen;450;36,9;7,8;7,8;22,5;21,8;7,6;0;3,4;0;4,3
+Lebkuchenteigbackwaren;Kuchen, Feinbackwaren, Dauerbackwaren;412;19,8;49,4;49,4;8,8;5,2;15,2;0;1,2;0,4;1,1
+Champignonpastete mit Mürbeteig;Wurst, Fleischwaren;315;26,2;9;NA;11,4;0,7;49,8;0;2,8;0;4,1
+Schweinegrillschnitten                   ;Wurst, Fleischwaren;188;11,2;1;NA;21;0,3;62,5;0;3,9;0;7,5
+Schwein Filet (mager) frisch;Fleisch (Rind, Kalb, Schwein, Hammel, Lamm);107;2;0;NA;22;0;74,8;0;1,2;0;9
+Filetblutwurst;Wurst, Fleischwaren;247;17,4;0,6;0,6;22,4;0;54,8;0;4,8;0;10,4
+Hanfnussöl;Fette, Öle, Butter, Schmalz;898;99,8;0;NA;0;0;0,2;0;0;0;0
+Apfel-Streuselkuchen aus Mürbeteig fettreich;Kuchen, Feinbackwaren, Dauerbackwaren;232;11;31,2;30,8;2;1,8;53,4;0;0,3;0,4;0,9
+Hühnerei Vollei;Eier und Eierprodukte, Teigwaren;154;11,2;0,7;0,7;12,9;0;74,1;0;1,1;0;10,2
+Sardine Konserve abgetropft;Fische, Krusten-, Schalen-, Weichtiere;117;4,5;0;NA;19,1;0;72,9;0;3,4;0;8,5
+Cervelatwurst;Wurst, Fleischwaren;369;32,4;0,3;0,3;20,1;0,1;42,8;0;4,3;0;8,3
+Kalbfleischwurst;Wurst, Fleischwaren;321;30,1;0,2;0,2;13,4;0;53,4;0;2,9;0;6,1
+Hirse roh;Cerealien, Getreide und Getreideprodukte, Reis;357;3,9;68,8;68,8;10,6;3,9;10,5;0;1,6;0;8,4
+Eisbergsalat;Gemüse und Gemüseerzeugnisse;13;0,2;1,6;1,6;1;1,8;94,6;0;0,5;0,3;2,6
+Petersilienblatt frisch;Gemüse und Gemüseerzeugnisse;53;0,4;7,4;7,4;4,4;4,3;81,1;0;2,1;0,4;18,3
+Mandelmus;Vegetarische Produkte;664;59,1;19,7;19,7;15,1;1,5;1;0;3,6;0;3,2
+Paranuss;Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen;660;66,8;3,6;3,6;13,6;8,1;4,3;0;3,6;0;12,2
+Zander tiefgefroren;Fische, Krusten-, Schalen-, Weichtiere;84;0,7;0;NA;19,2;0;78,9;0;1,2;0;7,4
+Brie Vollfettstufe;Milch, Milcherzeugnisse, Käse;284;22,4;0;NA;21;0;52;0;4,2;0,4;15,8
+Erdnussbutter, -mus;Fette, Öle, Butter, Schmalz;597;50;12,2;12,2;26,1;7,6;0,7;0;3,4;0;4,8
+Fenchel;Gemüse und Gemüseerzeugnisse;19;0,2;3;2,9;1,4;2;92,4;0;1;0;6,5
+Lamm Leber roh;Fleisch (Wild, Geflügel, Federwild, Innereien);134;5;1,8;1,8;20,4;0;71,4;0;1,4;0;16,3
+Quark;Milch, Milcherzeugnisse, Käse;75;0,2;4;NA;13,5;0;80,7;0;0,9;0,8;8,9
+Apfelkuchen aus Rührmasse;Kuchen, Feinbackwaren, Dauerbackwaren;214;9,5;28,4;NA;3,4;1,6;56,2;0;0,5;0,3;1,9
+Kuhmilch Trinkmilch fettarm;Milch, Milcherzeugnisse, Käse;48;1,6;4,9;4,9;3,4;0;89,2;0;0,7;0,2;0,2
+Puderzucker;Süßwaren, Zucker, Bonbons, Schokolade, Brotaufstrich süß, Eis;405;0;99,8;99,8;0;0;0,1;0;0;0;0,1
+Brathähnchen Schenkel roh;Fleisch (Wild, Geflügel, Federwild, Innereien);173;11,2;0;NA;18,2;0;69,5;0;1,1;0;9,6
+Pökelwaren Eisbein;Wurst, Fleischwaren;154;9,1;0,9;0,9;17,2;0;65,9;0;6,8;0;6,3
+Granatapfel frisch;Früchte, Obst und Obsterzeugnisse;78;0,6;16,7;16,7;0,7;2,2;78,5;0;0,7;0,6;5,3
+Dinkelbrot (Vollkornbrot);Brot- und Kleingebäck;234;3,5;39,5;39,5;10,4;4,4;40,1;0;2,1;0;4,9
+Distelöl (Safloröl);Fette, Öle, Butter, Schmalz;879;99,5;0;NA;0;0;0,5;0;0;0;0
+Pute frisch;Fleisch (Wild, Geflügel, Federwild, Innereien);216;15;0;NA;20,6;0;63,2;0;1,2;0;11,1
+Chinakohl frisch gegart;Gemüse und Gemüseerzeugnisse;12;0,3;0,9;0,9;1,1;1,9;94,8;0;0,6;0,4;0,7
+Bleichsellerie Gemüsesaft;Gemüse und Gemüseerzeugnisse;14;0,2;1,8;1,6;1;0,3;94,6;0;1,6;0,5;5,7
+Zwetschge Konfitüre;Früchte, Obst und Obsterzeugnisse;272;0;66,3;66,3;0,2;0,8;31,9;0;0,2;0,5;1,6
+Hering frisch Fischzuschnitt;Fische, Krusten-, Schalen-, Weichtiere;206;15;0;NA;18,2;0;65,3;0;1,5;0;9,1
+Erbsen grün tiefgefroren gegart;Gemüse und Gemüseerzeugnisse;84;0,5;12,4;12,4;6,9;5,5;73,5;0;0,9;0,3;0,9
+Milchreis (Zubereitung Gastronomie);Menükomponenten;129;2,9;21,4;21,4;3,9;0,3;70,7;0;0,7;0,2;0,8
+Reisbrot;Brot- und Kleingebäck;235;1,7;47;NA;7,2;3,6;38,5;0;2,1;0;4,5
+Weizenkeimöl;Fette, Öle, Butter, Schmalz;879;99,5;0;NA;0;0;0,5;0;0;0;0
+Pinienkern;Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen;575;50,7;7,3;7,3;24;7,2;6,4;0;4,4;0;11,6
+Dattel frisch;Früchte, Obst und Obsterzeugnisse;280;0,5;65;NA;2;8,7;21,4;0;1,2;1,3;12,6
+Hirse Korn geschält roh;Cerealien, Getreide und Getreideprodukte, Reis;357;3,9;68,8;68,8;10,6;3,9;10,5;0;1,6;0;8,4
+Edelkastanien (Maronen) geröstet;Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen;261;10,9;37,8;37,8;2,7;7,7;39,9;0;1,1;0;10,8
+Tee grün (Getränk);Alkoholfreie Getränke;0;0;0;NA;0,1;0;99,8;0;0,1;0;0,5
+Schlackwurst;Wurst, Fleischwaren;391;36,5;0,6;0,6;16,4;0;42,8;0;3,8;0;6,7
+Brathähnchen Brustfilet gebraten (zubereitet ohne Fett);Fleisch (Wild, Geflügel, Federwild, Innereien);115;0,7;0;NA;26,8;0;71,3;0;1,2;0;14,8
+Graubrot-Roggenmischbrot mit Sonnenblumenkernen;Brot- und Kleingebäck;226;2,9;42,9;42,9;6,4;4,8;41,1;0;1,7;0,1;3
+Wassermelone roh;Früchte, Obst und Obsterzeugnisse;38;0,2;8,3;8,3;0,6;0,2;90,2;0;0,4;0,1;-2
+Knäckebrot-Roggenmischbrot mit Leinsamen;Brot- und Kleingebäck;343;3,3;66,9;66,9;10,2;9,6;7;0;2,7;0,1;5,2
+Rind Niere frisch;Fleisch (Wild, Geflügel, Federwild, Innereien);96;3,3;0,9;0,9;15,7;0;78,9;0;1,2;0;11,4
+Porree frisch gegart;Gemüse und Gemüseerzeugnisse;23;0,3;2,5;2,4;2,3;2,3;90,8;0;0,8;0,2;1,5
+Kartoffeln ungeschält roh;Kartoffeln und Kartoffelerzeugnisse, stärkereiche Pflanzenteile, Pilze;73;0;15,6;15,6;1,9;1,2;79,6;0;1;0,6;6,6
+Haselnuss geröstet;Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen;671;66,7;5,4;5,4;14,8;7;3,8;0;2,3;0;2,9
+Dattel;Früchte, Obst und Obsterzeugnisse;280;0,5;65;NA;2;8,7;21,4;0;1,2;1,3;12,6
+Kümmelwurst Rohwurst;Wurst, Fleischwaren;308;27,8;0,2;0,2;15,2;0;53,2;0;3,6;0;6,5
+Thüringer Rotwurst;Wurst, Fleischwaren;173;10,2;0,2;0,2;20,2;0;66,5;0;2,8;0;8,8
+Mandeldrink ungesüßt;Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen;13;1,1;0;NA;0,4;0,3;97,4;0;0,5;250;5,8
+Reis Kleie;Cerealien, Getreide und Getreideprodukte, Reis;379;15,8;45,7;45,7;13,3;12;9,7;0;3,5;0;24,9
+Kartoffelsuppe (Zubereitung Haushalt);Menükomponenten;42;1,4;6,3;6,3;0,9;0,9;89,5;0;0,9;0,2;-2
+Buchweizenvollkornbrot;Brot- und Kleingebäck;215;1,4;42,8;42,8;7,1;5,2;41,2;0;2,4;0;4,8
+Burgunder Schinken in Aspik;Wurst, Fleischwaren;120;2,3;0,2;0,2;24,3;0,1;71,7;0;1,4;0;8,6
+Sesam geröstet;Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen;600;54,9;9,3;9,3;19;10,2;1,8;0;4,8;0;3,6
+Zungenpreßkopf;Wurst, Fleischwaren;257;22,5;1,2;1,2;13,2;0,1;58,2;0;4,8;0;6,6
+Preßköpfe;Wurst, Fleischwaren;285;23,8;0,3;0,3;18;0,1;54,5;0;3,3;0,1;7,2
+Kasseler Kamm roh geräuchert;Wurst, Fleischwaren;155;7,5;0,9;0,9;20,9;0;67,5;0;3,2;0;8,9
+Glühwein;Alkoholische Getränke;105;0;14,8;14,8;0,2;0,1;78,3;6,2;0,2;0,3;0,9
+Walnussöl;Fette, Öle, Butter, Schmalz;879;99,5;0;NA;0;0;0,5;0;0;0;0
+Kokosnuss Mehl;Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen;360;14;20;NA;21;35;8,5;0;1,5;0;4,9
+Fladenbrote;Brot- und Kleingebäck;235;1,3;48,1;48,1;7,1;3;39,1;0;1,5;0;3,5
+Graubrot mit Käse;Brot- und Kleingebäck;214;1,5;43,1;43,1;6,2;4,6;42,7;0;1,7;0,1;3,2
+Schinkenpreßkopf;Wurst, Fleischwaren;210;15,6;0,3;0,3;17,4;0,1;63,3;0;3,4;0;6,5
+Graubrot-Roggentoastbrot;Brot- und Kleingebäck;247;3,5;46,1;46,1;7,2;6,1;35;0;2,1;0,1;2,8
+Hirse Flocken;Cerealien, Getreide und Getreideprodukte, Reis;357;3,9;68,8;68,8;10,6;3,9;10,5;0;1,6;0;8,4
+Frühstücksfleisch;Wurst, Fleischwaren;289;25,2;0,3;0,3;16;0,1;55,7;0;2,7;0,1;6,1
+Moosbeere frisch;Früchte, Obst und Obsterzeugnisse;36;0,7;3,9;3,9;0,4;3,8;87,1;0;0,2;3,9;1,7
+Saure Sahne 20 % Fett;Milch, Milcherzeugnisse, Käse;204;20;3,4;3,4;2,8;0;72,6;0;0,5;0,7;0
+Olivenpastete;Wurst, Fleischwaren;275;23,9;0,8;0,8;14,7;0,9;56,5;0;3;0,1;5,5
+Hühnerei Vollei frisch;Eier und Eierprodukte, Teigwaren;154;11,2;0,7;0,7;12,9;0;74,1;0;1,1;0;10,2
+Cabanossi (Brühwurst);Wurst, Fleischwaren;331;30,9;0,3;0,3;13,7;0,1;52,1;0;2,7;0,1;5,6
+Gemüsepaprika rot;Gemüse und Gemüseerzeugnisse;37;0,5;6,4;6,4;1,3;3,6;87,3;0;0,6;0,3;4,2
+Lasagne al forno (Zubereitung Gastronomie);Menükomponenten;150;9,7;7,6;7,6;8,3;0,7;72,1;0;1,5;0,1;3,4
+Straßburger Gänseleberwurst;Wurst, Fleischwaren;244;17;3,1;3,1;20;0,1;56,2;0;3,5;0,1;13,4
+Joghurt teilentrahmt;Milch, Milcherzeugnisse, Käse;46;1,5;4,1;4,1;3,4;0;89,5;0;0,8;0,8;0,4
+Garnele frisch;Fische, Krusten-, Schalen-, Weichtiere;102;1,7;0,9;0,9;20,3;0;75,8;0;1,2;0;12
+Brühwurst;Wurst, Fleischwaren;296;26,4;0,3;0,3;15,2;0,1;55,1;0;2,9;0,1;6,4
+Spitzpaprika rot;Gemüse und Gemüseerzeugnisse;37;0,5;6,4;6,4;1,3;3,6;87,3;0;0,6;0,3;4,2
+Zungenwurst hell;Wurst, Fleischwaren;265;22,3;0,7;0,7;15,9;0,2;57,5;0;3,4;0;6,8
+Kaffee mit Kondensmilch und Zucker (Getränk);Alkoholfreie Getränke;14;0,2;2,5;2,5;0,4;0;96,7;0;0,1;0;1,3
+Rinderbierschinken;Wurst, Fleischwaren;194;12;0,2;0,2;21,4;0;63,1;0;3,2;0,1;9
+Geflügelfleischkäse gekocht;Wurst, Fleischwaren;176;6,7;0,4;0,4;28,4;0,1;60,6;0;3,8;0;14,3
+Hafer Vollkornflocken;Cerealien, Getreide und Getreideprodukte, Reis;354;6,7;59,5;59,5;13,2;9,7;10,1;0;0,9;0;7,1
+Zuckermelone - Honigmelone;Früchte, Obst und Obsterzeugnisse;55;0,1;12,4;12,4;0,9;0,7;85,4;0;0,4;0,1;5,7
+Füllung für Spanferkel;Wurst, Fleischwaren;221;15,6;6,6;6,6;13,7;1;60,4;0;2,4;0,2;5,8
+Getrüffelte Zungenpastete;Wurst, Fleischwaren;312;25,8;7,6;7,4;13,2;1,2;50;0;2,1;0;5,7
+Gurke frisch;Gemüse und Gemüseerzeugnisse;12;0,2;1,8;1,8;0,6;0,5;96;0;0,6;0,3;2,2
+Casein;Milch, Milcherzeugnisse, Käse;338;0,8;0;NA;81,5;0;16;0;1,7;0;63,2
+Schwein Speck und Schinken;Wurst, Fleischwaren;152;7,7;0;NA;20,7;0;70,6;0;1;0;9,5
+Makrele geräuchert;Fische, Krusten-, Schalen-, Weichtiere;335;29,2;0;NA;18,9;0;50,8;0;2,6;0;9
+Zungenblutwurst;Wurst, Fleischwaren;293;23,6;1,2;1,2;19,4;0,1;51,3;0;4,3;0;10,3
+Lupinenmehl;Gemüse und Gemüseerzeugnisse;340;8,1;11,5;11,5;38,4;29,5;6,2;0;2,1;628;5,8
+Eiscreme;Süßwaren, Zucker, Bonbons, Schokolade, Brotaufstrich süß, Eis;160;2,7;30,7;30,7;2,6;0;63;0;0,8;0,3;0,4
+Wurst;Wurst, Fleischwaren;355;30,8;0,2;0,2;20,1;0,1;44,5;0;4,3;0;8,3
+Pastinake roh;Gemüse und Gemüseerzeugnisse;59;0,4;12,1;12,1;1,3;2,1;81,8;0;1,2;0,5;8,6
+Olivenöl;Fette, Öle, Butter, Schmalz;881;99,6;0,2;0,2;0;0;0,1;0;0,2;0;0
+Schinken-Käsesülze;Wurst, Fleischwaren;145;7,7;1,5;1,5;17,4;0,1;70,2;0;2,8;0,3;8,5
+Kartoffelstärke Mehl;Kartoffeln und Kartoffelerzeugnisse, stärkereiche Pflanzenteile, Pilze;341;0,1;83,1;83,1;0,6;0,1;15,7;0;0,4;0,1;0,4
+Mandeldrink gesüßt;Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen;22;1,1;2,4;2,4;0,4;0,4;95,3;0;0,4;40;0,9
+Füllung für Kalbsbrust;Wurst, Fleischwaren;258;20,6;6,1;6,1;12,6;0,4;58;0;2,4;0;5,1
+Blattspinat gegart;Gemüse und Gemüseerzeugnisse;19;0,3;0,5;0,5;2,8;3;91;0;1,5;0,9;7,6
+Erdbeere frisch;Früchte, Obst und Obsterzeugnisse;32;0,4;5,5;5,4;0,8;2;89,8;0;0,5;1;2,4
+Tilsiter;Milch, Milcherzeugnisse, Käse;354;27,7;0;NA;26,3;0;40,3;0;4,9;0,8;18,6
+Wiener Schnitzel (Zubereitung Großküche);Menükomponenten;211;7,6;17,3;17,3;18,1;1,1;54,3;0;1,5;0,1;9,6
+Graupenblutwurst;Wurst, Fleischwaren;283;20,3;16,4;16,4;9;1,2;50,8;0;2,3;0;2,9
+Schupfnudeln (Zubereitung Haushalt);Menükomponenten;127;2;21,6;21,6;5;2,2;67,7;0;1,1;0,4;0,8
+Kasseler Rippenspeer roh geräuchert;Wurst, Fleischwaren;147;8,3;0,9;0,9;17,4;0;66,6;0;6,9;0;7
+Limette Fruchtsaft;Früchte, Obst und Obsterzeugnisse;92;1,7;15,3;15,3;0,4;0,1;78;0;0,2;4,4;1,3
+Blumenkohl gedämpft;Gemüse und Gemüseerzeugnisse;24;0,3;2,5;2,4;2,6;3,1;90,6;0;0,8;0,2;3,1
+Putenbrust gebraten, mit Soße (Zubereitung Großküche);Menükomponenten;68;1,6;2,8;2,7;10,5;0,8;82,9;0;1,3;0,1;2,7
+Preßsäckel;Wurst, Fleischwaren;285;23,8;0,3;0,3;18;0,1;54,5;0;3,3;0,1;7,2
+Vollkornbrot-Roggenvollkornbrot;Brot- und Kleingebäck;188;1;37,6;37,6;6,5;8,7;44,1;0;2,1;0,1;3,9
+Sauermilchkäse (Harzer) Magerstufe;Milch, Milcherzeugnisse, Käse;131;0,7;0;NA;30;0;63,6;0;4,7;1;19,9
+Mandel süß Mehl;Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen;610;54,9;5,9;5,9;24,9;8,2;4,7;0;1,4;0;3,7
+Rettich weiß frisch;Gemüse und Gemüseerzeugnisse;14;0,2;1,9;1,9;1,1;2,5;93,5;0;0,7;0,1;-6
+Pute Brust frisch;Fleisch (Wild, Geflügel, Federwild, Innereien);107;1;0;NA;24,1;0;73,7;0;1,2;0;11,6
+Zwiebeln;Gemüse und Gemüseerzeugnisse;28;0,3;4,9;4,9;1,2;1,4;91,5;0;0,5;0,2;2,2
+Grapefruit Fruchtsaft;Früchte, Obst und Obsterzeugnisse;48;0,1;8,5;8,5;0,5;0,1;87,3;0;0,3;3,2;2,8
+Orange Fruchtsaft;Früchte, Obst und Obsterzeugnisse;45;0,2;8,8;8,8;0,9;0,2;88,2;0;0,5;1,3;2,9
+Cabanossi Konserve;Wurst, Fleischwaren;331;30,9;0,3;0,3;13,7;0,1;52,1;0;2,7;0,1;5,6
+Puffreis;Cerealien, Getreide und Getreideprodukte, Reis;390;2,3;83,5;83,5;7,5;2;2,5;0;2,2;0;4,3
+Kartoffeln ungeschält roh gegart mit Küchenabfall;Kartoffeln und Kartoffelerzeugnisse, stärkereiche Pflanzenteile, Pilze;56;0;12;NA;1,5;1;64;0;0,7;0,4;4,6
+Blumenkohl gekocht;Gemüse und Gemüseerzeugnisse;19;0,3;2;NA;2;2,4;92,7;0;0,6;0,1;1,4
+Walnuss europäisch;Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen;654;62,5;10,6;10,6;14,4;6,1;4,4;0;2;0;6,3
+Rind Herz frisch;Fleisch (Wild, Geflügel, Federwild, Innereien);97;2,7;0,6;0,6;17,5;0;78,2;0;1,1;0;9,7
+Sardelle Konserve;Fische, Krusten-, Schalen-, Weichtiere;80;1,8;0;NA;15,8;0;79;0;3,4;0;6,5
+Hühnerei Eiweiß frisch gegart;Eier und Eierprodukte, Teigwaren;48;0,2;0,7;0,7;10,6;0;87,8;0;0,7;0;3,4
+Konfitüre, Marmelade mit Fruchtzucker für Diabetiker;Diätetische Lebensmittel;109;0,1;29,5;20,4;0,4;0,3;68,9;0;0,2;0,6;0,6
+Schinkentorte;Wurst, Fleischwaren;122;5,1;2,5;2,5;16,4;0,5;72,6;0;2,7;0,2;5,6
+Sülzwürste;Wurst, Fleischwaren;171;8,3;0,4;0,4;23,5;0,1;64,9;0;2,8;0;9,7
+Wiener Würstchen Konserve;Wurst, Fleischwaren;304;27,7;0,2;0,2;14,4;0,1;54,7;0;2,9;0,1;5,9
+Fenchelgemüse gedünstet (Zubereitung Haushalt);Menükomponenten;65;4,4;2,9;2,9;3,4;4,3;82,5;0;2,4;0,2;9,5
+Skyr;Milch, Milcherzeugnisse, Käse;63;0,5;4,3;4,3;10;0,5;84,1;0;0,6;0;7,1
+Bierschinken-Pastete;Wurst, Fleischwaren;261;17,8;7,9;7,9;17,6;0,6;51,6;0;4,5;0;6,9
+Parmesan;Milch, Milcherzeugnisse, Käse;440;34,8;0;NA;32,3;0;27;0;5,5;0,4;24,7
+Köhler tiefgefroren gegart;Fische, Krusten-, Schalen-, Weichtiere;96;1,1;0;NA;21,3;0;76,4;0;1,2;0;10
+Rotkohl frisch gegart;Gemüse und Gemüseerzeugnisse;18;0,2;2,5;2,5;1,4;2,4;92,8;0;0,5;0,2;1,9
+Bierschinken, Schinkenpastete;Wurst, Fleischwaren;180;11,9;0,1;0,1;18,3;0;67;0;2,6;0,1;7,1
+Brötchen-Weizenbrötchen;Brot- und Kleingebäck;248;1,4;50,7;50,7;7,4;3,2;35,8;0;1,5;0;3,7
+Curry-Bratwurst;Wurst, Fleischwaren;273;25,1;0,3;0,3;12,2;0,1;59,7;0;2,6;0;4,8
+Ricotta Vollfettstufe;Milch, Milcherzeugnisse, Käse;164;13;0,5;0,5;11,3;0;72,1;0;2,7;0,5;6,2
+Rind Gulasch (mager) frisch gegart;Fleisch (Rind, Kalb, Schwein, Hammel, Lamm);157;4,8;0;NA;28,4;0;65,9;0;1;0;16,7
+Fleischwurst, Stadtwurst;Wurst, Fleischwaren;283;25,3;0,2;0,2;14,2;0,1;57,3;0;2,7;0,1;6
+Mettwurst grob;Wurst, Fleischwaren;311;27,4;0,2;0,2;16,9;0,1;52,5;0;3,1;0;6,8
+Schwartenmagen;Wurst, Fleischwaren;181;11,1;0,7;0,7;19,5;0,1;62,5;0;5,9;0,2;6
+Brötchen mit Milch;Brot- und Kleingebäck;267;2,5;51,6;51,6;8,5;3,1;32,3;0;1,8;0,1;3,6
+Pute Truthahn gegart;Fleisch (Wild, Geflügel, Federwild, Innereien);253;16,2;0;NA;27;0;55,6;0;1,1;0;14,2
+Frischkäse Doppelrahmstufe;Milch, Milcherzeugnisse, Käse;335;31,5;2,5;2,5;11;0;53;0;1,4;0,6;7,7
+Edamer;Milch, Milcherzeugnisse, Käse;354;28,3;0;NA;24,8;0;41,9;0;4;1;19,1
+Seitan (braun);Vegetarische Produkte;137;2,1;7,8;7,8;21,6;0,7;66,5;0;1,3;0;10,2
+Bismarckhering Konserve, abgetropft;Fische, Krusten-, Schalen-, Weichtiere;180;11,6;3,2;3,2;15,5;0,5;66,9;0;1,9;0,4;7,7
+Tatar (Schabefleisch) frisch;Fleisch (Rind, Kalb, Schwein, Hammel, Lamm);113;3;0;NA;21,4;0;74,4;0;1,2;0;9,3
+Moosbeere;Früchte, Obst und Obsterzeugnisse;36;0,7;3,9;3,9;0,4;3,8;87,1;0;0,2;3,9;1,7
+Pfälzer, Augsburger, Regensburger;Wurst, Fleischwaren;331;30,9;0,3;0,3;13,7;0,1;52,1;0;2,7;0,1;5,6
+Weißer Fleischkäse;Wurst, Fleischwaren;291;26,9;0,1;0,1;13,1;0;57,4;0;2,4;0;5,3
+Schwein Rücken (Kotelett) (mittelfett) frisch gegart;Fleisch (Rind, Kalb, Schwein, Hammel, Lamm);210;10,6;0;NA;28,7;0;59,5;0;1,2;0;12,5
+Bratkartoffeln (Zubereitung Gastronomie);Menükomponenten;108;5;13,4;13,4;1,9;2,1;75,8;0;1,2;0,6;4,6
+Xylit;Diätetische Lebensmittel;236;0;99;NA;0;0;1;0;0;0;0
+Suppenhuhn Klein frisch gegart;Fleisch (Wild, Geflügel, Federwild, Innereien);186;9;2,8;2,8;23,4;0;63,9;0;1;0;13,4
+Brötchen-Weizenmischbrötchen;Brot- und Kleingebäck;231;0,9;47,5;47,5;7,5;4,5;37,7;0;1,8;0;3,9
+Pizza tonno (Zubereitung Gastronomie);Menükomponenten;201;10,2;21,9;21,9;5,3;2;58,8;0;1,5;0,3;0,5
+Haferflocken;Cerealien, Getreide und Getreideprodukte, Reis;354;6,7;59,5;59,5;13,2;9,7;10,1;0;0,9;0;7,1
+Kondensmilch 10 % Fett;Milch, Milcherzeugnisse, Käse;176;10;12,5;12,5;8,8;0;66,3;0;2;0,4;0,5
+Mettwurst schnittfeste Gruppe;Wurst, Fleischwaren;367;34,8;0,2;0,2;14,6;0;46,9;0;3,5;0;6
+Reisnudeln;Cerealien, Getreide und Getreideprodukte, Reis;357;0,6;83,2;83,2;3,4;1,6;10,3;0;0,9;0;6,2
+Kalbfleisch-Galantine;Wurst, Fleischwaren;120;1,9;0;NA;25,5;0;69,3;0;3,2;0;12,5
+Kabeljau frisch Fischzuschnitt;Fische, Krusten-, Schalen-, Weichtiere;77;0,7;0;NA;17,4;0;80,7;0;1,2;0;7,6
+Spätzle (Zubereitung Gastronomie);Menükomponenten;130;2,3;21,6;21,6;5,3;1,2;69;0;0,5;0;3,3
+Wildbret-Galantine                     ;Wurst, Fleischwaren;195;11,7;0,1;0,1;22,3;0;62,1;0;3,7;0;10,2
+Champignon Konserve gegart abgetropft;Kartoffeln und Kartoffelerzeugnisse, stärkereiche Pflanzenteile, Pilze;14;0,2;0,4;0,1;2,6;2;92,9;0;1,6;0,2;0,1
+Sprotte frisch;Fische, Krusten-, Schalen-, Weichtiere;214;16,6;0;NA;16,7;0;64,9;0;1,8;0;7,4
+Buchweizen Vollkorn;Cerealien, Getreide und Getreideprodukte, Reis;340;1,7;71;NA;9,1;9,9;6,6;0;1,7;0;2,4
+Rührei (Zubereitung Haushalt);Menükomponenten;164;12,7;1,5;1,5;11,1;0;73,2;0;1,4;0;8,3
