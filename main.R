@@ -132,14 +132,12 @@ for(url in urls$URL){
 }
 
 # speichere die Tabellen
-write.csv2(makros, "Tabellen/makros.csv")
-write.csv2(vitamine, "Tabellen/vitamine.csv")
-write.csv2(mineralstoffe, "Tabellen/mineralstoffe.csv")
-write.csv2(spurenelemente, "Tabellen/spurenelemente.csv")
-write.csv2(kohlenhydrate, "Tabellen/kohlenhydrate.csv")
-write.csv2(aminos, "Tabellen/aminos.csv")
-write.csv2(ballaststoffe, "Tabellen/ballaststoffe.csv")
-write.csv2(fette, "Tabellen/fette.csv")
-
-
+write.csv2(makros, "Tabellen/makros.csv", fileEncoding = "latin1", row.names = F)
+write.csv2(vitamine, "Tabellen/vitamine.csv", fileEncoding = "latin1", row.names = F)
+write.csv2(mineralstoffe, "Tabellen/mineralstoffe.csv", fileEncoding = "latin1", row.names = F)
+write.csv2(spurenelemente, "Tabellen/spurenelemente.csv", fileEncoding = "latin1", row.names = F)
+write.csv2(kohlenhydrate, "Tabellen/kohlenhydrate.csv", fileEncoding = "latin1", row.names = F)
+write.csv2(aminos, "Tabellen/aminos.csv", fileEncoding = "latin1", row.names = F)
+write.csv2(ballaststoffe, "Tabellen/ballaststoffe.csv", fileEncoding = "latin1", row.names = F)
+write.csv2(fette, "Tabellen/fette.csv", fileEncoding = "latin1", row.names = F)
 
