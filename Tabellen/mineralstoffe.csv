@@ -541,3 +541,849 @@
 "Sprotte frisch";85;170;300;30;100;200;200
 "Buchweizen Vollkorn";75;30;400;130;1;290;120
 "Rührei (Zubereitung Haushalt)";67;381;134;13;266;185;144
+"Dresdner Stollen aus Hefeteig fettreich";39;38;254;24;11;94;53
+"Quark mit Früchten Magerstufe- Magerquark";71;70;156;12;24;95;50
+"Geflügelgalantinen                     ";14;968;255;25;726;182;175
+"Rote Rübe Konserve abgetropft";30;527;192;19;255;38;14
+"Erythrit";0;0;0;0;0;0;0
+"Gewürfelte Zungenwurst Konserve";18;1748;349;30;1512;215;220
+"Bratensoße dunkel Konserve";18;609;95;8;397;40;38
+"Weizen Vollkornmehl";32;37;337;124;3;345;125
+"Puffmais";11;8;240;81;3;281;50
+"Steinpilz frisch";23;30;341;12;6;85;20
+"Rucola roh";152;103,6;350,6;32,3;25,7;60,8;95
+"Rind, Schwein Hackfleisch frisch";5;53;317;20;55;165;165
+"Knäckebrot-Roggenmischbrot mit Sesam";85;1016;262;82;639;226;131
+"Spiegelei (Zubereitung Haushalt)";54;431;133;13;306;207;172
+"Trinkmilch mit Kakao, Schokolade";100;97;173;29;73;99;50
+"Kalbskopf im Darm                     ";16;385;338;28;311;216;216
+"Ziegenmilch";130;130;180;15;40;105;27
+"Graubrot-Roggenbrot mit Schrotanteilen";19;689;226;49;428;159;91
+"Croissant aus Blätterteig";50;609;135;16;371;110;72
+"Spitzkohl frisch";50;30;249;9;6;30;70
+"Melassesirup dunkel";500;820;1470;140;96;31;69
+"Weißkohl frisch gegart";46;34;108;15;9;26;51
+"Kakaobohne, -masse";114;32;1920;414;17;656;200
+"Schwein Bauch (mittelfett) frisch";1;61;143;22;53;52;162
+"Maisbrötchen";20;865;184;43;543;197;45
+"Rind Bratenfleisch (mager) frisch gegart";4;66;202;18;37;205;224
+"Kartoffelpuffer (Zubereitung Gastronomie)";12;226;381;20;124;63;52
+"Sojabohnen reif frisch";250;7;1800;250;4;550;200
+"Weichkäse";400;1200;150;20;1000;400;210
+"Emmentaler Vollfettstufe";1100;600;100;43;300;700;200
+"Johannisbeere schwarz tiefgefroren";55;16;355;18;2;42;34
+"Hefe-Weizenbier obergärig";2;30;35;10;4;20;16
+"Rohwurst";12;1257;319;24;933;160;156
+"Hafer";80;119;355;129;8;342;200
+"Brötchen mit Rosinen";17;671;160;21;414;81;66
+"Weißbrot-Toastbrot";33;704;125;13;435;106;72
+"Mandelmus pur";270;4;758;300;6;450;140
+"Grahambrot";30;677;222;91;424;250;86
+"Schlagsahne 40% Fett";67;59;95;7;30;57;20
+"Rind Steak (mittelfett) frisch gegart";3;127;234;21;40;151;216
+"Sülzen und Aspik";16;597;323;24;466;170;157
+"Rosenkohl frisch";31;40;387;22;10;84;93
+"Vollkornbrot-Weizen, Roggenvollkornbrot";31;678;259;82;422;246;88
+"Haselnuss";149;27;745;163;0;288;160
+"Hähnchenbrust paniert gebraten (zubereitet ohne Fett)";25;500;213;19;334;151;172
+"Sesam";783;10;458;347;45;607;230
+"Graubrot-Haferbrot";23;693;215;54;429;189;77
+"Knoblauch gegart";40;33;453;32;18;139;55
+"Joghurt vollfett mit Fruchtzubereitung";114;84;145;11;42;84;44
+"Rind Muskelfleisch";6;52;360;22;66;190;190
+"Fleischkäse";12;1175;252;21;872;130;126
+"Paprikaschoten frisch";11;19;177;12;3;29;21
+"Kalbsleberwurst";15;922;236;23;692;207;183
+"Graubrot-Roggenbrot mit Sonnenblumenkernen";22;660;238;62;410;168;92
+"Big Mac (Zubereitung Gastronomie)";87;531;177;20;412;184;99
+"Broccoli frisch gegart";112;74;298;23;15;79;124
+"Grüne Bohnen gedünstet (Zubereitung Haushalt)";54;329;222;23;204;35;17
+"Kartoffelwurst";12;1063;246;23;779;66;107
+"Schwein Schinken";22;2740;145;22;1047;117;159
+"Birne";9;2;125;7;2;15;5
+"Schwarzwälder Kirschtorte";47;67;105;13;51;77;44
+"Champignonleberwurst";13;851;232;21;632;179;156
+"Bergkäse Vollfettstufe";1100;600;100;43;300;700;200
+"Grützblutwurst";24;924;304;30;686;157;132
+"Hausmacher Leberwurst Konserve";13;1295;187;19;962;189;151
+"Buchweizen Grieß";12;10;218;48;1;150;60
+"Paranuss frisch";132;57;645;160;2;675;245
+"Schafsmilch";190;80;180;18;50;140;35
+"Schlagsahne 10% Fett";103;64;129;12;39;77;26
+"Colagetränke (coffeinhaltig)";4;10;1;1;4;6;9
+"Schweinekümmelmagen";20;1599;407;35;1186;223;185
+"Geflügelmortadella gebacken";19;566;212;11;958;198;89
+"Lachs geräuchert";14;66;310;29;53;252;201
+"Gewürzgurken Sauerkonserve";15;507;106;10;317;22;11
+"Parmesan Vollfettstufe";1200;1700;100;44;1200;750;250
+"Brombeere frisch";45;20;190;30;3;30;12
+"Marzipan";82;14;273;72;2;148;49
+"Vanillepudding (Zubereitung Großküche)";100;123;131;10;69;84;30
+"Kaffee mit Milch (Getränk)";6;4;69;6;3;5;2
+"Bregenwurst";13;1153;385;29;885;311;196
+"Ahornsirup";67;42;204;14;9;2;50
+"Edelkastanien (Maronen) Mehl";55;22;1178;75;3;145;48
+"Zucker";1;2;2;0;0;0;0
+"Weizen Mehl Type 405";5;50;168;14;1;62;100
+"Schokolade weiß";185;161;241;20;74;144;47
+"Gefüllte Kalbsbrust";35;1463;375;28;1069;205;197
+"Kartoffelbrei, Kartoffelpüree (Zubereitung Haushalt)";27;265;321;17;150;53;31
+"Kohlrabi gegart";69;54;182;28;15;48;48
+"Buchweizen gegart";8;5;127;33;1;95;31
+"Vanillezucker";1;2;2;0;0;0;0
+"Röstbrotwürfel";120;1010;120;24;650;96;96
+"Schinkenwurst";13;1232;284;25;914;140;152
+"Vollkornbrot-Weizenvollkornbrot";30;677;222;91;424;250;86
+"Tiroler Schinkenwurst";12;1077;434;32;807;216;209
+"Leberpreßsack";11;898;183;21;670;152;156
+"Milchschokolade";214;131;471;86;58;242;72
+"Rinswurst Konserve";15;1271;305;23;958;170;158
+"Quark Vollfettstufe";110;120;120;10;40;180;100
+"Hausmacher Blutwurst";18;870;78;14;649;64;43
+"Mischgemüse gedünstet, in Butter geschwenkt (Zubereitung Gastronomie)";36;335;263;20;217;62;22
+"Schinkenwurst roh";14;1465;316;25;1087;161;155
+"Kaffee (Getränk)";2;1;66;6;1;2;1
+"Granatapfel Fruchtsaft";8;40;254;3;6;18;16
+"Rote Rübe frisch gegart";29;77;157;16;27;43;15
+"Radicchio frisch";40;55;240;11;10;27;12
+"Schwein Speck durchwachsen roh geräuchert";1;48;136;21;51;49;162
+"Herzwurst";16;1327;293;27;1055;164;169
+"Kalbfleischpastete";20;1173;298;27;879;180;179
+"Schokoladenkuchen aus Rührmasse";60;100;203;40;182;206;76
+"Geflügelfleischkäse";22;1312;292;24;956;171;187
+"Kichererbsen reif gekocht";49;32;280;61;9;169;83
+"Möhrensalat mit Zitronenmarinade (Zubereitung Haushalt)";22;145;181;11;102;20;6
+"Kochwurstpasteten";15;1095;345;28;829;205;213
+"Haferflocken gegart";4;15;76;30;0;77;50
+"Blutorangen";40;4;164;12;1;20;9
+"Weißbrote";15;694;95;20;428;74;67
+"Pecannuss geröstet";34;33;360;130;1;295;139
+"Rotkohl Konserve";23;383;149;12;200;19;41
+"Schwein Schnitzel (mittelfett) frisch";2;69;300;25;75;170;193
+"Weizenfladenbrot";15;694;95;20;428;74;67
+"Getreideflocken";54;61;348;139;7;391;200
+"Geflügelbockwurst";22;1311;292;24;956;171;187
+"Mangold frisch";103;100;376;81;90;39;20
+"Walnuss frisch";87;23;544;130;2;410;140
+"Brötchen-Haferbrötchen";24;732;227;57;453;200;81
+"Pistazie";135;40;1020;160;6;500;250
+"Jagdwurst Pastete";12;975;274;24;724;128;144
+"Schwarzwälder Bauernwürstle";12;1512;267;28;1123;128;175
+"Zuckermais Konserve abgetropft";10;477;175;38;223;98;27
+"Mozzarella 30% Fett i. Tr.";378;265;40;13;280;282;140
+"Rotwein mittel Qualitätswein";9;10;105;10;3;20;12
+"Kokosblütenzucker";188,7;47;815;2,9;112;7,9;2,6
+"Fischstäbchen paniert tiefgefroren";19;425;247;22;248;226;160
+"Hühnerei Eiweiß";11;170;154;12;170;21;180
+"Kartoffelchips (verzehrsfertig)";52;700;1000;64;450;147;100
+"Blutpreßsack";20;1268;267;28;943;130;154
+"Broccoli gegart";112;74;298;23;15;79;124
+"Buchweizen Vollkornmehl";33;12;680;50;1;263;140
+"Weißkohl frisch";46;37;208;23;12;28;54
+"Debreziner";12;1402;211;23;1046;103;145
+"Natürliches Mineralwasser still";10;3;1;3;3;0;1
+"Regenbogenforelle frisch";12;60;413;26;63;245;210
+"Buttermilch";110;110;150;13;60;90;30
+"Joghurt mit Müsli";112;114;191;26;55;124;63
+"Schwein Bratenfleisch (mittelfett) frisch gegart";7;78;224;23;54;139;217
+"Matjeshering frisch Fischzuschnitt";43;145;390;35;117;200;220
+"Chili con carne (Zubereitung Haushalt)";13;255;196;17;162;69;53
+"Eierteigwaren gegart";10;6;40;21;3;68;64
+"Heidelbeere";13;5;73;2;1;13;13
+"Gänsepresskopf";13;1054;239;21;789;108;154
+"Bratkartoffeln (Zubereitung Haushalt)";10;300;286;17;176;43;33
+"Erdnussmus";35;26;720;158;17;320;384
+"Rind Fett (Talg)";0;0;6;1;11;7;0
+"Kürbissuppe (Zubereitung Haushalt)";16;259;119;9;163;15;5
+"Schwein Speck gekocht geräuchert";1;53;94;18;32;44;180
+"Rind Steak (mittelfett) frisch";3;108;351;22;54;157;183
+"Rinderleber gebraten (Zubereitung Haushalt)";10;397;300;18;315;368;246
+"Schnittsalat (Blatt- Pflücksalat)";68;60;264;11;9;25;57
+"Kalbsleberwurst Konserve";15;922;236;23;692;207;183
+"Hanfsamen geschält";181;14,1;642,3;283,8;4,4;468,4;193,3
+"Mais Grieß";4;15;80;20;1;73;80
+"Butterkeks";136;337;257;43;266;245;59
+"Sesamöl";10;0;20;0;2;0;0
+"Buchweizenbrötchen";17;864;226;39;543;163;43
+"Weizen Grieß";17;87;112;30;1;87;130
+"Geflügelteewurst";9;577;226;9;1189;165;105
+"Broccoli frisch";105;78;373;24;19;82;130
+"Rosenkohl frisch gegart";27;34;182;12;8;71;79
+"Tilsiter Vollfettstufe";750;1400;100;37;773;500;200
+"Kantalupe roh";14;44;309;11;17;24;12
+"Dinkel Vollkornmehl";8;8;407;109;2;286;58
+"Batate (Süßkartoffel) gegart";22;46;323;18;4;38;16
+"Kaiserbrötchen";23;714;166;42;445;137;63
+"Pommes Frites tiefgefroren gebacken";11;45;236;17;2;27;34
+"Broccoli tiefgefroren";105;77;370;24;19;81;129
+"Chiasamen";206;16;731;323;10;533;220
+"Rind, Schwein Hackfleisch gegart";6;63;239;18;38;161;198
+"Weizen Vollkorn";38;55;381;128;8;341;140
+"Brühwurst grobgekuttert (umgerötet)";11;958;250;20;717;132;128
+"Avocado roh";14;12;550;25;0;49;0
+"Leberpastete mit Champignons";15;990;284;22;732;184;152
+"Hühnerei Eigelb frisch gegart";137;72;92;14;27;576;166
+"Sahne";80;50;100;9;30;60;20
+"Vollkornbrot mit Leinsamen";30;678;299;68;412;250;93
+"Reiswurst";11;714;113;23;529;69;89
+"Teewurst grob";8;1128;172;26;844;70;165
+"Hirse Vollkorn gekocht";4;6;52;46;1;99;38
+"Trüffelleberwurst";13;866;216;21;649;181;164
+"Johannisbeere schwarz Fruchtsaft";48;14;263;15;2;35;28
+"Löwenzahn roh";168;100;501;37;76;66;17
+"Graubrot-Roggenmischbrot mit Sauermilch";34;681;167;39;425;130;78
+"Brathähnchen Schenkel gegrillt";16;89;222;25;84;167;222
+"Würfelpastete";12;1177;264;23;876;126;141
+"Mandarine Konserve abgetropft";34;5;124;10;2;16;10
+"Bremer Pinkel";27;828;278;32;601;152;104
+"Schokokeks glutenfrei";172;295;326;42;355;309;52
+"Polenta (gebackener Maisbrei) (Zubereitung Haushalt)";8;388;22;7;250;20;21
+"Linsen reif Mehl";73;87;868;133;37;424;124
+"Tomaten Gemüsesaft";15;206;238;10;5;16;6
+"Mangold frisch gegart";122;112;234;61;85;44;22
+"Rindfleischsülze";16;1371;352;26;1035;203;171
+"Vollkornbrötchen allgemein";31;856;221;95;541;256;88
+"Salatsoße (Zubereitung Haushalt)";36;600;78;15;350;27;28
+"Mandel bitter roh";85;40;676;218;2;347;150
+"Gerste Rollgerste (grobe Graupen)";14;110;190;65;5;189;120
+"Creme, Schmand 20% Fett";100;70;130;11;40;80;20
+"Frischkäse mit Kräutern Doppelrahmstufe";90;570;90;7;350;150;110
+"Bulgur";30;22;262;140;5;319;100
+"Schwein Speck durchwachsen (Frühstücksspeck)";31;3106;232;52;2366;122;150
+"Schinken-Käsepastete";170;1550;227;28;930;225;186
+"Westfälinger";11;1319;233;31;984;99;198
+"Aalrauchmettwurst";16;1795;409;32;1332;205;200
+"Baguette";16;731;100;21;451;78;71
+"Schweinskopfwurst";10;1075;263;23;789;141;171
+"Schafskäse";450;1900;150;25;1300;360;200
+"Mohn gemahlen geschrotet";1475;20;712;336;21;863;152
+"Vollkornteigwaren gegart";14;5;106;46;1;159;82
+"Cervelatwurst IA und fein";15;1710;399;31;1275;204;196
+"Kabeljau (Dorsch) gegart";19;162;289;35;88;188;252
+"Geflügelsalami";24;1730;436;32;1271;242;255
+"Hausmacher Sülze Konserve";7;634;328;23;472;142;140
+"Kuhmilch";120;100;150;12;50;93;30
+"Knoblauchwurst, Cabanossi";9;906;171;19;678;85;120
+"Vollkornteigwaren eifrei";34;22;390;120;5;370;190
+"Lauchzwiebel gebraten (zubereitet ohne Fett)";146;38;233;12;14;25;52
+"Lammfleisch Cervelatwurst";21;1688;260;30;1255;183;195
+"Spargel frisch gegart";28;54;114;12;3;46;47
+"Aprikose roh";16;1;280;9;2;21;6
+"Flohsamenschalen";238,8;18,8;847,2;374;61;618,1;255,4
+"Paniermehl";50;700;130;23;400;100;110
+"Ente Fleisch mit Haut frisch gegart";16;93;230;25;42;219;219
+"Teigwaren (allgemein) Schnitt-, Bandnudeln";27;31;164;67;17;191;180
+"Ananas frisch";16;39;173;17;2;9;3
+"Hirschpastete";15;1095;345;28;829;205;213
+"Vollkornkeks";40;461;317;86;333;368;122
+"Limonaden koffeinhaltig";4;10;1;1;4;6;9
+"Roggen Flocken";64;20;450;120;2;350;130
+"Weizen Kleie";67;150;1340;480;2;1142;65
+"Erdkirsche Konfitüre";4;2;64;3;2;15;2
+"Passionsfrucht - Maracuja frisch";17;37;340;0;28;57;19
+"Schinkenmettwurst";14;1605;320;26;1189;164;159
+"Rotbarsch frisch gebraten Fischzuschnitt";26;167;275;31;91;204;261
+"Graubrot-Roggenbrot";19;687;217;47;428;148;91
+"Kohlrübe frisch";48;31;227;11;10;31;39
+"Haifischöl";2;40;3;0;5;5;5
+"Schwarze Bohnen roh";123;25;1483;171;5;352;120
+"Apfel";5;2;119;5;1;11;6
+"Rosenkohl gegart";27;34;182;12;8;71;79
+"Blauschimmel Rahmstufe";540;1800;120;23;1234;360;220
+"Rind Brust (Spannrippe) (fett) frisch";4;51;242;16;45;173;155
+"Schweinerückenpastete mit Mürbeteig";15;294;311;58;227;146;183
+"Limburger Vollfettstufe";340;1166;97;19;777;249;223
+"Kürbiskernmehl";90,7;80;1304;739;1640;1570,9;454,6
+"Sauerkirsche Fruchtsaft";15;22;201;13;1;17;8
+"Spaghetti Bolognese (Zubereitung Haushalt)";41;331;157;20;213;85;65
+"Buchweizen Korn geschält";21;12;324;85;2;254;80
+"Gemüsebrühe (Zubereitung Haushalt)";17;279;95;7;177;20;10
+"Graubrot-Roggenbrot mit Kümmel";50;666;254;54;414;160;91
+"Weißer Schweinskäse";11;1150;348;28;853;170;176
+"Feige frisch";54;18;240;20;2;32;13
+"Pfifferling frisch";8;30;507;14;3;55;35
+"Graubrot-Weizenmischbrot";22;676;157;40;421;130;60
+"Weißwurst in Kapernsoße                  ";38;777;210;21;624;107;114
+"Norddeutsche Kochmettwurst";11;1127;209;28;846;93;179
+"Hirse Mehl";40;10;370;150;2;260;130
+"Zartbitterschokolade";41;12;692;149;6;236;72
+"Erdnussflips";16;1192;165;43;770;107;115
+"Blutwürste";18;868;78;14;646;64;43
+"Möhren gedünstet (Zubereitung Haushalt)";39;360;254;17;250;32;8
+"Rüböl (Rapsöl)";1;1;1;1;1;1;0
+"Spitzkohl gedünstet (Zubereitung Großküche)";40;313;188;8;192;25;55
+"Gebrannte Cashewkerne";43,7;23,1;457,5;165,1;4;318,8;135,3
+"Knackwurst, Servela";12;1111;246;20;823;129;119
+"Aubergine frisch gegart";13;56;187;11;2;21;29
+"Filetpastete und andere";12;1081;367;27;819;191;187
+"Cashewnuss geröstet";41;22;530;255;17;426;184
+"Champignon frisch gegart";11;67;305;11;7;123;34
+"Chinakohl frisch";40;18;144;11;19;30;60
+"Delikateß-Leberwurst";13;888;206;21;663;183;167
+"Pollack frisch";15;200;326;25;99;300;200
+"Kasseler gegrillt";0;1601;388;23;1206;268;229
+"Leberwurst Ia";13;888;206;21;663;183;167
+"Lachs pazifisch";22;60;394;30;47;270;180
+"Geselchte";11;1075;262;24;799;127;156
+"Salami IA fein";16;1693;355;28;1261;186;177
+"Debreziner (Brühwurst)";11;958;180;20;717;90;127
+"Katenrauchwurst";14;1694;313;30;1258;151;187
+"Gelbwurst";9;981;148;18;728;70;107
+"Apfel geschält roh mit Küchenabfall";3;2;137;6;3;10;6
+"Rosenkohl tiefgefroren";31;39;382;22;10;83;92
+"Spinat tiefgefroren";119;51;598;55;62;52;19
+"Goldbackfisch paniert tiefgefroren";26;353;256;25;205;171;190
+"Fleischsalat (Zubereitung Gastronomie)";27;912;85;12;569;93;56
+"Pferd Fleisch";13;9;332;23;44;185;200
+"Brennnessel roh";713;150;475;80;80;138;40
+"Luzernensprossen (Alfalfa) frisch";32;10;79;27;6;70;50
+"Kefir";120;100;150;12;50;100;30
+"Sojajoghurt Vanillegeschmack angereichert mit Calcium und Vitaminen probiotisch";120;0;66;47;50;15;0
+"Bier alkoholfrei (< 0,5 Gew% Alkohol)";5;12;40;8;3;20;10
+"Kakaobutter";0;0;1;0;0;0;0
+"Körnerbrot glutenfrei";62;14;333;60;4;137;42
+"Zuckermelone - Honigmelone roh";14;44;309;11;17;24;12
+"Sirup";26;42;240;10;270;20;50
+"Radieschen frisch";34;44;255;8;17;26;37
+"Kaffee entcoffeiniert röststoffarm (Getränk)";3;1;35;4;3;35;1
+"Banane tiefgefroren";9;113;408;37;1;29;13
+"Mandel süß geröstet";260;18;770;290;11;555;150
+"Bohnen weiß reif Konserve";33;311;332;36;195;107;43
+"Ochsenschwanz in Gelee";8;69;390;25;78;192;192
+"Salami italienische Art";17;1704;371;29;1273;193;186
+"Gerste Vollkornflocken";16;20;160;66;3;189;120
+"Gewürzgurken Sauerkonserve, abgetropft";22;708;107;12;345;31;16
+"Inulin";0;0;0;0;0;0;0
+"Brühwurst feingekuttert (nicht umgerötet)";9;981;148;18;728;70;107
+"Preßkopf rot, Panhas";23;1478;297;28;1131;159;147
+"Zwiebeln gegart";23;22;140;9;3;35;56
+"Frankfurter Rindswurst, Rote";15;1271;305;23;958;170;158
+"Berglinsen";71;84;840;129;12;411;120
+"Risotto mit Butter und Parmesankäse (Zubereitung Gastronomie)";80;239;121;26;156;113;71
+"Kichererbsen Konserve abgetropft";59;513;32;44;240;79;44
+"Kochstreichwürste ohne Leber";11;937;224;18;694;115;112
+"Mortadella norddeutsch";15;1276;301;27;946;149;158
+"Mais Mehl";18;14;120;47;1;256;60
+"Butter";13;23;16;3;5;21;9
+"Buchweizen Nudeln (Soba)";35;53;373;119;4;331;140
+"Cashewnuss";31;18;552;270;14;375;200
+"Rosenkohl gedünstet (Zubereitung Haushalt)";31;334;345;21;202;77;83
+"Döner Kebap";26;505;167;20;326;124;107
+"Tofu";159;10;375;50;7;109;33
+"Korinthenbrötchen mit Hefe";17;671;160;21;414;81;66
+"Vanilleeis (Zubereitung Haushalt)";89;92;117;10;52;111;46
+"Grießbrei (Zubereitung Haushalt)";108;141;146;14;72;93;42
+"Joghurt-Dressing (Zubereitung Gastronomie)";132;315;256;18;186;85;48
+"Knoblauchwurst rohe Krakauer";12;1448;178;22;1081;91;136
+"Göttinger Schinkenwurst roh";11;1519;161;29;1132;64;178
+"Roggen Vollkornmehl";64;20;510;120;4;360;130
+"Johannisbeere rot frisch";30;14;240;13;2;30;29
+"Hagebutte Konfitüre";56;7;130;24;31;57;9
+"Kartoffelklöße halb und halb (Zubereitung Haushalt)";8;313;309;18;182;48;35
+"Vollkornbrötchen mit Sesam";63;818;232;106;519;272;94
+"Vollkornbrot-Roggenvollkornschrotbrot";20;704;243;49;434;202;86
+"Joghurt 10% Fett";120;90;140;11;50;90;30
+"Fleischbrühe klar (Zubereitung Gastronomie)";12;312;151;10;211;76;70
+"Gemüseeintopf (Zubereitung Haushalt)";18;444;250;17;295;105;93
+"Knäckebrot-Mehrkornbrot";38;993;254;69;622;210;124
+"Clementine frisch";35;3;180;11;2;20;10
+"Touristenwurst";12;1383;280;23;1028;146;139
+"Grünkohl Konserve";128;358;274;19;222;52;66
+"Würstchen (umgerötet)";12;1126;249;20;834;131;121
+"Kartoffelgratin (Zubereitung Haushalt)";39;348;314;17;205;60;32
+"Heringsfische Makrelen Thunfische gegart";71;172;331;32;83;243;226
+"Sojamehl";250;106;2250;250;40;650;206
+"Schwein Schinkenspeck";2;54;277;23;69;157;188
+"Kokoswasser";27;183;282;30;47;33;24
+"Sojalecithin";0;0;1;0;0;0;0
+"Heringsfilet in Tomatensoße";53;143;351;28;107;210;165
+"Blätterteig tiefgefroren";58;540;70;12;310;54;95
+"Weintraube rot frisch";18;2;190;9;2;20;8
+"Leberrolle";22;1062;326;27;786;233;201
+"Hackfleischsoße italienisch (Zubereitung Großküche)";14;387;244;14;222;47;38
+"Hüttenkäse Magerstufe";68;550;86;6;380;150;100
+"Dinkel ganzes Korn roh";25;18;415;136;1;422;129
+"Feta";450;1900;150;25;1300;360;200
+"Brötchen mit Schinken";16;795;101;21;470;79;74
+"Sächsischer Preßkopf Konserve";11;1001;306;24;741;150;138
+"Schweinekamm gefüllt";81;97;403;62;82;192;209
+"Blumenkohl gegart";22;20;232;13;12;49;58
+"Kasseler";0;1470;419;21;1230;259;210
+"Himbeere Konfitüre";15;9;56;11;7;16;6
+"Graubrot-Mehrkornbrot";24;633;162;44;396;134;79
+"Tee schwarz mit Zucker (Getränk)";8;1;17;3;1;1;3
+"Sanddornbeere Fruchtsaft";43;0;117;31;3;9;8
+"Bier Pils Hell";4;17;55;10;4;32;16
+"Gänsefett, -schmalz";1;10;1;0;5;5;5
+"Plock-und Schinkenwurst roh";21;2186;443;34;1632;237;224
+"Erdbeere tiefgefroren";26;15;152;16;3;26;14
+"Sauce Hollandaise Konserve";23;84;76;8;56;85;47
+"Kichererbsen Konserve abgetropft gekocht";14;145;69;16;69;42;21
+"Spargel grün";26;37;203;17;4;44;47
+"Kefir vollfett";120;100;150;13;50;90;30
+"Birne frisch";9;2;125;7;2;15;5
+"Waffel-Maisbrot glutenfrei";22;617;66;27;455;186;32
+"Brötchen (allgemein)";16;731;100;21;451;78;71
+"Teigwaren aus Hartgrieß gegart";10;5;59;22;1;71;75
+"Kapern Konserve abgetropft";46;3910;26;17;2780;0;0
+"Kasseler gekocht";0;2023;490;29;1439;356;289
+"Gänse-Cervelatwurst";19;1690;341;29;1250;242;190
+"Gemüsepaprika gelb frisch";8;15;220;16;4;26;19
+"Hessische Landrotwurst";11;1117;367;30;825;210;214
+"Spätzle (Zubereitung Haushalt)";18;153;54;9;94;69;69
+"Trinkwasser";7;3;0;1;2;0;1
+"Knäckebrote";23;1059;145;31;653;113;102
+"Pfeffer Lyoner Konserve";13;1274;335;27;943;167;163
+"Kalbsleber gebraten (Zubereitung Haushalt)";14;356;262;19;232;272;206
+"Sojadrink flüssig";13;0;170;21;19;52;0
+"Ente Fleisch mit Haut frisch";14;85;210;22;38;200;200
+"Sojasprossen frisch";32;47;235;19;30;75;30
+"Kalbfleischwurst Konserve";15;1126;221;19;840;132;124
+"Gemüsesuppe dick (Zubereitung Haushalt)";39;330;147;12;206;27;20
+"Pariser Pastete";8;383;213;25;306;116;187
+"Graubrot-Roggenmischbrot";23;673;153;38;422;122;76
+"Knollensellerie frisch";68;150;321;9;77;80;15
+"Graubrot-Roggenmischtoastbrot mit Schrotanteilen";39;699;197;43;434;156;81
+"Früchtetee (Getränk)";2;60;9;1;1;0;3
+"Vollkornbrötchen-Roggenvollkornbrötchen mit Leinsamen";33;925;306;71;570;259;96
+"Kasseler erwärmt";0;1601;388;23;1206;268;229
+"Dinkelmehl Typ 630";8;19;135;31;1;116;54
+"Delikateß Würstchen";11;1095;247;22;813;122;133
+"Noriblatt (Seetangblätter Norialge)";1034;75;517;741;1354;259;306
+"Hirnwurst";21;1246;364;28;937;274;158
+"Brathähnchen Herz frisch";22;100;262;17;111;164;200
+"Eierlikör";14;17;14;4;5;50;17
+"Kaisersemmel";23;714;166;42;445;137;63
+"Bratwurst, Rheinische Bratwurst";11;1010;202;18;750;101;112
+"Weichkäse Doppelrahmstufe";280;1200;120;16;700;250;210
+"Schinken-Galantine                     ";9;1030;477;33;768;231;229
+"Lamm Herz frisch";7;140;280;21;89;175;200
+"Bauernbratwurst";11;1319;233;31;984;99;198
+"Schweinezungensülze";22;1882;222;22;1679;152;153
+"Cheddar Rahmstufe";840;600;100;25;620;490;230
+"Ananas Konserve";11;22;79;10;1;5;2
+"Palmfett - Palmöl";1;1;1;1;1;1;0
+"Kalbfleischkäse";15;1126;221;19;840;132;124
+"Sauerkirsche Konserve abgetropft";10;20;67;8;3;17;8
+"Eier";56;180;147;12;144;216;180
+"Hasenpastete";17;1088;323;29;814;212;210
+"Nuß-Nougat-Creme süß";71;26;288;60;13;125;47
+"Sauerkirsche roh";8;21;114;8;2;19;8
+"Spargel weiß frisch";26;53;203;18;4;46;47
+"Kondensmilch 7.5 % Fett";240;200;320;24;100;200;70
+"Kartoffelkroketten (Zubereitung Großküche)";13;267;288;17;153;57;45
+"Schoko-Müsli";73;150;377;104;61;283;127
+"Cornichons Sauerkonserve abgetropft";22;708;107;12;345;31;16
+"Gansgalantine                       ";14;968;255;25;726;182;175
+"Salatmayonnaise 50% Fett";10;1000;9;2;750;30;20
+"Knollensellerie frisch gegart";64;133;142;5;35;71;14
+"Schwein Vorder-, Hinterschinken";22;2740;145;22;1047;117;159
+"Käseschinkenwurst";73;1110;300;27;830;186;171
+"Graubrot-Roggenbrot mit Sauermilch";30;694;231;48;432;157;93
+"Salami aus Fleisch anderer Tiere";22;1719;265;30;1278;185;198
+"Kabeljau tiefgefroren";16;159;320;32;77;184;220
+"Auster frisch";45;500;229;30;112;139;200
+"Kochwurst";13;888;206;21;663;183;167
+"Zwetschge frisch";13;1;240;8;2;23;5
+"Kürbis frisch gegart";29;30;292;23;6;43;10
+"Schwedische Leberpastete mit Sardellen";15;1003;260;24;751;196;180
+"Hafer Mehl";55;73;268;131;6;405;160
+"Mandel süß roh";85;40;676;218;2;347;150
+"Fleischwurst im Blätterteig";15;1169;193;23;895;105;108
+"Schwein Hackfleisch frisch";3;58;327;21;46;160;160
+"Couscous roh";26;130;335;71;6;254;194
+"Kokosfett";2;0;2;0;2;1;0
+"Multi-Vitamin-Nektar mit Süßstoff";11;13;93;7;15;13;5
+"Cervelat- und Schlackwurst";15;1710;399;31;1275;204;196
+"Rosinen";31;10;782;15;21;110;23
+"Waffeln einfach (Zubereitung Haushalt)";54;133;103;12;115;116;70
+"Knäckebrot-Weizenbrot mit Weizenkeimen";27;972;202;49;596;195;114
+"Mosaikroulade";12;1177;264;23;876;126;141
+"Sauermilchkäse (Harzer)";180;1300;100;15;800;270;260
+"Lupinenschrot";184,8;57,7;1063,6;207,9;36;462;136,5
+"Sultaninen";31;10;782;15;21;110;23
+"Brötchen-Mehrkornbrötchen";25;668;171;46;418;141;83
+"Sushi";13;64;193;36;18;141;121
+"Mozzarella 20% Fett i. Tr.";95;354;88;8;230;150;100
+"Rauchfleisch";28;3235;277;26;2472;160;155
+"Sojaschrot";200;5;1700;250;4;450;200
+"Sonnenblumenkern";86;48;784;336;0;688;280
+"Salzkartoffeln (Zubereitung Haushalt)";7;217;332;18;120;46;33
+"Pfirsich frisch";7;3;176;9;1;25;6
+"Hummus";145,4;614,6;185,8;78;376;158,7;67,6
+"Sojasoße";77;1826;577;68;1177;169;54
+"Landmettwurst";14;1746;356;32;1297;175;202
+"Quark Halbfettstufe";120;110;120;11;40;180;120
+"Pomelo frisch";4;2;215;6;1;17;5
+"Spargel frisch";26;53;203;18;4;46;47
+"Limonaden";5;11;1;2;7;1;8
+"Schlagsahne 30 % Fett";80;50;100;9;30;60;20
+"Graubrot-Toastbrot";40;697;185;40;434;144;81
+"Tee- und andere streichfähige Rohwurst";10;1117;196;22;832;95;136
+"Schaf Keule (mittelfett) frisch gegart";10;89;209;23;49;207;217
+"Erdnuss";41;7;660;160;11;340;380
+"Kichererbsenmehl";124;70;810;155;20;407;180
+"Geflügelbratwurst gegrillt";22;1852;299;26;1072;193;201
+"Pesto";311;467;213;51;218;276;81
+"Delikateß-Pastete";20;1733;224;30;1420;109;158
+"Camembert Halbfettstufe";600;1500;200;20;1100;600;210
+"Kalbsrouladen";34;2388;306;34;2026;188;190
+"Oliven schwarz gesäuert";80;3800;38;16;3288;29;40
+"Haselnussmus";153;28;763;167;0;295;164
+"Leinmehl";329;25;1128;447;68;823;340
+"Lebertran";1;100;1;0;0;1;1
+"Zitrone Fruchtsaft";10;4;111;24;2;14;11
+"Kasseler gebacken";0;1601;388;23;1206;268;229
+"Dorschleber Konserve in Öl";7;35;85;5;383;65;0
+"Lammfilet (Zubereitung Gastronomie)";17;440;260;33;310;236;236
+"Gouda mind. 50% Fett i. Tr.";958;900;123;33;1089;650;220
+"Oliven grün gesäuert";95;3241;45;19;2100;17;36
+"Riesengarnelen gegrillt (Zubereitung Großküche)";63;375;177;38;328;197;334
+"Brathähnchen Magen frisch";8;80;236;16;76;135;100
+"Roter Thun frisch";20;140;252;20;43;200;230
+"Hühnerei Eigelb";140;140;138;16;51;590;170
+"Gerste Vollkorn";38;23;444;114;18;342;120
+"Sauerkraut abgetropft frisch";48;860;288;14;355;43;41
+"Linsen reif Konserve gegart abgetropft";8;90;63;11;57;38;11
+"Erbsen grün frisch";24;40;304;33;2;108;50
+"Zitrone frisch";11;5;149;28;3;16;12
+"Schwein Schinkenspeck roh ungeräuchert";2;68;292;24;73;166;188
+"Wurstsülze";6;528;223;18;396;91;108
+"Biologische pflanzliche Soja-Joghurtalternative";13;0;170;21;19;52;0
+"Zucchini frisch";30;45;200;22;1;23;25
+"Gnocchi roh";21;101;155;14;520;50;41
+"Fleischsalat Grundlage";12;896;175;15;664;111;94
+"Currywurst mit Curryketchup (Zubereitung Gastronomie)";13;1128;239;21;851;98;91
+"Vollkornbrötchen-Roggen, Weizenvollkornbrötchen";35;771;316;87;480;279;103
+"Krakauer Konserve";11;1078;231;21;809;118;141
+"Schwein Fett (Schmalz)";0;4;1;1;1;2;0
+"Remoulade 65% Fett";14;400;49;3;265;55;20
+"Kidney-Bohnen Konserve abgetropft";53;399;484;63;264;175;73
+"Sauerkraut (Zubereitung Haushalt)";33;667;204;11;317;30;28
+"Petersilienblatt tiefgefroren";231;151;943;39;31;120;179
+"Brötchen-Weizenbrötchen mit Mohn";85;697;129;36;430;116;75
+"Bärlauch roh";76;44;336;22;16;50;61
+"Pastinake gegart";44;48;389;21;6;76;17
+"Emmentaler";1100;600;100;43;300;700;200
+"Weintrauben";18;2;190;9;2;20;8
+"Gutsleberwurst Konserve";13;940;217;26;704;165;190
+"Füllung für Rouladen";27;2065;160;27;1732;71;134
+"Weizen Vollkornflocken";38;55;381;128;8;341;140
+"Geflügeljagdwurst";28;1173;355;27;949;215;234
+"Sauerkrautsalat mit Salatöl (Zubereitung Großküche)";51;765;276;15;316;43;40
+"Krapfen (Zubereitung Gastronomie)";10;262;93;15;167;47;81
+"Krakauer roh Colbassa";13;1439;199;23;1075;102;141
+"Sesam roh";783;10;458;347;45;607;230
+"Kaffee mit Zucker (Getränk)";2;1;65;6;1;2;1
+"Banane frisch mit Küchenabfall";6;73;263;24;1;19;9
+"Schwein Bauchspeck roh geräuchert";1;48;136;21;51;49;162
+"Schinkenplockwurst";20;2251;449;40;1676;225;256
+"Gerauchte Schinkenwurst";11;1090;234;26;819;113;173
+"Limonaden kalorienarm";21;9;1;2;5;3;6
+"Braunschweiger Mettwurst";15;1756;415;36;1305;201;233
+"Kalbskäse";18;740;367;27;564;276;160
+"Roggen Mehl Type 997";31;35;240;56;1;180;140
+"Fleischwurst mit Milcheiweiß Konserve           ";11;1013;240;19;755;124;127
+"Schwein Gulasch (mittelfett) frisch";9;68;282;24;73;147;188
+"Lachsfilets gebraten (Zubereitung Haushalt)";34;366;345;35;255;253;193
+"Natürliches Mineralwasser mit Kohlensäure";10;3;1;3;3;0;1
+"Milchreis mit Zucker und Zimt (Zubereitung Haushalt)";97;99;140;22;50;98;40
+"Teigwaren (allgemein) Spätzle";27;31;164;67;17;191;180
+"Gänseleber in Aspik";16;839;221;21;625;230;193
+"Fleischkäse grob";11;1103;302;26;821;146;164
+"Schafskopfbrasse frisch";90;140;234;30;101;200;240
+"Kokosmilch mit Süßstoff";27;181;279;30;62;33;24
+"Mungobohnensprossen frisch";13;15;134;18;5;49;70
+"Hähnchenbrustfilets gebraten (Zubereitung Gastronomie)";26;410;361;30;283;213;202
+"Kartoffelsalat mit Mayonnaise (Zubereitung Großküche)";12;376;300;18;233;45;33
+"Trüffelleberwurst Konserve";13;866;216;21;649;181;164
+"Schwein Speck roh geräuchert";1;48;136;21;51;49;162
+"Macadamianuss geröstet und gesalzen";49;1216;324;117;769;199;225
+"Sternpastete";12;1177;264;23;876;126;141
+"Saure Sahne 10 % Fett";110;80;140;12;40;90;25
+"Bratwurst grob, Schweinsbratwurst grob";8;927;174;26;693;71;162
+"Brathähnchen Brustfilet mariniert gegrillt";29;367;266;29;250;205;193
+"Erbsen grün tiefgefroren";24;39;298;33;2;106;49
+"Rind Hackfleisch gegart";6;60;232;16;40;163;200
+"Mandel süß";85;40;676;218;2;347;150
+"Cocktailwürstchen Konserve";12;1127;257;20;838;132;127
+"Wirsingkohl gegart";46;20;128;7;7;51;80
+"Rohkostsalat mit Salatsoße ";33;298;268;15;183;34;24
+"Joghurt entrahmt";140;110;170;13;50;100;40
+"Avocadocreme (Guacamole)";24;382;336;21;169;46;3
+"Weizen Kleie gegart";8;19;135;60;0;137;8
+"Hartes Wasser   (14...21°d)";10;5;0;1;3;0;2
+"Eierpfannkuchen - Eierkuchen (Zubereitung Haushalt)";65;176;122;14;142;144;96
+"Sellerie frisch";80;130;344;12;132;48;15
+"Stuttgarter Leberkäse";15;955;184;20;710;110;128
+"Frühstücksfleisch Konserve";9;1010;208;25;752;91;155
+"Karotte Gemüsesaft";27;41;219;10;52;31;6
+"Blattspinat frisch";126;54;633;58;65;55;20
+"Hüttenkäse";80;500;80;8;380;140;100
+"Preßwurst";10;1028;291;27;769;142;178
+"Schweineroulade";9;764;182;22;656;98;157
+"Vollkornbrot-Hafervollkornbrot";28;699;297;64;421;244;102
+"Gouda";958;788;123;33;1089;650;220
+"Tomaten geschält Konserve";6;358;198;12;7;19;7
+"Geflügelcabanossi";24;1618;372;28;1180;214;236
+"Brathering Konserve, abgetropft";56;673;185;23;422;146;126
+"Schwein Schnitzel (mager) frisch";9;69;290;21;72;170;193
+"Weizen Keimflocken";69;80;837;250;5;1100;250
+"Mirabelle frisch";12;3;230;15;0;33;10
+"Gänseleberwurst mit Trüffeln";17;1024;266;26;766;269;229
+"Vollkornteigwaren aus Weizen";34;22;390;120;5;370;190
+"Orange frisch";42;4;177;14;1;23;9
+"Tofu fest";159;10;375;50;7;109;33
+"Dinkelmehl 1050";19,9;47,2;335,7;77,1;4;288,4;134,3
+"Kürbiskernöl";0;0;1;0;0;0;0
+"Hirse gegart";4;6;52;46;1;99;38
+"Kaki frisch";8;18;170;8;4;25;17
+"Frischkäsezubereitung Magerstufe";119;109;139;11;40;188;109
+"Vollkornbrötchen-Roggenbrötchen mit Sonnenblumenkernen";27;925;314;73;570;257;95
+"Margarine aus Sonnenblumenöl gehärtet";10;158;7;13;101;10;12
+"Himbeere tiefgefroren";42;23;209;31;1;46;18
+"Joghurt vollfett";130;100;160;12;50;100;53
+"Gouda mind. 30% Fett i. Tr.";958;900;123;33;1089;650;240
+"Kochsalami";14;1247;263;21;931;142;134
+"Haselnuss roh";145,8;26,4;729;159,5;0;281,8;156,6
+"Bier Export Hell";5;35;42;8;4;22;16
+"Vollkornbrötchen-Weizenvollkornbrötchen mit Weizenkeimen";33;813;255;104;511;303;97
+"Brötchen-Weizenbrötchen mit Butter";16;709;98;21;438;76;68
+"Mettwurst gekocht";11;937;224;18;694;115;112
+"Erdmandelmehl";43;20;920;110;24;177;77
+"Vollkornbrot-Roggen, Weizenvollkornschrotbrot";23;681;252;59;421;211;85
+"Paprikaspeckwurst";13;1089;288;26;807;129;147
+"Berliner Knacker";11;1191;233;24;887;116;153
+"Salami";29;1646;381;33;1228;185;173
+"Maltodextrin";1,9;1,9;1;1,9;9,5;28,5;1
+"Tomate rot roh";9;30;235;11;3;22;11
+"Rind Filetsteak frisch";3;55;340;22;42;160;187
+"Erdnussöl ";1;1;1;1;1;1;0
+"Streichmettwurst";12;1257;319;24;933;160;156
+"Graubrot-Weizenmischtoastbrot mit Schrotanteilen";40;699;220;50;431;178;73
+"Weißwurst hannoverisch";19;1915;827;58;1421;398;394
+"Rind Brust (Spannrippe) frisch";4;51;242;16;45;173;155
+"Knäckebrot-Roggenbrot mit Milch";83;1070;395;75;661;265;149
+"Spaghetti alla carbonara ""Köhlerart"" (Zubereitung Gastronomie)";59;307;52;19;200;96;63
+"Vollkornbrötchen-Weizen, Roggenvollkornbrötchen";35;773;295;93;481;280;100
+"Flohsamen";318;25;1128;498;4;823;340
+"Rohwurst, Würstchen, grob gekörnt";17;1554;349;28;1156;182;173
+"Traubenkernöl";0;0;1;0;0;0;0
+"Gummibonbons und Gummibärchen";360;160;360;110;60;4;0
+"Makrele Konserve abgetropft";17;1375;318;28;881;207;160
+"Erdbeere frisch gegart";28;14;128;15;2;26;13
+"Sojabohne geröstet";250;7;1803;250;4;551;200
+"Gemüsezwiebel roh";22;19;162;10;3;33;51
+"Romanosalat frisch";36;48;290;6;8;45;16
+"Maisbrot";19;822;175;41;516;187;43
+"Reis Mehl";7;0;104;23;4;90;50
+"Pflaumenmus";30;1;137;3;13;5;2
+"Schwein Speck roh ungeräuchert";1;61;143;22;53;52;162
+"Früchte-Müsli";53;127;451;110;44;290;135
+"Buttergebäck aus Mürbeteig";19;81;70;11;82;93;69
+"Schwein Schinken gekocht ungeräuchert";19;2463;130;19;942;104;143
+"Frischkäse aus Ziegenmilch (40% Fett i. Tr.)";96;70;118;10;42;181;100
+"Leinsamenbrot mit Hefe";31;648;172;54;402;154;64
+"Schaf Lende (Filet) (mager) frisch gegart";16;94;226;27;61;226;241
+"Apfelmus (Zubereitung Großküche)";6;2;100;5;2;8;4
+"Leberwurst frisch";13;888;206;21;663;183;167
+"Hamburger (Zubereitung Gastronomie)";19;538;187;18;348;114;87
+"Lachs gekocht (Zubereitung Haushalt)";17;365;306;30;253;246;185
+"Grünkohl frisch";212;60;490;31;42;87;110
+"Paranuss geröstet";120;52;586;146;2;614;223
+"Hirse Vollkornflocken";10;15;173;123;3;275;100
+"Wassermelone";7;8;109;9;1;9;12
+"Wildreis ungekocht";21;35;427;177;7;433;90
+"Vollkornbrot";21;705;290;56;430;232;91
+"Gutsleberwurst";13;940;217;26;704;165;190
+"Rind Nacken (Kamm) (mittelfett) frisch";4;55;295;17;45;197;184
+"Kuhmilch Trinkmilch vollfett";120;100;150;12;50;93;30
+"Reh Fleisch (mager) frisch";5;40;309;20;60;220;200
+"Kalbszunge in Weißweinaspik";11;239;236;19;231;173;172
+"Gerste";38;23;444;114;18;342;120
+"Knäckebrot-Roggenbrot mit Sonnenblumenkernen";34;1023;369;96;636;261;143
+"Schinkenröllchen in Aspik";24;1640;197;22;726;103;135
+"Kürbiskern roh";10;80;570;285;28;516;160
+"Roggen Mehl Type 1150";20;35;297;67;1;196;140
+"Hauskaninchen Fleisch (mager) frisch";12;70;380;29;50;226;200
+"Tomaten roh";9;30;235;11;3;22;11
+"Leberkäse";15;1093;251;22;811;147;125
+"Apfel Fruchtsaft (Ohne Zuckerzusatz)";6;2;105;5;1;11;6
+"Schwein Bauchspeck";1;5;8;1;4;7;7
+"Brathähnchen Leber gegart";17;97;242;21;82;290;213
+"Wirsingkohl frisch";47;22;252;12;9;56;88
+"Spritzgebäck aus Rührteig";38;32;154;36;3;91;63
+"Kartoffelsalat mit Essigmarinade (Zubereitung Haushalt)";9;318;270;16;188;39;28
+"Cashewnuss frisch";31;18;552;270;14;375;200
+"Polnische Bratwurst";17;1554;349;28;1156;182;173
+"Mohn";1460;20;705;333;21;854;150
+"Pizza salami (Zubereitung Gastronomie)";76;530;140;17;340;99;82
+"Leberpreßsack einfach";14;899;169;21;670;148;142
+"Stangenbohnen grün frisch";57;19;248;25;2;38;17
+"Fenchel gegart";40;0;343;11;26;54;0
+"Würstchen, Bockwurst, Wiener Würstchen";12;1126;249;20;834;131;121
+"Weißwurst Münchener";15;1047;233;20;775;126;132
+"Nürnberger Lebkuchen";69;31;312;45;124;196;66
+"Sahneeiscreme";90;70;110;9;36;100;31
+"Schinkentorte mit Mürbeteig";22;1697;253;29;1446;145;163
+"Zwiebeln roh";22;19;162;10;3;33;51
+"Buchweizen Mehl";11;10;315;30;1;88;50
+"Rind Pökelfleisch roh geräuchert";26;3236;231;25;2463;175;155
+"Weinsauerkraut";48;860;288;14;355;43;41
+"Kasseler gebraten (zubereitet ohne Fett)";0;1601;388;23;1206;268;229
+"Camembert";500;1200;150;20;700;350;230
+"Obstkuchen mit Steinobst";26;50;123;12;26;50;37
+"Teewurst Rügenwälder Art";11;1192;323;24;889;166;160
+"Dinkelflocken";35;53;373;119;4;331;140
+"Weizen Mehl Type 1050";24;40;203;54;2;212;50
+"Bierwurst 1a Konserve";13;1056;222;18;788;121;115
+"Roggen, Weizen-Mischbrot mit Hefe";23;673;153;38;422;122;76
+"Hühnerbrüstchen in Spargelsoße (Zubereitung Großküche)";17;327;209;18;221;126;119
+"Gemüsepaprika rot frisch";10;18;260;14;5;30;20
+"Cheeseburger (Zubereitung Gastronomie)";100;595;186;21;468;209;108
+"Brötchen-Weizenbrötchen mit Sesam";50;697;118;37;431;103;78
+"Geflügelmortadella";17;523;231;10;983;192;82
+"Schwein Schinkenspeck roh geräuchert";2;54;277;23;69;157;188
+"Süßkirsche roh";17;3;235;13;3;24;7
+"Gekochte Eier (Zubereitung Gastronomie)";53;90;96;10;72;205;171
+"Westfälischer Panhas";23;1029;203;23;769;62;68
+"Hühnerei Eigelb frisch";140;140;138;16;51;590;170
+"Mandarine frisch";33;4;210;11;1;20;10
+"Thunfisch Konserve";29;1285;319;29;791;177;181
+"Gänseleberrolle                      ";28;3894;236;32;2870;114;146
+"Karotte gegart";21;61;287;10;19;36;7
+"Streuselkuchen aus Hefeteig fettreich";31;47;88;13;10;60;59
+"Bierwurst bayrisch";11;958;250;20;717;132;128
+"Johannisbeere rot tiefgefroren";31;15;250;14;2;31;30
+"Kräuterleberwurst";16;961;183;21;715;153;150
+"Tomaten gegart";11;37;228;11;3;26;14
+"Fleischkäse einfach";14;1304;289;23;966;151;140
+"Mango frisch";12;5;190;18;5;13;13
+"Himbeere";40;22;200;30;1;44;17
+"Schweineschnitzel paniert, gebraten (Zubereitung Haushalt)";21;437;211;24;303;177;181
+"Fenchel Knolle roh";38;0;395;12;27;51;0
+"Frischkäsezubereitung Rahmstufe";99;597;109;9;398;159;109
+"Leberrotwurst";20;978;374;29;729;222;193
+"Schweinebauch gefüllt Fleischerzeugnis";18;64;238;25;56;87;180
+"Bohnen weiß reif Konserve gegart abgetropft";31;223;255;32;140;98;40
+"Brötchen mit Mohn";85;697;129;36;430;116;75
+"Pistazie frisch";135;40;1020;160;6;500;250
+"Knäckebrote leicht & cross";35;1065;247;63;664;205;95
+"Erdnuss geröstet und gesalzen";65;1182;824;282;780;452;388
+"Forelle geräuchert";13;67;346;26;67;232;234
+"Cashewmus pur";43;18;546;258;15;457;200
+"Schweineschnitzel paniert, gebraten (Zubereitung Gastronomie)";18;357;199;24;246;150;154
+"Schinkensalami";15;1705;380;29;1263;190;185
+"Schinkenkrakauer Konserve";11;1078;231;21;809;118;141
+"Bleichsellerie frisch";80;130;344;12;132;48;15
+"Sekt";10;7;50;8;3;10;1
+"Gepuffte Getreide";26;50;390;140;4;350;140
+"Quitte frisch";10;2;200;8;2;20;5
+"Baguette-Brötchen";16;731;100;21;451;78;71
+"Weizen Keim";69;80;837;250;5;1100;250
+"Rind Gulasch (mager) frisch";4;55;300;19;50;210;187
+"Schweinefleisch in Aspik";31;2217;253;26;1911;138;135
+"Knoblauch roh";38;30;530;35;19;134;50
+"Kichererbsen reif gegart";49;32;280;61;9;169;83
+"Bierwurst";13;1056;222;18;788;121;115
+"Hühnerei frisch gegart";54;91;97;10;73;208;173
+"Rind Herz gegart";9;93;280;24;105;209;186
+"Bratwurst Grundbrät";11;1010;202;18;750;101;112
+"Batate (Süßkartoffel)";22;46;360;18;4;39;16
+"Fleischbrühe klar (Zubereitung Haushalt)";19;257;145;10;169;66;60
+"Gerste Flocken";16;20;160;66;3;189;120
+"Schmierwurst (fette Mettwurst)";10;1189;171;21;883;81;126
+"Cornflakes";13;1800;120;14;938;59;90
+"Bohnen grün Konserve";37;334;139;15;198;23;11
+"Geflügelbockwurst erwärmt";24;1424;270;26;935;176;203
+"Hartkäse";900;1100;100;30;800;600;200
+"Vollkornbrötchen-Roggenvollkornmischbrötchen";35;771;316;87;480;279;103
+"Zuckermais (Gemüsemais) gegart";7;11;250;48;1;114;32
+"Rotkohl frisch";35;100;266;18;4;30;68
+"Sauerkraut Saft";49;1196;267;15;547;44;41
+"Knoblauchwurst";12;1448;178;22;1081;91;136
+"Kokosnussmilch 60% Kokosanteil";33,2;166,7;509,6;53,3;20;126,4;60,1
+"Rind Keule (mittelfett) frisch";6;51;345;21;64;184;181
+"Wiener";12;1127;257;20;838;132;127
+"Limette frisch";13;5;82;15;2;11;10
+"Pommes frites (verzehrsfertig ungesalzen)";20;89;926;43;6;105;69
+"Pferd Fleisch gegart";12;7;292;21;38;163;176
+"Leberpastete";15;1084;299;24;807;228;187
+"Göttinger Blasenwurst, Krakauer";11;1078;231;21;809;118;141
+"Brötchen mit Sesam";50;697;118;37;431;103;78
+"Bockwurst";12;1126;249;20;834;131;121
+"Brühwurst mit Fleischeinlage (umgerötet)";9;921;337;25;685;163;166
+"Kalbfleischsülze Konserve";16;597;323;24;466;170;157
+"Krakauer Schinkenwurst";13;1086;434;32;811;216;209
+"Lammfleisch-Salami";22;1719;265;30;1278;185;198
+"Semmelknödel (Zubereitung Haushalt)";63;333;119;15;203;104;73
+"Bitterschokolade";63;18;1057;228;9;361;110
+"Markenbutter";13;23;16;3;5;21;9
+"Nektarine frisch";4;5;212;10;9;22;10
+"Rotwein schwer";8;10;93;8;4;28;16
+"Sauerkirsche tiefgefroren";8;22;119;8;2;20;8
+"Schinkenwurst grob, Lyoner grob";11;1099;279;25;816;136;156
+"Kalbsbries-Galantine                    ";6;318;475;21;241;571;169
+"Frischkäsezubereitung Doppelrahmstufe";89;566;89;7;347;149;109
+"Kürbis frisch";27;30;351;23;7;43;10
+"Zwiebeln geröstet (Zubereitung Gastronomie)";34;249;202;18;141;53;54
+"Gemüsemischung tiefgefroren";24;37;275;20;20;57;33
+"Herzwurst Konserve";16;1327;293;27;1055;164;169
+"Pollack tiefgefroren";15;200;326;25;99;300;200
+"Teewurst";10;1117;196;22;832;95;136
+"Leberwurst 1a Konserve";13;888;206;21;663;183;167
+"Hühnerei Eiweiß frisch";11;170;154;12;170;21;180
+"Kopfsalat frisch";37;57;224;11;10;33;16
+"Tempeh";142;30;250;230;8;240;65
+"Creme, Schmand 30 % Fett";80;50;100;9;30;60;20
+"Spaghetti mit Tomatensoße ""neapolitanische Art"" (Zubereitung Gastronomie)";43;355;98;20;221;82;63
+"Kartoffeln gegart";9;45;340;21;3;31;35
+"Zunge roh ungeräuchert";16;1237;271;24;996;148;156
+"Frühlingspastete";16;1134;323;25;829;140;140
+"Weizenbier (Weißbier) obergärig";2;30;35;10;4;20;16
+"Topinambur frisch";10;60;478;20;3;78;22
+"Frankfurter Würstchen Schinkenwürste";11;1095;247;22;813;122;133
+"Kalbsroulade mit Lachsschinken";40;2890;296;35;2504;194;194
+"Dampfbrötchen mit Hefe";16;731;100;21;451;78;71
+"Blumenkohl roh";22;19;282;15;13;49;55
+"Mayonnaise 80% Fett";18;500;25;5;481;44;21
+"Rind Steak mager (mager)";3;110;360;23;55;160;187
+"Tzatziki (Zubereitung Gastronomie)";80;368;135;10;224;60;21
+"Papaya roh";21;6;191;41;2;16;10
+"Mettwurst einfach streichfähig";13;1464;178;18;1083;102;86
+"Teigwaren (allgemein) Spaghetti";27;31;164;67;17;191;180
+"Pökelwaren Rippchen, Schälrippchen";32;3243;243;54;2471;127;156
+"Kalbsbrust in Aspik";14;242;284;21;203;144;150
+"Vollkornbrot mit Sesam";51;676;297;68;414;247;97
+"Peperonisalat mit Olivenöl und Knoblauch (Zubereitung Gastronomie)";15;259;159;13;153;29;21
+"Kokosöl";2;0;2;0;2;1;0
+"Tee schwarz fermentiert (Getränk)";8;1;17;3;1;1;3
+"Karotte roh";21;58;355;12;23;36;7
+"Frühstücks Porridge (Zubereitung Haushalt)";34,1;31,7;93,7;32,9;16,8;82,7;27
+"Brathähnchen Fleisch mit Haut gegart";17;111;205;20;92;172;261
+"Paprikaschoten frisch gegart";11;19;148;12;2;29;21
+"Brombeere tiefgefroren";47;21;199;31;3;31;13
+"Heringsfilet Matjesart";82;5049;392;43;3299;284;220
+"Mettwurst schnittfest";12;1454;179;22;1083;91;137
+"Fleischwurst einfach, Stadtwurst einfach";13;1184;255;20;878;132;128
+"Gefüllter Schinken";12;1149;479;34;856;232;232
+"Rinderbrust in Weißweinaspik";6;282;350;24;194;141;162
+"Schmelzkäse";600;900;130;42;1100;800;250
+"Sauerkirsche Konfitüre";9;12;90;4;11;9;4
+"Schinkenbrät-Terrine";24;681;248;24;310;118;140
+"Würstchen Konserve";11;1095;247;22;813;122;133
+"Kohlrabi gedünstet (Zubereitung Haushalt)";53;348;278;32;221;39;39
+"Würziger Nudelsalat (Zubereitung Haushalt)";17;217;128;16;134;47;35
+"Geflügelbratwurst gebraten (zubereitet ohne Fett)";22;1852;299;26;1072;193;201
+"Seidentofu";94;30;220;30;23;71;19
+"Wodka";0;0;1;0;1;5;0
+"Kürbiskern";10;80;570;285;28;516;160
+"Weintraube rot Fruchtsaft";18;2;163;9;2;21;8
+"Geflügelknackwurst erwärmt";23;1250;244;23;820;155;179
+"Mais Stärke";0;6;7;2;3;30;1
+"Schwein Leber roh";8;68;370;24;77;430;230
+"Weißbrot mit Rosinen";16;638;152;20;394;77;63
+"Rinderfilet (Zubereitung Haushalt)";6;496;319;27;332;198;217
+"Lachs pazifisch geräuchert";24;67;328;30;50;255;200
+"Zucchini frisch gegart";32;46;167;22;1;23;26
+"Wurzelpetersilie frisch gegart";40;29;193;17;5;55;39

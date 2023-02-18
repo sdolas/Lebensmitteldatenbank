@@ -437,7 +437,6 @@
 "Moosbeere frisch";"Früchte, Obst und Obsterzeugnisse";36;0,7;3,9;3,9;0,4;3,8;87,1;0;0,2;3,9;1,7
 "Saure Sahne 20 % Fett";"Milch, Milcherzeugnisse, Käse";204;20;3,4;3,4;2,8;0;72,6;0;0,5;0,7;0
 "Olivenpastete";"Wurst, Fleischwaren";275;23,9;0,8;0,8;14,7;0,9;56,5;0;3;0,1;5,5
-"Hühnerei Vollei frisch";"Eier und Eierprodukte, Teigwaren";154;11,2;0,7;0,7;12,9;0;74,1;0;1,1;0;10,2
 "Cabanossi (Brühwurst)";"Wurst, Fleischwaren";331;30,9;0,3;0,3;13,7;0,1;52,1;0;2,7;0,1;5,6
 "Gemüsepaprika rot";"Gemüse und Gemüseerzeugnisse";37;0,5;6,4;6,4;1,3;3,6;87,3;0;0,6;0,3;4,2
 "Lasagne al forno (Zubereitung Gastronomie)";"Menükomponenten";150;9,7;7,6;7,6;8,3;0,7;72,1;0;1,5;0,1;3,4
@@ -541,3 +540,850 @@
 "Sprotte frisch";"Fische, Krusten-, Schalen-, Weichtiere";214;16,6;0;NA;16,7;0;64,9;0;1,8;0;7,4
 "Buchweizen Vollkorn";"Cerealien, Getreide und Getreideprodukte, Reis";340;1,7;71;NA;9,1;9,9;6,6;0;1,7;0;2,4
 "Rührei (Zubereitung Haushalt)";"Menükomponenten";164;12,7;1,5;1,5;11,1;0;73,2;0;1,4;0;8,3
+"Gnocchi gekocht";NA;150;0,5;31,9;31,9;3,6;1,9;61;0;0,6;0,4;0,3
+"Dresdner Stollen aus Hefeteig fettreich";"Kuchen, Feinbackwaren, Dauerbackwaren";408;21,8;46,7;46,7;5,7;3,4;20,7;0;0,8;0,9;0,2
+"Quark mit Früchten Magerstufe- Magerquark";"Milch, Milcherzeugnisse, Käse";103;0,7;17,5;17,3;6;0,8;73,8;0;0,6;0,6;1,9
+"Geflügelgalantinen                     ";"Wurst, Fleischwaren";310;26,8;1,2;NA;16,9;0,7;51,6;0;2,8;0;8,8
+"Rote Rübe Konserve abgetropft";"Gemüse und Gemüseerzeugnisse";34;0,1;6,6;6,6;1,4;2,4;87,7;0;1,5;0,2;2,8
+"Erythrit";"Diätetische Lebensmittel";0;0;100;NA;0;0;0;0;0;0;0
+"Gewürfelte Zungenwurst Konserve";"Wurst, Fleischwaren";255;20,1;0,9;0,9;18,1;0;55,9;0;5;0;8,5
+"Bratensoße dunkel Konserve";"Fleisch (Rind, Kalb, Schwein, Hammel, Lamm)";52;1,8;5,2;5,2;3,5;0,5;87,6;0;1,3;0;0,8
+"Weizen Vollkornmehl";"Cerealien, Getreide und Getreideprodukte, Reis";309;2,4;59,5;59,5;11,4;10;15;0;1,7;0;7,6
+"Puffmais";"Cerealien, Getreide und Getreideprodukte, Reis";369;5;67,2;67,2;12,7;10;4;0;1,1;0;9,3
+"Steinpilz frisch";"Kartoffeln und Kartoffelerzeugnisse, stärkereiche Pflanzenteile, Pilze";20;0,4;0,5;0,1;3,6;6,9;87,7;0;0,8;0,1;2,9
+"Rucola roh";"Gemüse und Gemüseerzeugnisse";26;0,7;2;NA;2,5;1,5;86,9;0;1;0,4;6,7
+"Rind, Schwein Hackfleisch frisch";"Fleisch (Rind, Kalb, Schwein, Hammel, Lamm)";221;16,2;0,3;0,3;18,9;0;63,6;0;1;0;8,1
+"Knäckebrot-Roggenmischbrot mit Sesam";"Brot- und Kleingebäck";356;4,7;67,6;67,6;9,8;7,9;7;0;2,8;0,1;4,4
+"Spiegelei (Zubereitung Haushalt)";"Menükomponenten";195;15,8;0,7;0,7;12,9;0;69;0;1,5;0;10,2
+"Trinkmilch mit Kakao, Schokolade";"Milch, Milcherzeugnisse, Käse";131;3,6;20,9;20,9;3,4;0,8;70,2;0;0,9;0,2;0,4
+"Kalbskopf im Darm                     ";"Wurst, Fleischwaren";188;11;0,8;0,8;21,6;0,1;64,7;0;1,8;0;10,5
+"Ziegenmilch";"Milch, Milcherzeugnisse, Käse";69;4,2;4,4;4,4;3,4;0;87,1;0;0,8;0,1;0,3
+"Graubrot-Roggenbrot mit Schrotanteilen";"Brot- und Kleingebäck";209;0,9;43,3;43,3;6,1;6;41,6;0;1,9;0,1;2,6
+"Croissant aus Blätterteig";"Kuchen, Feinbackwaren, Dauerbackwaren";508;33,6;44,9;44,9;7,1;2,5;10,4;0;1,5;0,1;3,6
+"Spitzkohl frisch";"Gemüse und Gemüseerzeugnisse";23;0,3;2,7;2,7;2,1;2,5;91,3;0;0,9;0,3;-4
+"Melassesirup dunkel";"Süßwaren, Zucker, Bonbons, Schokolade, Brotaufstrich süß, Eis";278;0;67,2;67,2;1,2;0;25,4;0;6,2;0;39,3
+"Weißkohl frisch gegart";"Gemüse und Gemüseerzeugnisse";20;0,2;3;NA;1,3;2,8;91,9;0;0,5;0,2;1,7
+"Kakaobohne, -masse";"Süßwaren, Zucker, Bonbons, Schokolade, Brotaufstrich süß, Eis";342;24,5;10,8;10,8;19,8;32,7;5,1;0;6,5;0,5;18,6
+"Schwein Bauch (mittelfett) frisch";"Fleisch (Rind, Kalb, Schwein, Hammel, Lamm)";320;28,9;0;NA;16;0;54,4;0;0,8;0;6,2
+"Maisbrötchen";"Brot- und Kleingebäck";248;2,2;48,4;48,4;7,9;4;35,2;0;2,3;0;5,9
+"Rind Bratenfleisch (mager) frisch gegart";"Fleisch (Rind, Kalb, Schwein, Hammel, Lamm)";157;4,8;0;NA;28,4;0;65,9;0;1;0;16,7
+"Kartoffelpuffer (Zubereitung Gastronomie)";"Menükomponenten";180;11,8;15,2;15,2;3;2,2;65,9;0;1,3;0,5;4,9
+"Sojabohnen reif frisch";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";358;23,3;0,4;0,4;37;17;8,6;0;4,5;0,3;9,1
+"Weichkäse";"Milch, Milcherzeugnisse, Käse";275;21,8;0;NA;20,1;0;53,6;0;4,2;0,3;15,8
+"Emmentaler Vollfettstufe";"Milch, Milcherzeugnisse, Käse";383;30;0;NA;28,7;0;36,9;0;3,9;0,5;22,4
+"Johannisbeere schwarz tiefgefroren";"Früchte, Obst und Obsterzeugnisse";59;0,2;10,7;10,7;1,4;7,1;77,1;0;0,8;2,7;6,4
+"Hefe-Weizenbier obergärig";"Alkoholische Getränke";38;0;3;NA;0,3;0;92,9;3,5;0,1;0;0,1
+"Rohwurst";"Wurst, Fleischwaren";370;33,8;0,2;0,2;17,4;0,1;45,2;0;3,3;0;7
+"Hafer";"Cerealien, Getreide und Getreideprodukte, Reis";332;7,1;55,7;55,7;10,7;9,7;13,8;0;2,9;0;6
+"Brötchen mit Rosinen";"Brot- und Kleingebäck";253;1,3;52,1;52,1;7;3,4;34,2;0;1,6;0,4;2,3
+"Weißbrot-Toastbrot";"Brot- und Kleingebäck";253;3,3;47,7;47,7;7,4;2,9;37;0;1,6;0,1;4,1
+"Mandelmus pur";"Vegetarische Produkte";664;59,1;19,7;19,7;15,1;1,5;1;0;3,6;0;3,2
+"Grahambrot";"Brot- und Kleingebäck";212;1,5;41,4;41,4;7,7;6,4;40,8;0;2,2;0;5,6
+"Schlagsahne 40% Fett";"Milch, Milcherzeugnisse, Käse";358;38,1;3,1;3,1;2,1;0;56,3;0;0,5;0;0,1
+"Rind Steak (mittelfett) frisch gegart";"Fleisch (Rind, Kalb, Schwein, Hammel, Lamm)";175;5,7;0;NA;30,7;0;62,6;0;1;0;15,1
+"Sülzen und Aspik";"Wurst, Fleischwaren";109;3,2;0,2;0,2;19,7;0;74,7;0;2,1;0;8,3
+"Rosenkohl frisch";"Gemüse und Gemüseerzeugnisse";36;0,3;3,3;3,3;4,5;4,4;85,6;0;1,4;0,6;3,8
+"Vollkornbrot-Weizen, Roggenvollkornbrot";"Brot- und Kleingebäck";207;1,3;40,9;40,9;7,2;7,6;40,8;0;2,2;0;4,7
+"Haselnuss";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";650;63,3;6;NA;16,3;7,7;4,3;0;2,5;0;3,2
+"Hähnchenbrust paniert gebraten (zubereitet ohne Fett)";"Fleisch (Wild, Geflügel, Federwild, Innereien)";207;7,5;18,7;18,7;16;1,1;55;0;1,7;0;8,2
+"Sesam";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";572;50,4;10,2;10,2;20,9;11,2;2;0;5,3;0;3,9
+"Graubrot-Haferbrot";"Brot- und Kleingebäck";220;1,8;42,8;42,8;7,4;4,9;41;0;2;0,1;4,4
+"Knoblauch gegart";"Gemüse und Gemüseerzeugnisse";146;0,1;29,4;29,4;6,3;1,9;60,8;0;1,3;0,2;2,7
+"Joghurt vollfett mit Fruchtzubereitung";"Milch, Milcherzeugnisse, Käse";99;3,2;14;NA;2,9;0,9;77,7;0;0,6;0,7;0,3
+"Rind Muskelfleisch";"Fleisch (Rind, Kalb, Schwein, Hammel, Lamm)";108;1,9;0,6;0,6;22;0;74,3;0;1,2;0;9,6
+"Fleischkäse";"Wurst, Fleischwaren";302;27,6;0,2;0,2;14,2;0,1;54,9;0;3;0,1;5,8
+"Paprikaschoten frisch";"Gemüse und Gemüseerzeugnisse";20;0,3;2,9;2,9;1,2;3,6;91,1;0;0,6;0,3;2,5
+"Kalbsleberwurst";"Wurst, Fleischwaren";316;27,4;1,5;1,5;16,8;0,1;51,4;0;2,7;0,1;10,1
+"Graubrot-Roggenbrot mit Sonnenblumenkernen";"Brot- und Kleingebäck";226;3;42,5;42,5;6,7;5,7;40;0;1,9;0,1;2,6
+"Big Mac (Zubereitung Gastronomie)";"Menükomponenten";210;9,9;20,1;20,1;10;1,3;56,8;0;1,7;0,1;6,4
+"Broccoli frisch gegart";"Gemüse und Gemüseerzeugnisse";23;0,2;1,9;1,9;3,2;3;90,5;0;1;0,4;3,8
+"Grüne Bohnen gedünstet (Zubereitung Haushalt)";"Menükomponenten";42;2,4;2,8;2,8;2,1;2,6;87,4;0;1,2;0,2;3,6
+"Kartoffelwurst";"Wurst, Fleischwaren";304;27;5,4;5,4;10,4;0,9;53,3;0;2,8;0,2;1,6
+"Schwein Schinken";"Wurst, Fleischwaren";121;4,3;1,1;1,1;19,5;0;71,9;0;3,3;0;10
+"Birne";"Früchte, Obst und Obsterzeugnisse";52;0,3;12,4;10,2;0,5;2,8;83,4;0;0,3;0,3;2,1
+"Schwarzwälder Kirschtorte";"Kuchen, Feinbackwaren, Dauerbackwaren";247;16,1;21,4;21,4;3,9;0,9;56,4;0;0,6;0,6;1,6
+"Champignonleberwurst";"Wurst, Fleischwaren";300;26,8;1,4;1,4;14,1;0,3;54,7;0;2,5;0,1;8
+"Bergkäse Vollfettstufe";"Milch, Milcherzeugnisse, Käse";384;30;0;NA;28,9;0;36,8;0;3,9;0,4;22,5
+"Grützblutwurst";"Wurst, Fleischwaren";239;15,9;9,2;9,2;15;0,7;56,5;0;2,7;0;5,7
+"Hausmacher Leberwurst Konserve";"Wurst, Fleischwaren";301;26,7;0,9;0,9;15,1;0;54;0;3,3;0;9,8
+"Buchweizen Grieß";"Cerealien, Getreide und Getreideprodukte, Reis";339;1,6;72,6;72,6;7,5;3,2;13,2;0;1,9;0;3,3
+"Paranuss frisch";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";660;66,8;3,6;3,6;13,6;8,1;4,3;0;3,6;0;12,2
+"Schafsmilch";"Milch, Milcherzeugnisse, Käse";96;5,5;4,7;4,7;7;0;81,8;0;0,9;0,1;1,9
+"Schlagsahne 10% Fett";"Milch, Milcherzeugnisse, Käse";118;10;4,1;4,1;3,2;0;82;0;0,6;0;0,1
+"Colagetränke (coffeinhaltig)";"Alkoholfreie Getränke";47;0;10,9;10,9;0;0;88,1;0;0,1;1;0,1
+"Schweinekümmelmagen";"Wurst, Fleischwaren";121;5,5;0,5;0,5;17,2;0,1;72,3;0;4,3;0;7
+"Geflügelmortadella gebacken";"Wurst, Fleischwaren";246;19,6;4,3;4,3;13,3;0,1;61,1;0;1,4;0,1;8,9
+"Lachs geräuchert";"Fische, Krusten-, Schalen-, Weichtiere";138;6,7;0;NA;19,5;0;72,6;0;1,2;0;11,4
+"Gewürzgurken Sauerkonserve";"Gemüse und Gemüseerzeugnisse";12;0,1;1,5;1,4;0,5;0,3;95,4;0;1,2;1;1,6
+"Parmesan Vollfettstufe";"Milch, Milcherzeugnisse, Käse";440;34,8;0;NA;32,3;0;27;0;5,5;0,4;24,7
+"Brombeere frisch";"Früchte, Obst und Obsterzeugnisse";30;1;2,7;2,7;1,2;6,6;86,3;0;0,5;1,7;3,7
+"Marzipan";"Süßwaren, Zucker, Bonbons, Schokolade, Brotaufstrich süß, Eis";459;17,6;68,6;68,6;6,1;4,9;1,9;0;0,9;0;0,2
+"Vanillepudding (Zubereitung Großküche)";"Menükomponenten";126;3,2;20,9;20,9;3,1;0;71,9;0;0,7;0,2;0,3
+"Kaffee mit Milch (Getränk)";"Alkoholfreie Getränke";4;0,1;0,4;0,4;0,3;0;99;0;0,1;0;1,4
+"Bregenwurst";"Wurst, Fleischwaren";232;17;0,4;0,4;19,7;0;59,5;0;3,4;0;12,2
+"Ahornsirup";"Süßwaren, Zucker, Bonbons, Schokolade, Brotaufstrich süß, Eis";274;0,2;67,1;67,1;0;0;32,1;0;0,6;0;5,4
+"Edelkastanien (Maronen) Mehl";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";327;3,2;68,6;68,6;4,9;13,9;7,4;0;2;0;19,6
+"Zucker";"Süßwaren, Zucker, Bonbons, Schokolade, Brotaufstrich süß, Eis";405;0;99,8;99,8;0;0;0,1;0;0;0;0,1
+"Weizen Mehl Type 405";"Cerealien, Getreide und Getreideprodukte, Reis";343;1;72,3;72,3;10;2,8;13,6;0;0,3;0;3,3
+"Schokolade weiß";"Süßwaren, Zucker, Bonbons, Schokolade, Brotaufstrich süß, Eis";542;30,1;62,5;62,5;5,1;0;0,5;0;1,4;0,3;0,2
+"Gefüllte Kalbsbrust";"Wurst, Fleischwaren";192;12,7;0,8;0,7;18,9;0,7;62,9;0;4;0,1;7,8
+"Kartoffelbrei, Kartoffelpüree (Zubereitung Haushalt)";"Menükomponenten";78;2,5;11,4;11,4;2,1;1,6;80,7;0;1,2;0,5;4,6
+"Kohlrabi gegart";"Gemüse und Gemüseerzeugnisse";20;0,1;2,8;2,8;1,9;1,5;92,8;0;0,8;0,2;2,7
+"Buchweizen gegart";"Cerealien, Getreide und Getreideprodukte, Reis";109;0,6;22,3;22,3;3,2;1,4;71,9;0;0,6;0;1,5
+"Vanillezucker";"Süßwaren, Zucker, Bonbons, Schokolade, Brotaufstrich süß, Eis";405;0;99,8;99,8;0;0;0,1;0;0;0;0,1
+"Röstbrotwürfel";"Brot- und Kleingebäck";275;1,6;54,9;54,9;9,3;4,5;27,3;0;2,4;0;3,4
+"Schinkenwurst";"Wurst, Fleischwaren";294;27,8;0,3;0,3;11,5;0,1;56,9;0;3,2;0,1;4
+"Vollkornbrot-Weizenvollkornbrot";"Brot- und Kleingebäck";212;1,5;41,4;41,4;7,7;6,4;40,8;0;2,2;0;5,6
+"Tiroler Schinkenwurst";"Wurst, Fleischwaren";155;6,7;0,3;0,3;23,4;0,1;66,3;0;3,2;0,1;9,3
+"Leberpreßsack";"Wurst, Fleischwaren";351;32,6;0,9;0,9;14,6;0,1;49,3;0;2,5;0;8,3
+"Milchschokolade";"Süßwaren, Zucker, Bonbons, Schokolade, Brotaufstrich süß, Eis";536;31,5;54,1;54,1;9,2;1,4;1,4;0;2,2;0,2;1,4
+"Rinswurst Konserve";"Wurst, Fleischwaren";249;19,5;0,3;0,3;18,6;0,1;58;0;3,5;0,1;8,2
+"Quark Vollfettstufe";"Milch, Milcherzeugnisse, Käse";157;12,2;3;NA;8,5;0;74,8;0;0,8;0,7;6,6
+"Hausmacher Blutwurst";"Wurst, Fleischwaren";344;31,4;0,6;0,6;15,7;0,2;49,9;0;2,2;0;7,8
+"Mischgemüse gedünstet, in Butter geschwenkt (Zubereitung Gastronomie)";"Menükomponenten";184;17,2;5,2;5,1;2,4;3,6;69,9;0;1,3;0,2;-3
+"Schinkenwurst roh";"Wurst, Fleischwaren";293;25,1;0,3;0,3;17,3;0,1;53,6;0;3,7;0;6,9
+"Kaffee (Getränk)";"Alkoholfreie Getränke";2;0;0,3;0,3;0,2;0;99,4;0;0,1;0;1,4
+"Granatapfel Fruchtsaft";"Früchte, Obst und Obsterzeugnisse";77;0,5;16,8;16,8;0,6;0;80,7;0;0,7;0,6;4,5
+"Rote Rübe frisch gegart";"Gemüse und Gemüseerzeugnisse";32;0,1;6,1;6,1;1,4;2,4;88,9;0;0,8;0,2;1,8
+"Radicchio frisch";"Gemüse und Gemüseerzeugnisse";14;0,2;1,5;1,5;1,2;1,6;94,7;0;0,6;0,2;4,3
+"Schwein Speck durchwachsen roh geräuchert";"Wurst, Fleischwaren";320;28,9;0;NA;16;0;54,4;0;0,7;0;6,2
+"Herzwurst";"Wurst, Fleischwaren";281;23,5;0,7;0,7;17,4;0,2;54,6;0;3,7;0;7,5
+"Kalbfleischpastete";"Wurst, Fleischwaren";230;13,8;7,5;7,5;19;0,5;56;0;3,2;0;8,7
+"Schokoladenkuchen aus Rührmasse";"Kuchen, Feinbackwaren, Dauerbackwaren";359;18,3;41;NA;6,9;3,5;28,8;0,3;1,2;0,1;4,9
+"Geflügelfleischkäse";"Wurst, Fleischwaren";139;5,5;0,3;0,3;21,8;0,1;68,8;0;3,5;0;10
+"Kichererbsen reif gekocht";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";119;1,6;16,8;16,8;9;9,9;60,4;0;0,9;0,2;2,5
+"Möhrensalat mit Zitronenmarinade (Zubereitung Haushalt)";"Menükomponenten";106;8,2;7,6;7,3;0,6;2,3;80,3;0;0,7;0,5;3,4
+"Kochwurstpasteten";"Wurst, Fleischwaren";224;15;0;NA;22,3;0;59,4;0;3,2;0;10,4
+"Haferflocken gegart";"Cerealien, Getreide und Getreideprodukte, Reis";83;1,5;14,1;14,1;3,1;2,3;78,8;0;0,2;0;2
+"Blutorangen";"Früchte, Obst und Obsterzeugnisse";43;0,2;8,3;8,3;1;2,2;86,6;0;0,5;1,2;-3
+"Weißbrote";"Brot- und Kleingebäck";235;1,3;48,1;48,1;7,1;3;39,1;0;1,5;0;3,5
+"Pecannuss geröstet";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";716;71,2;14,4;14,4;7;1,6;4,2;0;1,6;0;2,9
+"Rotkohl Konserve";"Gemüse und Gemüseerzeugnisse";14;0,1;2,2;2,2;1;1,6;94;0;0,9;0,1;2,6
+"Schwein Schnitzel (mittelfett) frisch";"Fleisch (Rind, Kalb, Schwein, Hammel, Lamm)";136;5,6;0;NA;21,2;0;72,2;0;1;0;9,7
+"Weizenfladenbrot";"Brot- und Kleingebäck";235;1,3;48,1;48,1;7,1;3;39,1;0;1,5;0;3,5
+"Getreideflocken";"Cerealien, Getreide und Getreideprodukte, Reis";370;7;63,3;63,3;12,5;5,4;10;0;1,7;0;9
+"Geflügelbockwurst";"Wurst, Fleischwaren";139;5,5;0,3;0,3;21,8;0,1;68,7;0;3,5;0;10
+"Mangold frisch";"Gemüse und Gemüseerzeugnisse";25;0,3;2,9;2,9;2,1;2,6;89,7;0;1,7;0,7;8,9
+"Walnuss frisch";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";654;62,5;10,6;10,6;14,4;6,1;4,4;0;2;0;6,3
+"Brötchen-Haferbrötchen";"Brot- und Kleingebäck";232;1,9;45,2;45,2;7,8;5,1;37,7;0;2,1;0,1;4,7
+"Pistazie";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";574;51,6;11,6;11,6;17,6;10,6;5,9;0;2,7;0;0,2
+"Jagdwurst Pastete";"Wurst, Fleischwaren";286;21,7;7,5;7,2;15,7;1,2;51,3;0;2,7;0;5,9
+"Schwarzwälder Bauernwürstle";"Wurst, Fleischwaren";342;30,2;0,1;0,1;18,4;0;47,5;0;3,8;0;7,3
+"Zuckermais Konserve abgetropft";"Gemüse und Gemüseerzeugnisse";76;1,2;12,6;12,5;3,1;2,8;78,2;0;1,4;0,5;0,4
+"Mozzarella 30% Fett i. Tr.";"Milch, Milcherzeugnisse, Käse";173;10,5;1,6;1,6;18;0;68,5;0;1,4;20;13,2
+"Rotwein mittel Qualitätswein";"Alkoholische Getränke";66;0;2,4;2,4;0,2;0;88,9;7,9;0,3;0,3;1,7
+"Kokosblütenzucker";"Süßwaren, Zucker, Bonbons, Schokolade, Brotaufstrich süß, Eis";388;0,5;94;NA;1,4;0,8;2,1;0;1,2;0;18,7
+"Fischstäbchen paniert tiefgefroren";"Fische, Krusten-, Schalen-, Weichtiere";118;1,2;13;NA;13,5;0,8;69,9;0;1,6;0;9
+"Hühnerei Eiweiß";"Eier und Eierprodukte, Teigwaren";50;0,2;0,7;0,7;11,1;0;87,2;0;0,8;0;2,5
+"Kartoffelchips (verzehrsfertig)";"Kartoffeln und Kartoffelerzeugnisse, stärkereiche Pflanzenteile, Pilze";535;39,4;40,6;40,6;5,5;3;7,9;0;3,5;0,1;15,2
+"Blutpreßsack";"Wurst, Fleischwaren";267;22,4;0,7;0,7;16,5;0,2;56,9;0;3,3;0;6,3
+"Broccoli gegart";"Gemüse und Gemüseerzeugnisse";23;0,2;1,9;1,9;3,2;3;90,5;0;1;0,4;3,8
+"Buchweizen Vollkornmehl";"Cerealien, Getreide und Getreideprodukte, Reis";341;2,7;67,1;67,1;10,9;3,6;14,1;0;1,6;0;-1
+"Weißkohl frisch";"Gemüse und Gemüseerzeugnisse";25;0,2;4,2;4,2;1,4;3;90,5;0;0,6;0,2;3,9
+"Debreziner";"Wurst, Fleischwaren";330;30,1;0,2;0,2;15,6;0,1;50,5;0;3,5;0;6,3
+"Natürliches Mineralwasser still";"Alkoholfreie Getränke";0;0;0;NA;0;0;99,8;0;0,2;0;0,2
+"Regenbogenforelle frisch";"Fische, Krusten-, Schalen-, Weichtiere";113;3,4;0;NA;20,6;0;74,8;0;1,3;0;9,6
+"Buttermilch";"Milch, Milcherzeugnisse, Käse";36;0,5;4;NA;3,2;0;90,8;0;0,8;0,7;0
+"Joghurt mit Müsli";"Milch, Milcherzeugnisse, Käse";126;4,1;17,2;17,2;4,2;1,2;71,6;0;0,9;0,7;0,5
+"Schwein Bratenfleisch (mittelfett) frisch gegart";"Fleisch (Rind, Kalb, Schwein, Hammel, Lamm)";217;11,8;0;NA;28;0;59,3;0;1;0;13,5
+"Matjeshering frisch Fischzuschnitt";"Fische, Krusten-, Schalen-, Weichtiere";274;22,6;0;NA;18,2;0;57,7;0;1,5;0;6,7
+"Chili con carne (Zubereitung Haushalt)";"Menükomponenten";80;5;2,7;2,7;5,9;1,5;83,6;0;1;0,1;0,7
+"Eierteigwaren gegart";"Eier und Eierprodukte, Teigwaren";126;1;24,4;24,4;4,4;1,9;68;0;0,3;0;3,2
+"Heidelbeere";"Früchte, Obst und Obsterzeugnisse";42;0,6;7,4;7,4;0,6;4,9;84,8;0;0,3;1,4;-1
+"Gänsepresskopf";"Wurst, Fleischwaren";255;20,9;0,8;0,8;16,3;0,1;59;0;2,8;0,1;6,2
+"Bratkartoffeln (Zubereitung Haushalt)";"Menükomponenten";117;6,7;12,1;12,1;1,7;2;75,7;0;1,1;0,5;4,1
+"Erdnussmus";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";578;48,5;10,6;10,6;26,3;8,1;3,2;0;3,3;0;5
+"Rind Fett (Talg)";"Fleisch (Rind, Kalb, Schwein, Hammel, Lamm)";856;96,5;0;NA;0,8;0;2,6;0;0,1;0;0,5
+"Kürbissuppe (Zubereitung Haushalt)";"Menükomponenten";15;0,1;2,9;2,9;0,4;0,3;95,5;0;0,7;0,2;2,2
+"Schwein Speck gekocht geräuchert";"Wurst, Fleischwaren";347;30,1;0;NA;20;0;49,1;0;0,9;0;9
+"Rind Steak (mittelfett) frisch";"Fleisch (Rind, Kalb, Schwein, Hammel, Lamm)";146;6,4;0;NA;22;0;70,5;0;1;0;8,6
+"Rinderleber gebraten (Zubereitung Haushalt)";"Menükomponenten";171;6,7;6,6;6,6;20,9;0,1;63,8;0;1,8;0;17
+"Schnittsalat (Blatt- Pflücksalat)";"Gemüse und Gemüseerzeugnisse";20;0,3;2,8;2,8;1,3;1,6;92,9;0;0,9;0,3;5,2
+"Kalbsleberwurst Konserve";"Wurst, Fleischwaren";316;27,4;1,5;1,5;16,8;0,1;51,4;0;2,7;0,1;10,1
+"Hanfsamen geschält";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";621;52,1;2,8;2,8;32,6;5;5,5;0;1,8;170;10,1
+"Mais Grieß";"Cerealien, Getreide und Getreideprodukte, Reis";345;1,1;73,8;73,8;8,8;5;11;0;0,3;0;4,8
+"Butterkeks";"Kuchen, Feinbackwaren, Dauerbackwaren";480;21,2;61,8;61,8;10;2,7;2;0;1,8;0,2;5,7
+"Sesamöl";"Fette, Öle, Butter, Schmalz";884;100;0;NA;0,2;0;0;0;0,1;0;0,5
+"Buchweizenbrötchen";"Brot- und Kleingebäck";246;1,8;49,6;49,6;7,2;3,9;35,2;0;2,3;0;3,6
+"Weizen Grieß";"Cerealien, Getreide und Getreideprodukte, Reis";326;0,8;68,9;68,9;9,6;7,1;13,1;0;0,5;0;4,6
+"Geflügelteewurst";"Wurst, Fleischwaren";169;9,6;0,2;0,2;20,6;0,1;67,9;0;1,6;0;11,1
+"Broccoli frisch";"Gemüse und Gemüseerzeugnisse";26;0,2;2,5;2,5;3,3;3;89,6;0;1,1;0,3;5,2
+"Rosenkohl frisch gegart";"Gemüse und Gemüseerzeugnisse";28;0,3;2,2;2,2;3,8;3,8;88,4;0;1,1;0,5;0
+"Tilsiter Vollfettstufe";"Milch, Milcherzeugnisse, Käse";354;27,7;0;NA;26,3;0;40,3;0;4,9;0,8;18,6
+"Kantalupe roh";"Früchte, Obst und Obsterzeugnisse";55;0,1;12,4;12,4;0,9;0,7;85,4;0;0,4;0,1;5,6
+"Dinkel Vollkornmehl";"Cerealien, Getreide und Getreideprodukte, Reis";342;3,6;63,7;63,7;12,7;8,3;11;0;0,8;0;5,3
+"Batate (Süßkartoffel) gegart";"Kartoffeln und Kartoffelerzeugnisse, stärkereiche Pflanzenteile, Pilze";107;0,6;23,2;23,2;1,6;3,1;70;0;1;0,5;5,3
+"Kaiserbrötchen";"Brot- und Kleingebäck";231;0,9;47,5;47,5;7,5;4,5;37,7;0;1,8;0;3,9
+"Pommes Frites tiefgefroren gebacken";"Kartoffeln und Kartoffelerzeugnisse, stärkereiche Pflanzenteile, Pilze";91;0;19,4;19,4;2,4;1,5;75,1;0;0,8;0,8;3,4
+"Broccoli tiefgefroren";"Gemüse und Gemüseerzeugnisse";28;0,2;2,6;2,6;3,6;3,3;88,7;0;1,1;0,4;-5
+"Chiasamen";"Cerealien, Getreide und Getreideprodukte, Reis";455;32,2;5,2;5,2;21,4;29,6;9;0;2,1;0;3,8
+"Rind, Schwein Hackfleisch gegart";"Fleisch (Rind, Kalb, Schwein, Hammel, Lamm)";239;14,6;0,4;0,4;26,7;0;57,3;0;1;0;13,5
+"Weizen Vollkorn";"Cerealien, Getreide und Getreideprodukte, Reis";313;2;61;NA;11,7;10,3;13;0;1,8;0;6,5
+"Brühwurst grobgekuttert (umgerötet)";"Wurst, Fleischwaren";299;27;0,2;0,2;14,7;0;55,4;0;2,6;0,1;6,2
+"Avocado roh";"Früchte, Obst und Obsterzeugnisse";130;12,5;3,6;3,6;1,4;4,1;77,2;0;1,3;0;9,9
+"Leberpastete mit Champignons";"Wurst, Fleischwaren";278;24,3;1,1;NA;14,6;0,4;56,8;0;2,8;0;7,2
+"Hühnerei Eigelb frisch gegart";"Eier und Eierprodukte, Teigwaren";340;31,1;0,3;0,3;15,7;0;51,4;0;1,5;0;24,9
+"Sahne";"Milch, Milcherzeugnisse, Käse";288;30;3,2;3,2;2,5;0;63,8;0;0,5;0;0,1
+"Vollkornbrot mit Leinsamen";"Brot- und Kleingebäck";195;2,2;36;NA;7,2;9,8;42,5;0;2,2;0,1;4,4
+"Reiswurst";"Wurst, Fleischwaren";299;23,2;13,9;13,9;9,3;0,3;51,5;0;1,9;0;4
+"Teewurst grob";"Wurst, Fleischwaren";302;26,5;0,2;0,2;16,6;0,1;53,8;0;2,9;0;6,3
+"Hirse Vollkorn gekocht";"Cerealien, Getreide und Getreideprodukte, Reis";127;1,3;24,7;24,7;3,8;1,4;68,1;0;0,4;0;3,2
+"Trüffelleberwurst";"Wurst, Fleischwaren";321;28,6;1,7;1,5;15;0,6;51,4;0;2,5;0,1;8,8
+"Johannisbeere schwarz Fruchtsaft";"Früchte, Obst und Obsterzeugnisse";114;0,1;24,8;24,8;1,1;0;70,9;0;0,7;2,4;4,7
+"Löwenzahn roh";"Gemüse und Gemüseerzeugnisse";29;0,6;2,4;2,4;3,1;3;88,8;0;1,6;0,4;9,7
+"Graubrot-Roggenmischbrot mit Sauermilch";"Brot- und Kleingebäck";216;1,1;44,6;44,6;6;4,7;41,7;0;1,7;0,1;2,8
+"Brathähnchen Schenkel gegrillt";"Fleisch (Wild, Geflügel, Federwild, Innereien)";164;9,3;0;NA;20,1;0;69,4;0;1,2;0;10,5
+"Würfelpastete";"Wurst, Fleischwaren";261;22;0,3;0,3;15,9;0,1;58,6;0;3;0,1;6,2
+"Mandarine Konserve abgetropft";"Früchte, Obst und Obsterzeugnisse";83;0,2;18,5;18,5;0,6;1,5;77,6;0;0,5;1,1;2,4
+"Bremer Pinkel";"Wurst, Fleischwaren";210;11;17,9;17,9;9,9;1,2;57,4;0;2,6;0;3,5
+"Schokokeks glutenfrei";"Diätetische Lebensmittel";433;15,4;66,3;66,3;6,5;2,8;6,4;0;2;0,3;4,4
+"Polenta (gebackener Maisbrei) (Zubereitung Haushalt)";"Menükomponenten";202;13;19;NA;2,4;1,3;63,6;0;0,8;0;1,2
+"Linsen reif Mehl";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";319;1,4;50,9;50,9;24,3;7,7;9,6;0;3,3;0,3;4,9
+"Tomaten Gemüsesaft";"Gemüse und Gemüseerzeugnisse";17;0;3;NA;0,8;0,1;95,1;0;0,6;0,4;4,5
+"Mangold frisch gegart";"Gemüse und Gemüseerzeugnisse";26;0,3;2,5;2,5;2,4;3;89,2;0;1,7;0,9;5,3
+"Rindfleischsülze";"Wurst, Fleischwaren";141;3,7;0,2;0,2;26,4;0;65,8;0;3,8;0;12,2
+"Vollkornbrötchen allgemein";"Brot- und Kleingebäck";222;1,5;43,3;43,3;8;6,6;38,1;0;2,5;0;5,9
+"Salatsoße (Zubereitung Haushalt)";"Menükomponenten";706;77,8;3,4;3,4;1;0,5;15,9;0;1,3;0,2;-1
+"Mandel bitter roh";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";589;53;5,7;5,7;24;11,4;4,6;0;1,3;0;3,6
+"Gerste Rollgerste (grobe Graupen)";"Cerealien, Getreide und Getreideprodukte, Reis";339;1,4;71;NA;9,7;4,6;12,2;0;1,2;0;5,9
+"Creme, Schmand 20% Fett";"Milch, Milcherzeugnisse, Käse";205;20;3,6;3,6;2,8;0;72,3;0;0,5;0,8;0
+"Frischkäse mit Kräutern Doppelrahmstufe";"Milch, Milcherzeugnisse, Käse";249;23;2,4;2,4;8,5;0,3;63,7;0;1,5;0,6;6,5
+"Bulgur";"Cerealien, Getreide und Getreideprodukte, Reis";325;1;68,9;68,9;9;10,3;9,3;0;1,5;0;6,7
+"Schwein Speck durchwachsen (Frühstücksspeck)";"Wurst, Fleischwaren";145;7,9;0,9;0,9;17,5;0;67,1;0;6,6;0;6,5
+"Schinken-Käsepastete";"Wurst, Fleischwaren";268;20,3;0,5;0,5;21,3;0;54,1;0;3,5;0,3;11,1
+"Westfälinger";"Wurst, Fleischwaren";306;25,4;0,2;0,2;20;0,1;51;0;3,4;0;7,6
+"Aalrauchmettwurst";"Wurst, Fleischwaren";325;26,5;0,2;0,2;22,1;0,1;46,5;0;4,6;0;8,8
+"Baguette";"Brot- und Kleingebäck";248;1,4;50,7;50,7;7,4;3,2;35,8;0;1,5;0;3,7
+"Schweinskopfwurst";"Wurst, Fleischwaren";308;24,8;0,2;0,2;21,6;0;50,4;0;2,9;0,1;9,6
+"Schafskäse";"Milch, Milcherzeugnisse, Käse";236;18,8;0;NA;17;0;58,6;0;5,2;0,4;12
+"Mohn gemahlen geschrotet";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";477;42,6;4,2;4,2;20,4;19,7;6,2;0;6,9;0;0,9
+"Vollkornteigwaren gegart";"Eier und Eierprodukte, Teigwaren";139;1,1;26,1;26,1;5,8;5,2;61,3;0;0,6;0;5,1
+"Cervelatwurst IA und fein";"Wurst, Fleischwaren";297;23,4;0,2;0,2;22;0,1;49,8;0;4,4;0;9
+"Kabeljau (Dorsch) gegart";"Fische, Krusten-, Schalen-, Weichtiere";90;0,8;0;NA;20,3;0;77,7;0;1,2;0;9,7
+"Geflügelsalami";"Wurst, Fleischwaren";180;6,6;0,4;0,4;29,4;0,1;58,9;0;4,6;0;13,1
+"Hausmacher Sülze Konserve";"Wurst, Fleischwaren";275;22,4;0,2;0,2;18,5;0;56,7;0;2;0;6,8
+"Kuhmilch";"Milch, Milcherzeugnisse, Käse";64;3,5;4,8;4,8;3,3;0;87,5;0;0,7;0,2;0
+"Knoblauchwurst, Cabanossi";"Wurst, Fleischwaren";313;29,3;0,3;0,3;13;0,1;54,8;0;2,4;0,1;5,3
+"Vollkornteigwaren eifrei";"Eier und Eierprodukte, Teigwaren";323;2,5;60,6;60,6;13,4;11,5;10,5;0;1,5;0;8,5
+"Lauchzwiebel gebraten (zubereitet ohne Fett)";"Gemüse und Gemüseerzeugnisse";43;0,3;8,9;8,9;0,9;2,9;86,1;0;0,7;0,2;5,7
+"Lammfleisch Cervelatwurst";"Wurst, Fleischwaren";345;29,8;0,4;0,4;19,6;0,1;45,8;0;4,3;0;9,9
+"Spargel frisch gegart";"Gemüse und Gemüseerzeugnisse";16;0,1;1,6;1,6;1,9;1,5;94,2;0;0,6;0,2;0,4
+"Aprikose roh";"Früchte, Obst und Obsterzeugnisse";43;0,1;8,5;7,7;0,9;1,5;86,8;0;0,7;1,4;5,1
+"Flohsamenschalen";"Cerealien, Getreide und Getreideprodukte, Reis";201;0,3;8,2;8,2;1,2;80,8;7,1;0;2,4;0;7,2
+"Paniermehl";"Brot- und Kleingebäck";358;2,1;73,5;73,5;10,1;5,3;6,8;0;2,2;0;4,7
+"Ente Fleisch mit Haut frisch gegart";"Fleisch (Wild, Geflügel, Federwild, Innereien)";174;7,5;0;NA;26,4;0;65;0;1,1;0;15,3
+"Teigwaren (allgemein) Schnitt-, Bandnudeln";"Eier und Eierprodukte, Teigwaren";352;2,8;68,3;68,3;12,3;5;10,7;0;0,9;0;7,6
+"Ananas frisch";"Früchte, Obst und Obsterzeugnisse";59;0,2;13,1;13,1;0,5;1,4;83,8;0;0,4;0,7;3,7
+"Hirschpastete";"Wurst, Fleischwaren";224;15;0;NA;22,3;0;59,4;0;3,2;0;10,4
+"Vollkornkeks";"Kuchen, Feinbackwaren, Dauerbackwaren";471;24,2;51,8;51,8;11,5;8,5;2;0;2,1;0;9,8
+"Limonaden koffeinhaltig";"Alkoholfreie Getränke";47;0;10,9;10,9;0;0;88,1;0;0,1;1;0,1
+"Roggen Flocken";"Cerealien, Getreide und Getreideprodukte, Reis";295;1,7;60,1;60,1;9;14;14;0;1,2;0;4
+"Weizen Kleie";"Cerealien, Getreide und Getreideprodukte, Reis";178;4,7;17,7;17,7;16;45,1;9,1;0;6,2;0;8,6
+"Erdkirsche Konfitüre";"Früchte, Obst und Obsterzeugnisse";275;0,3;66,1;66,1;0,7;1;31,4;0;0,1;0,3;0,6
+"Passionsfrucht - Maracuja frisch";"Früchte, Obst und Obsterzeugnisse";80;0,4;13,4;13,4;2,4;1,5;77,5;0;0,9;3,9;4,1
+"Schinkenmettwurst";"Wurst, Fleischwaren";356;32;0,2;0,2;17,7;0;46;0;4;0;7,2
+"Rotbarsch frisch gebraten Fischzuschnitt";"Fische, Krusten-, Schalen-, Weichtiere";125;4,3;0;NA;21,5;0;73;0;1,1;0;11,2
+"Graubrot-Roggenbrot";"Brot- und Kleingebäck";211;0,9;43,8;43,8;6;5,7;41,6;0;1,9;0,1;2,4
+"Kohlrübe frisch";"Gemüse und Gemüseerzeugnisse";27;0,2;5;NA;1,2;2,4;90,2;0;0,8;0,3;-4
+"Haifischöl";"Fette, Öle, Butter, Schmalz";879;99,5;0;NA;0;0;0,4;0;0,1;0;0,1
+"Schwarze Bohnen roh";"Gemüse und Gemüseerzeugnisse";373;1,4;62,4;62,4;21,6;6;0,1;0;2,3;250;13,6
+"Apfel";"Früchte, Obst und Obsterzeugnisse";61;0;14,4;13,9;0,3;2;82,5;0;0,3;0,5;2,1
+"Rosenkohl gegart";"Gemüse und Gemüseerzeugnisse";28;0,3;2,2;2,2;3,8;3,8;88,4;0;1,1;0,5;0
+"Blauschimmel Rahmstufe";"Milch, Milcherzeugnisse, Käse";358;29,8;1;NA;21,6;0;41,5;0;5,1;1;13,8
+"Rind Brust (Spannrippe) (fett) frisch";"Fleisch (Rind, Kalb, Schwein, Hammel, Lamm)";262;21,7;0;NA;17,2;0;60,2;0;0,9;0;9,3
+"Schweinerückenpastete mit Mürbeteig";"Wurst, Fleischwaren";206;9,6;9,3;9,3;20,4;0,4;58,7;0;1,5;0,1;7,2
+"Limburger Vollfettstufe";"Milch, Milcherzeugnisse, Käse";287;22;0;NA;22,5;0;50,9;0;4;0,5;13,3
+"Kürbiskernmehl";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";390;11,2;5,2;5,2;60,7;12,7;4,2;0;5,9;70;40,1
+"Sauerkirsche Fruchtsaft";"Früchte, Obst und Obsterzeugnisse";57;0,4;11,8;10,8;0,3;0;85,2;0;0,5;1,8;-4
+"Spaghetti Bolognese (Zubereitung Haushalt)";"Menükomponenten";121;4,1;15,3;15,3;5,6;1,6;72,2;0;1,1;0,1;1,5
+"Buchweizen Korn geschält";"Cerealien, Getreide und Getreideprodukte, Reis";340;1,7;71;NA;9,1;3,7;12,8;0;1,7;0;4,6
+"Gemüsebrühe (Zubereitung Haushalt)";"Menükomponenten";22;1,7;1,1;1,1;0,6;0,9;94,8;0;0,7;0,1;1,3
+"Graubrot-Roggenbrot mit Kümmel";"Brot- und Kleingebäck";216;1,4;43,6;43,6;6,5;6;40,5;0;2;0,1;1,7
+"Weißer Schweinskäse";"Wurst, Fleischwaren";259;20,2;0,3;0,3;19,3;0,1;56,9;0;3,1;0;7,6
+"Feige frisch";"Früchte, Obst und Obsterzeugnisse";63;0,5;12,9;12,9;1,3;2;82,3;0;0,7;0,3;4,4
+"Pfifferling frisch";"Kartoffeln und Kartoffelerzeugnisse, stärkereiche Pflanzenteile, Pilze";11;0,5;0,2;NA;1,6;5,6;91,1;0;1;0,1;8,3
+"Graubrot-Weizenmischbrot";"Brot- und Kleingebäck";219;0,8;44,9;44,9;7,1;4,2;41;0;1,7;0;3,7
+"Weißwurst in Kapernsoße                  ";"Wurst, Fleischwaren";147;9;3,8;3,8;13;0,3;71,4;0;2,5;0;4,9
+"Norddeutsche Kochmettwurst";"Wurst, Fleischwaren";291;24,3;0,2;0,2;18,5;0,1;53,8;0;3;0,1;7,2
+"Hirse Mehl";"Cerealien, Getreide und Getreideprodukte, Reis";345;1,7;75,4;75,4;5,8;2;12,7;0;2,4;0;0,3
+"Zartbitterschokolade";"Süßwaren, Zucker, Bonbons, Schokolade, Brotaufstrich süß, Eis";496;32,7;43,8;43,8;7,1;11,8;2;0;2,4;0,2;6,7
+"Erdnussflips";"Kuchen, Feinbackwaren, Dauerbackwaren";529;34,7;45,2;45,2;9,7;4,9;3;0;2,6;0;3,9
+"Blutwürste";"Wurst, Fleischwaren";344;31,4;0,6;0,6;15,7;0,2;49,9;0;2,2;0;7,8
+"Möhren gedünstet (Zubereitung Haushalt)";"Menükomponenten";41;2,3;4,1;NA;0,9;3,1;88,1;0;1,3;0,2;4,7
+"Rüböl (Rapsöl)";"Fette, Öle, Butter, Schmalz";875;99;0;NA;0;0;1;0;0;0;0
+"Spitzkohl gedünstet (Zubereitung Großküche)";"Menükomponenten";37;1,7;3,4;3,4;1,8;2;89,8;0;1,2;0,2;2,9
+"Gebrannte Cashewkerne";"Süßwaren, Zucker, Bonbons, Schokolade, Brotaufstrich süß, Eis";537;31;49;NA;14;2,5;2;0;1,2;350;4,2
+"Knackwurst, Servela";"Wurst, Fleischwaren";283;26;0,3;0,3;12,7;0,1;57,9;0;2,8;0,1;5,2
+"Aubergine frisch gegart";"Gemüse und Gemüseerzeugnisse";17;0,2;2,5;2,5;1,2;2,9;92,5;0;0,4;0,2;-3
+"Filetpastete und andere";"Wurst, Fleischwaren";194;12;0,2;0,2;21,4;0;63,1;0;3,2;0,1;9
+"Cashewnuss geröstet";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";594;48,2;25,3;25,3;16,2;3,2;3,9;0;3,2;0;5,4
+"Champignon frisch gegart";"Kartoffeln und Kartoffelerzeugnisse, stärkereiche Pflanzenteile, Pilze";15;0,2;0,5;0,1;2,7;2,1;93,3;0;1;0,1;0,9
+"Chinakohl frisch";"Gemüse und Gemüseerzeugnisse";14;0,3;1,2;1,2;1,2;1,9;94,4;0;0,6;0,4;2,1
+"Delikateß-Leberwurst";"Wurst, Fleischwaren";328;29,4;1,5;1,5;15,2;0,1;51,1;0;2,6;0,1;9,2
+"Pollack frisch";"Fische, Krusten-, Schalen-, Weichtiere";75;0,8;0;NA;16,7;0;81,1;0;1,4;0;11,6
+"Kasseler gegrillt";"Wurst, Fleischwaren";115;2,2;0;NA;23,5;0;70,8;0;3,5;0;12,7
+"Leberwurst Ia";"Wurst, Fleischwaren";328;29,4;1,5;1,5;15,2;0,1;51,1;0;2,6;0,1;9,2
+"Lachs pazifisch";"Fische, Krusten-, Schalen-, Weichtiere";174;10,4;0;NA;20,1;0;68,1;0;1,4;0;10,5
+"Geselchte";"Wurst, Fleischwaren";315;27,8;0,2;0,2;16,7;0,1;52,3;0;2,9;0,1;6,6
+"Salami IA fein";"Wurst, Fleischwaren";355;30,8;0,2;0,2;20,1;0,1;44,5;0;4,3;0;8,3
+"Debreziner (Brühwurst)";"Wurst, Fleischwaren";331;31;0,3;0,3;13,8;0,1;52,2;0;2,5;0,1;5,6
+"Katenrauchwurst";"Wurst, Fleischwaren";365;32,1;0,2;0,2;20;0,1;43,4;0;4,2;0;7,8
+"Gelbwurst";"Wurst, Fleischwaren";285;26,9;0,3;0,3;11,3;0;59;0;2,4;0;4,4
+"Apfel geschält roh mit Küchenabfall";"Früchte, Obst und Obsterzeugnisse";53;0,4;11,8;NA;0,3;1,7;80,1;0;0,3;0,5;2,6
+"Rosenkohl tiefgefroren";"Gemüse und Gemüseerzeugnisse";39;0,4;3,4;3,4;4,9;4,8;84,4;0;1,5;0,6;3,5
+"Spinat tiefgefroren";"Gemüse und Gemüseerzeugnisse";18;0,3;0,5;0,5;2,6;2,7;91,5;0;1,5;0,8;12,3
+"Goldbackfisch paniert tiefgefroren";"Fische, Krusten-, Schalen-, Weichtiere";150;7,3;5,8;5,8;15,5;0,3;69,8;0;1,4;0;7,5
+"Fleischsalat (Zubereitung Gastronomie)";"Menükomponenten";312;29,5;4,6;4,6;7,7;0,3;55,6;0;1,9;0,2;4,8
+"Pferd Fleisch";"Fleisch (Wild, Geflügel, Federwild, Innereien)";115;3;0,4;0,4;21,4;0;74,2;0;1;0;9,6
+"Brennnessel roh";"Gemüse und Gemüseerzeugnisse";42;0,6;1,3;1,3;7,4;3,1;84,9;0;2,3;0,4;12,6
+"Luzernensprossen (Alfalfa) frisch";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";32;0,7;2,2;2,2;4;1,6;90,9;0;0,4;0,3;1,8
+"Kefir";"Milch, Milcherzeugnisse, Käse";50;1,5;4,1;4,1;3,4;0;88,9;0,5;0,8;0,8;0,3
+"Sojajoghurt Vanillegeschmack angereichert mit Calcium und Vitaminen probiotisch";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";73;2,2;9,6;9,6;3,7;0,7;83,2;0;0,6;0;1,8
+"Bier alkoholfrei (< 0,5 Gew% Alkohol)";"Alkoholische Getränke";26;0;5,4;5,3;0,4;0;93,7;0,3;0,2;0;0,2
+"Kakaobutter";"Fette, Öle, Butter, Schmalz";879;99,5;0;NA;0;0;0,5;0;0;0;0
+"Körnerbrot glutenfrei";"Diätetische Lebensmittel";218;4,8;38,8;38,8;4,4;6,7;44,2;0;1,1;0;2,1
+"Zuckermelone - Honigmelone roh";"Früchte, Obst und Obsterzeugnisse";55;0,1;12,4;12,4;0,9;0,7;85,4;0;0,4;0,1;5,6
+"Sirup";"Süßwaren, Zucker, Bonbons, Schokolade, Brotaufstrich süß, Eis";322;0;79;NA;0,3;0;19,3;0;1,4;0;4,8
+"Radieschen frisch";"Gemüse und Gemüseerzeugnisse";15;0,1;2,1;2,1;1,1;1,6;94,1;0;0,9;0,1;4,5
+"Kaffee entcoffeiniert röststoffarm (Getränk)";"Alkoholfreie Getränke";2;0;0,4;0,4;0,1;0;99,4;0;0,1;0;0,5
+"Banane tiefgefroren";"Früchte, Obst und Obsterzeugnisse";99;0,2;22,2;22,2;1,2;2,1;72,8;0;0,9;0,7;-8
+"Mandel süß geröstet";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";586;53,7;7;NA;20,4;13,3;2,2;0;3,3;0;3,4
+"Bohnen weiß reif Konserve";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";65;0,4;9,9;9,9;5,3;4,2;77,5;0;1,5;0,1;1,8
+"Ochsenschwanz in Gelee";"Wurst, Fleischwaren";180;10,5;0,6;0,6;20,8;0;67;0;1;0,1;8,4
+"Salami italienische Art";"Wurst, Fleischwaren";331;27,7;0,3;0,3;21;0,1;46,6;0;4,4;0;8,6
+"Gerste Vollkornflocken";"Cerealien, Getreide und Getreideprodukte, Reis";314;1,5;66,1;66,1;7,9;10,3;13;0;1,2;0;5,6
+"Gewürzgurken Sauerkonserve, abgetropft";"Gemüse und Gemüseerzeugnisse";16;0,2;1,8;1,8;0,6;0,5;93,7;0;1,6;1,6;1,4
+"Inulin";"Diätetische Lebensmittel";200;0;0;NA;0;100;0;0;0;0;0
+"Brühwurst feingekuttert (nicht umgerötet)";"Wurst, Fleischwaren";285;26,9;0,3;0,3;11,3;0;59;0;2,4;0;4,4
+"Preßkopf rot, Panhas";"Wurst, Fleischwaren";262;21,8;0,8;0,8;16,2;0,2;57,1;0;3,9;0;6,5
+"Zwiebeln gegart";"Gemüse und Gemüseerzeugnisse";29;0,3;5,2;5,2;1,2;1,5;91,2;0;0,5;0,2;1,6
+"Frankfurter Rindswurst, Rote";"Wurst, Fleischwaren";249;19,5;0,3;0,3;18,6;0,1;58;0;3,5;0,1;8,2
+"Berglinsen";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";354;1,7;53;NA;25;11;5,2;0;1,7;0;5,5
+"Risotto mit Butter und Parmesankäse (Zubereitung Gastronomie)";"Menükomponenten";204;9,8;22,2;22,2;6,7;0,9;59,4;0;1;0,1;3,2
+"Kichererbsen Konserve abgetropft";"Gemüse und Gemüseerzeugnisse";125;2,6;17,4;17,4;7,3;4,4;64,9;0;1,8;0,3;3,9
+"Kochstreichwürste ohne Leber";"Wurst, Fleischwaren";337;32,5;0,2;0,2;12;0,1;52,8;0;2,4;0;4,8
+"Mortadella norddeutsch";"Wurst, Fleischwaren";308;29,2;0,4;0,4;12;0,2;54,8;0;3,3;0,1;4,2
+"Mais Mehl";"Cerealien, Getreide und Getreideprodukte, Reis";354;2,8;72,7;72,7;8,3;3;12;0;1,2;0;9,6
+"Butter";"Fette, Öle, Butter, Schmalz";741;83,2;0,6;0,6;0,7;0;15,3;0;0,1;0,1;0,5
+"Buchweizen Nudeln (Soba)";"Cerealien, Getreide und Getreideprodukte, Reis";388;2,1;77;NA;11;8,4;0,3;0;1,1;0;6,3
+"Cashewnuss";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";568;42,2;30,5;30,5;17,5;2,9;4;0;2,9;0;3,4
+"Rosenkohl gedünstet (Zubereitung Haushalt)";"Menükomponenten";65;3,7;3,5;3,5;4,1;3,9;82,6;0;1,7;0,5;3,3
+"Döner Kebap";"Menükomponenten";190;4,9;24;NA;12;1,7;55,8;0;1,4;0,1;6,1
+"Tofu";"Vegetarische Produkte";144;8,7;0,6;0,6;15,8;0,6;72,9;0;1,4;0;0,5
+"Korinthenbrötchen mit Hefe";"Brot- und Kleingebäck";253;1,3;52,1;52,1;7;3,4;34,2;0;1,6;0,4;2,3
+"Vanilleeis (Zubereitung Haushalt)";"Menükomponenten";178;8,7;20,5;20,5;4,2;0;65,7;0;0,7;0,1;2,3
+"Grießbrei (Zubereitung Haushalt)";"Menükomponenten";107;4,6;12;NA;4;0,8;77,5;0;0,8;0,2;0,6
+"Joghurt-Dressing (Zubereitung Gastronomie)";"Menükomponenten";108;8;5,5;5,5;3,1;1,4;79,8;0;1,4;0,8;2,9
+"Knoblauchwurst rohe Krakauer";"Wurst, Fleischwaren";332;30,8;0,2;0,2;14,6;0;50,9;0;3,5;0;6
+"Göttinger Schinkenwurst roh";"Wurst, Fleischwaren";295;25,2;0,2;0,2;17,5;0,1;53,3;0;3,7;0;6,6
+"Roggen Vollkornmehl";"Cerealien, Getreide und Getreideprodukte, Reis";294;1,7;59,7;59,7;9;14;13,7;0;1,9;0;3,1
+"Johannisbeere rot frisch";"Früchte, Obst und Obsterzeugnisse";43;0,2;7,3;7,3;1,1;7,4;81;0;0,6;2,4;4,1
+"Hagebutte Konfitüre";"Früchte, Obst und Obsterzeugnisse";296;0,2;70,1;70,1;1,3;2,2;24;0;1;1,1;1,3
+"Kartoffelklöße halb und halb (Zubereitung Haushalt)";"Menükomponenten";94;1,7;16,7;16,7;2,3;2,3;75,3;0;1,1;0,6;4,1
+"Vollkornbrötchen mit Sesam";"Brot- und Kleingebäck";237;3,7;41,8;41,8;8,4;6,8;36,6;0;2,6;0;5,7
+"Vollkornbrot-Roggenvollkornschrotbrot";"Brot- und Kleingebäck";186;0,9;38,1;38,1;5,7;7,3;46;0;2;0;3,6
+"Joghurt 10% Fett";"Milch, Milcherzeugnisse, Käse";118;10;3,7;3,7;3,1;0;81,8;0;0,7;0,8;0,1
+"Fleischbrühe klar (Zubereitung Gastronomie)";"Menükomponenten";46;1,5;0,6;0,5;7,6;0,4;89;0;1;0;3
+"Gemüseeintopf (Zubereitung Haushalt)";"Menükomponenten";72;2,6;2,2;2,2;9,7;1,3;82,6;0;1,5;0,1;2,7
+"Knäckebrot-Mehrkornbrot";"Brot- und Kleingebäck";343;1,5;71,8;71,8;9,3;7,5;7;0;2,6;0,1;4,7
+"Clementine frisch";"Früchte, Obst und Obsterzeugnisse";46;0,3;9;NA;0,7;2;86,1;0;0,7;1,2;3,4
+"Touristenwurst";"Wurst, Fleischwaren";290;25,5;0,2;0,2;15,7;0;55;0;3,5;0;6,5
+"Grünkohl Konserve";"Gemüse und Gemüseerzeugnisse";24;0,6;1,6;1,6;2,8;2,8;90,4;0;1,5;0,3;4,6
+"Würstchen (umgerötet)";"Wurst, Fleischwaren";296;26,4;0,3;0,3;15,2;0,1;55,1;0;2,9;0,1;6,4
+"Kartoffelgratin (Zubereitung Haushalt)";"Menükomponenten";107;5,7;11,2;11,2;2,3;1,5;77,5;0;1,4;0,4;4,2
+"Heringsfische Makrelen Thunfische gegart";"Fische, Krusten-, Schalen-, Weichtiere";137;5,9;0;NA;20,9;0;71,9;0;1,2;0;10,5
+"Sojamehl";"Vegetarische Produkte";342;20,1;0,4;0,4;40;17;9,1;0;4,4;0;13,4
+"Schwein Schinkenspeck";"Wurst, Fleischwaren";152;7,7;0;NA;20,7;0;70,6;0;1;0;9,5
+"Kokoswasser";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";10;0,4;1,4;1,4;0,3;0;97,3;0;0,7;0;5,7
+"Sojalecithin";"Vegetarische Produkte";884;100;0;NA;0;0;0;0;0;0;0
+"Heringsfilet in Tomatensoße";"Fische, Krusten-, Schalen-, Weichtiere";184;13,1;1,8;1,8;14,9;0,5;68,3;0;1,3;0,1;6,3
+"Blätterteig tiefgefroren";"Kuchen, Feinbackwaren, Dauerbackwaren";375;23,5;35,4;35,4;5,7;2,3;31,8;0;1,3;0;2,3
+"Weintraube rot frisch";"Früchte, Obst und Obsterzeugnisse";71;0,3;15,6;15,4;0,7;0,8;81,3;0;0,5;0,8;3,4
+"Leberrolle";"Wurst, Fleischwaren";270;19,8;1,3;1,3;22,1;0,2;53,4;0;3,1;0,1;11,6
+"Hackfleischsoße italienisch (Zubereitung Großküche)";"Menükomponenten";75;4,2;4,3;4,3;5;0,6;84,7;0;1,2;0;1,5
+"Hüttenkäse Magerstufe";"Milch, Milcherzeugnisse, Käse";81;1,4;3,3;3,3;13,3;0;80,1;0;1,4;0,5;9,2
+"Dinkel ganzes Korn roh";"Cerealien, Getreide und Getreideprodukte, Reis";329;1,7;60,3;60,3;17;10;9,2;0;1,8;0;11,4
+"Feta";"Milch, Milcherzeugnisse, Käse";236;18,8;0;NA;17;0;58,6;0;5,2;0,4;12
+"Brötchen mit Schinken";"Brot- und Kleingebäck";245;1,4;49,3;49,3;7,8;3,1;36,7;0;1,6;0;3,9
+"Sächsischer Preßkopf Konserve";"Wurst, Fleischwaren";286;22;0,3;0,3;22,3;0,1;52,6;0;2,8;0;9,3
+"Schweinekamm gefüllt";"Wurst, Fleischwaren";202;12,1;0,9;0,9;22,2;0,6;62,4;0;1,5;0,2;6,9
+"Blumenkohl gegart";"Gemüse und Gemüseerzeugnisse";22;0,3;2,3;2,3;2,5;2,9;91,1;0;0,7;0,2;2,5
+"Kasseler";"Wurst, Fleischwaren";108;2,2;0;NA;22;0;72,9;0;3,6;0;11
+"Himbeere Konfitüre";"Früchte, Obst und Obsterzeugnisse";254;0,3;60,9;60,9;0,5;1,2;36,2;0;0,2;0,8;0,8
+"Graubrot-Mehrkornbrot";"Brot- und Kleingebäck";219;1;45,7;45,7;5,9;4,8;40,7;0;1,7;0,1;3
+"Tee schwarz mit Zucker (Getränk)";"Alkoholfreie Getränke";8;0;2;NA;0,1;0;97,8;0;0,1;0;0,5
+"Sanddornbeere Fruchtsaft";"Früchte, Obst und Obsterzeugnisse";87;5,9;6,3;6,3;1,3;0;84,6;0;0,5;1,5;2,8
+"Bier Pils Hell";"Alkoholische Getränke";42;0;3,1;3,1;0,5;0;92,2;4;0,2;0;0
+"Gänsefett, -schmalz";"Fette, Öle, Butter, Schmalz";883;100;0;NA;0;0;0;0;0;0;0,2
+"Plock-und Schinkenwurst roh";"Wurst, Fleischwaren";432;37;0,3;0,3;25,6;0,1;31,5;0;5,6;0;10,8
+"Erdbeere tiefgefroren";"Früchte, Obst und Obsterzeugnisse";34;0,4;5,8;5,7;0,8;2,1;89,3;0;0,5;1;2,6
+"Sauce Hollandaise Konserve";"Fleisch (Rind, Kalb, Schwein, Hammel, Lamm)";112;7,8;5,7;5,7;5;0,1;80,9;0;0,5;0;3,5
+"Kichererbsen Konserve abgetropft gekocht";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";29;0,4;4,1;4,1;2,2;2,4;90,1;0;0,4;0,1;0,6
+"Spargel grün";"Gemüse und Gemüseerzeugnisse";20;0,2;2;NA;2;1,4;93,7;0;0,6;160;2,4
+"Kefir vollfett";"Milch, Milcherzeugnisse, Käse";66;3,5;4;NA;3,3;0;87,2;0,5;0,8;0,7;0,1
+"Birne frisch";"Früchte, Obst und Obsterzeugnisse";52;0,3;12,4;10,2;0,5;2,8;83,4;0;0,3;0,3;2,1
+"Waffel-Maisbrot glutenfrei";"Diätetische Lebensmittel";335;3,5;70,5;70,5;4,4;2,5;17,4;0;1,8;0;6,7
+"Brötchen (allgemein)";"Brot- und Kleingebäck";248;1,4;50,7;50,7;7,4;3,2;35,8;0;1,5;0;3,7
+"Teigwaren aus Hartgrieß gegart";"Eier und Eierprodukte, Teigwaren";150;0,5;30,3;30,3;5,4;2,3;61,2;0;0,3;0;3,3
+"Kapern Konserve abgetropft";"Gemüse und Gemüseerzeugnisse";23;0,4;2,7;2,7;2,1;2,4;85,2;0;7,2;0;0,5
+"Kasseler gekocht";"Wurst, Fleischwaren";142;2,7;0;NA;29;0;64,3;0;4;0;16,4
+"Gänse-Cervelatwurst";"Wurst, Fleischwaren";341;28,5;0,3;0,3;21,5;0;45,4;0;4,2;0,1;11,3
+"Gemüsepaprika gelb frisch";"Gemüse und Gemüseerzeugnisse";30;0,3;5,3;5,3;1,2;3,6;88,7;0;0,6;0,3;3,6
+"Hessische Landrotwurst";"Wurst, Fleischwaren";241;16;0,4;0,4;24,3;0,1;56;0;3,3;0;11,1
+"Spätzle (Zubereitung Haushalt)";"Menükomponenten";139;3,4;20,9;20,9;5,9;1,2;68;0;0,6;0;3,8
+"Trinkwasser";"Alkoholfreie Getränke";0;0;0;NA;0;0;100;0;0;0;0,1
+"Knäckebrote";"Brot- und Kleingebäck";359;2;73,4;73,4;10,8;4,6;7;0;2,2;0,1;5,3
+"Pfeffer Lyoner Konserve";"Wurst, Fleischwaren";260;21;0,3;0,3;18,1;0,1;57,2;0;3,3;0;7,1
+"Kalbsleber gebraten (Zubereitung Haushalt)";"Menükomponenten";137;4,6;5;NA;18,7;0,3;69,8;0;1,6;0;13,1
+"Sojadrink flüssig";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";27;0,7;1,6;1,6;3,5;1,1;92,5;0;0,6;0;0,7
+"Ente Fleisch mit Haut frisch";"Fleisch (Wild, Geflügel, Federwild, Innereien)";225;17,2;0;NA;18,1;0;63,7;0;1;0;11,1
+"Sojasprossen frisch";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";52;1,2;4,7;4,7;5,3;2,3;85,5;0;0,8;0,3;0,5
+"Kalbfleischwurst Konserve";"Wurst, Fleischwaren";321;30,1;0,2;0,2;13,4;0;53,4;0;2,9;0;6,1
+"Gemüsesuppe dick (Zubereitung Haushalt)";"Menükomponenten";40;1,7;4,6;4,6;1,5;1,6;89,4;0;1;0,1;2,2
+"Pariser Pastete";"Wurst, Fleischwaren";294;21,8;7,6;7,6;17,6;0,4;51,1;0;1,5;0;7,7
+"Graubrot-Roggenmischbrot";"Brot- und Kleingebäck";210;0,8;44,3;44,3;5,7;4,7;42,7;0;1,6;0,1;2,8
+"Knollensellerie frisch";"Gemüse und Gemüseerzeugnisse";19;0,3;2,3;2,3;1,7;4,2;90,4;0;0,9;0,2;4,1
+"Graubrot-Roggenmischtoastbrot mit Schrotanteilen";"Brot- und Kleingebäck";241;3,4;45,4;45,4;6,6;5,2;37,5;0;1,8;0,1;3,3
+"Früchtetee (Getränk)";"Alkoholfreie Getränke";1;0;0,2;0,2;0;0;99,7;0;0,1;0;0,2
+"Vollkornbrötchen-Roggenvollkornbrötchen mit Leinsamen";"Brot- und Kleingebäck";204;2,3;37,8;37,8;7,5;10,2;39,5;0;2,6;0,1;4,5
+"Kasseler erwärmt";"Wurst, Fleischwaren";115;2,2;0;NA;23,5;0;70,8;0;3,5;0;12,7
+"Dinkelmehl Typ 630";"Cerealien, Getreide und Getreideprodukte, Reis";342;1,3;68,9;68,9;12,4;3,7;13,1;0;0,6;0;6,6
+"Delikateß Würstchen";"Wurst, Fleischwaren";276;24,5;0,2;0,2;14,5;0,1;57,8;0;2,8;0,1;5,7
+"Noriblatt (Seetangblätter Norialge)";"Gemüse und Gemüseerzeugnisse";301;3,8;53,3;53,3;11,5;8,9;15;0;6,2;1,4;28,4
+"Hirnwurst";"Wurst, Fleischwaren";280;24,4;1;NA;14,8;0,4;55,7;0;3,6;0;8,7
+"Brathähnchen Herz frisch";"Fleisch (Wild, Geflügel, Federwild, Innereien)";125;5,8;0,7;0,7;17,3;0;75,1;0;1;0;8,3
+"Eierlikör";"Alkoholische Getränke";285;7;28;NA;4;0;47,4;13,4;0,2;0;3,2
+"Kaisersemmel";"Brot- und Kleingebäck";231;0,9;47,5;47,5;7,5;4,5;37,7;0;1,8;0;3,9
+"Bratwurst, Rheinische Bratwurst";"Wurst, Fleischwaren";272;25,1;0,3;0,3;12,2;0;59,8;0;2,6;0;4,9
+"Weichkäse Doppelrahmstufe";"Milch, Milcherzeugnisse, Käse";362;33,2;0;NA;16,8;0;46,7;0;3,1;0,2;10,9
+"Schinken-Galantine                     ";"Wurst, Fleischwaren";159;6,4;0;NA;25,3;0;65,2;0;3,1;0;9,9
+"Lamm Herz frisch";"Fleisch (Wild, Geflügel, Federwild, Innereien)";118;5,7;0,2;0,2;16,5;0;76,6;0;1;0;8
+"Bauernbratwurst";"Wurst, Fleischwaren";306;25,4;0,2;0,2;20;0,1;51;0;3,4;0;7,6
+"Schweinezungensülze";"Wurst, Fleischwaren";182;13,1;1,7;1,7;14,5;0;65,4;0;5,2;0,1;7,2
+"Cheddar Rahmstufe";"Milch, Milcherzeugnisse, Käse";405;34;0;NA;24,7;0;36,1;0;3,9;1,3;16,6
+"Ananas Konserve";"Früchte, Obst und Obsterzeugnisse";88;0,1;20,8;20,8;0,2;0,8;77,4;0;0,2;0,4;1,8
+"Palmfett - Palmöl";"Fette, Öle, Butter, Schmalz";872;98,7;0;NA;0;0;1,3;0;0;0;0
+"Kalbfleischkäse";"Wurst, Fleischwaren";321;30,1;0,2;0,2;13,4;0;53,4;0;2,9;0;6,1
+"Sauerkirsche Konserve abgetropft";"Früchte, Obst und Obsterzeugnisse";86;0,4;18,4;17,9;0,7;1;77,5;0;0,4;1,6;0,8
+"Eier";"Eier und Eierprodukte, Teigwaren";154;11,2;0,7;0,7;12,9;0;74,1;0;1,1;0;10,2
+"Hasenpastete";"Wurst, Fleischwaren";230;15,4;0;NA;23,1;0;58,4;0;3,1;0;11,4
+"Nuß-Nougat-Creme süß";"Süßwaren, Zucker, Bonbons, Schokolade, Brotaufstrich süß, Eis";521;29,6;59,6;59,6;4,3;3,9;1,3;0;1,1;0,1;1,8
+"Sauerkirsche roh";"Früchte, Obst und Obsterzeugnisse";52;0,5;9,9;8,9;0,9;1,1;85,3;0;0,5;1,8;1,6
+"Spargel weiß frisch";"Gemüse und Gemüseerzeugnisse";18;0,1;2;NA;1,9;1,4;93,7;0;0,6;0,2;2,4
+"Kondensmilch 7.5 % Fett";"Milch, Milcherzeugnisse, Käse";133;7,5;9,7;9,7;6,5;0;74,4;0;1,5;0,3;0,1
+"Kartoffelkroketten (Zubereitung Großküche)";"Menükomponenten";136;5,1;19;NA;3,1;2,3;69;0;1,1;0,5;3,1
+"Schoko-Müsli";"Cerealien, Getreide und Getreideprodukte, Reis";390;11,8;60,4;60,4;9,8;6,8;9;0;1,8;0,2;3,7
+"Cornichons Sauerkonserve abgetropft";"Gemüse und Gemüseerzeugnisse";16;0,2;1,8;1,8;0,6;0,5;93,7;0;1,6;1,6;1,4
+"Gansgalantine                       ";"Wurst, Fleischwaren";310;26,8;1,2;NA;16,9;0,7;51,6;0;2,8;0;8,8
+"Salatmayonnaise 50% Fett";"Fette, Öle, Butter, Schmalz";482;52;5;NA;0,5;0;38,9;0;3,6;0;1
+"Knollensellerie frisch gegart";"Gemüse und Gemüseerzeugnisse";15;0,3;1,6;1,6;1,5;3,9;91,9;0;0,7;0,2;0,6
+"Schwein Vorder-, Hinterschinken";"Wurst, Fleischwaren";121;4,3;1,1;1,1;19,5;0;71,9;0;3,3;0;10
+"Käseschinkenwurst";"Wurst, Fleischwaren";232;17,2;0,2;0,2;19,3;0,1;59,9;0;3,2;0,2;8,4
+"Graubrot-Roggenbrot mit Sauermilch";"Brot- und Kleingebäck";216;1,2;44,1;44,1;6,3;5,7;40,5;0;1,9;0,2;2,4
+"Salami aus Fleisch anderer Tiere";"Wurst, Fleischwaren";349;30,2;0,2;0,2;19,9;0,1;45,2;0;4,4;0;10
+"Kabeljau tiefgefroren";"Fische, Krusten-, Schalen-, Weichtiere";77;0,7;0;NA;17,4;0;80,7;0;1,2;0;7,6
+"Auster frisch";"Fische, Krusten-, Schalen-, Weichtiere";63;1,2;3,9;3,9;9;0;83,9;0;2;0;3,4
+"Kochwurst";"Wurst, Fleischwaren";328;29,4;1,5;1,5;15,2;0,1;51,1;0;2,6;0,1;9,2
+"Zwetschge frisch";"Früchte, Obst und Obsterzeugnisse";43;0,1;8,8;8,8;0,6;2,3;86,3;0;0,5;1,4;4,3
+"Kürbis frisch gegart";"Gemüse und Gemüseerzeugnisse";27;0,2;4,6;4,5;1,4;0,8;92,1;0;0,6;0,3;4,8
+"Schwedische Leberpastete mit Sardellen";"Wurst, Fleischwaren";299;25,4;1;NA;17,3;0,2;53,2;0;2,9;0;9,5
+"Hafer Mehl";"Cerealien, Getreide und Getreideprodukte, Reis";375;7,2;62,9;62,9;13,8;5;9,1;0;1,8;0;12
+"Mandel süß roh";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";589;53;5,7;5,7;24;11,4;4,6;0;1,3;0;3,6
+"Fleischwurst im Blätterteig";"Wurst, Fleischwaren";331;26,3;11,7;11,7;12,6;0,7;45,8;0;2,9;0;5,2
+"Schwein Hackfleisch frisch";"Fleisch (Rind, Kalb, Schwein, Hammel, Lamm)";250;20,1;0;NA;17,8;0;61,2;0;1;0;7,2
+"Couscous roh";"Cerealien, Getreide und Getreideprodukte, Reis";341;1,7;68,7;68,7;11,7;6,2;11,1;0;0,7;0;5,9
+"Kokosfett";"Fette, Öle, Butter, Schmalz";878;99;0;NA;0,8;0;0,1;0;0,1;0;0,4
+"Multi-Vitamin-Nektar mit Süßstoff";"Diätetische Lebensmittel";32;0,1;6,3;6,1;0,5;0;91,8;0;0,3;1;1,6
+"Cervelat- und Schlackwurst";"Wurst, Fleischwaren";297;23,4;0,2;0,2;22;0,1;49,8;0;4,4;0;9
+"Rosinen";"Früchte, Obst und Obsterzeugnisse";298;0,6;66,2;66,2;2,5;5,4;18,8;0;2;4,6;11,9
+"Waffeln einfach (Zubereitung Haushalt)";"Menükomponenten";318;19,8;29,1;29,1;6,1;1,2;43;0;0,7;0,1;4,1
+"Knäckebrot-Weizenbrot mit Weizenkeimen";"Brot- und Kleingebäck";354;2,6;69,5;69,5;12;5,6;7;0;2,4;0,1;7,2
+"Mosaikroulade";"Wurst, Fleischwaren";261;22;0,3;0,3;15,9;0,1;58,6;0;3;0,1;6,2
+"Sauermilchkäse (Harzer)";"Milch, Milcherzeugnisse, Käse";131;0,7;0;NA;30;0;63,6;0;4,7;1;19,9
+"Lupinenschrot";"Gemüse und Gemüseerzeugnisse";362;8,7;12,8;12,8;42,9;27,1;2,8;0;2,2;0;8
+"Sultaninen";"Früchte, Obst und Obsterzeugnisse";298;0,6;66,2;66,2;2,5;5,4;18,8;0;2;4,6;11,9
+"Brötchen-Mehrkornbrötchen";"Brot- und Kleingebäck";231;1;48,3;48,3;6,3;5,1;37,4;0;1,8;0,1;3,2
+"Sushi";"Menükomponenten";306;4,4;54,7;54,7;11,3;1,5;27,4;0;0,7;0;5,6
+"Mozzarella 20% Fett i. Tr.";"Milch, Milcherzeugnisse, Käse";104;4,3;3,3;3,3;12,3;0;77,9;0;1,4;0,8;8,3
+"Rauchfleisch";"Wurst, Fleischwaren";129;6,4;0,9;0,9;16,9;0;68,9;0;6,9;0;7,3
+"Sojaschrot";"Vegetarische Produkte";245;11;0,4;0,4;36,1;32,3;8;0;3,3;0;10,5
+"Sonnenblumenkern";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";480;26,3;34,7;34,7;26,1;5,8;3,8;0;3,3;0;11,9
+"Salzkartoffeln (Zubereitung Haushalt)";"Menükomponenten";68;0,1;14,2;14,2;2;2,3;79,8;0;1;0,6;4,9
+"Pfirsich frisch";"Früchte, Obst und Obsterzeugnisse";41;0,1;8,9;NA;0,8;2,3;86,9;0;0,5;0,6;2,7
+"Hummus";"Gemüse und Gemüseerzeugnisse";247;21;8,4;8,4;5;1,9;61,6;0;1,6;0;0,5
+"Sojasoße";"Vegetarische Produkte";108;5,1;5,5;5,5;10,1;4,4;68,6;0;4,2;0;3,7
+"Landmettwurst";"Wurst, Fleischwaren";310;24,9;0,2;0,2;21,8;0;48,6;0;4,4;0;8,7
+"Quark Halbfettstufe";"Milch, Milcherzeugnisse, Käse";100;4,4;3,6;3,6;10,8;0;79,6;0;0,8;0,8;7,6
+"Pomelo frisch";"Früchte, Obst und Obsterzeugnisse";46;0;9,4;9,4;0,8;0,7;87,3;0;0,4;1,4;3,7
+"Spargel frisch";"Gemüse und Gemüseerzeugnisse";18;0,1;2;NA;1,9;1,4;93,7;0;0,6;0,2;2,4
+"Limonaden";"Alkoholfreie Getränke";42;0;10;NA;0;0;89,7;0;0,1;0,3;0,1
+"Schlagsahne 30 % Fett";"Milch, Milcherzeugnisse, Käse";288;30;3,2;3,2;2,5;0;63,8;0;0,5;0;0,1
+"Graubrot-Toastbrot";"Brot- und Kleingebäck";243;3,4;46;NA;6,4;4,8;37,5;0;1,8;0,1;3
+"Tee- und andere streichfähige Rohwurst";"Wurst, Fleischwaren";367;34,8;0,2;0,2;14,4;0,1;47,6;0;2,9;0;5,8
+"Schaf Keule (mittelfett) frisch gegart";"Fleisch (Rind, Kalb, Schwein, Hammel, Lamm)";240;15,7;0;NA;24,9;0;58,4;0;1;0;14,7
+"Erdnuss";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";576;48,1;7,5;7,5;29,8;11,7;0,7;0;2,2;0;8,6
+"Kichererbsenmehl";"Gemüse und Gemüseerzeugnisse";350;5,9;44,3;44,3;18,6;20;6,7;0;1,8;0;1,5
+"Geflügelbratwurst gegrillt";"Wurst, Fleischwaren";122;2,9;0,4;0,4;23,4;0,1;69,5;0;3,7;0,1;11,3
+"Pesto";"Menükomponenten";518;52,2;2,7;2,7;11,1;2;30;0;1,8;0,1;5,8
+"Delikateß-Pastete";"Wurst, Fleischwaren";277;20,2;7,9;7,9;16,4;0,6;50,4;0;4,4;0;6,3
+"Camembert Halbfettstufe";"Milch, Milcherzeugnisse, Käse";175;8,6;0;NA;24,3;0;62,1;0;4,8;0,2;21,6
+"Kalbsrouladen";"Wurst, Fleischwaren";205;13,6;0,9;0,9;19,8;0,2;59,2;0;6,2;0;8,9
+"Oliven schwarz gesäuert";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";353;35,8;4,9;4,9;2,2;3,8;41,3;0;9,5;2,5;0,1
+"Haselnussmus";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";665;64,8;6,1;6,1;16,6;5,5;4,4;0;2,5;0;3,3
+"Leinmehl";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";321;10,9;2;NA;33,3;41;9,6;0;3,2;0;7,2
+"Lebertran";"Fette, Öle, Butter, Schmalz";882;99,8;0;NA;0;0;0;0;0,2;0;0
+"Zitrone Fruchtsaft";"Früchte, Obst und Obsterzeugnisse";100;0,4;19,8;19,8;0,6;0,1;74,3;0;0,4;4,4;2,3
+"Kasseler gebacken";"Wurst, Fleischwaren";115;2,2;0;NA;23,5;0;70,8;0;3,5;0;12,7
+"Dorschleber Konserve in Öl";"Fische, Krusten-, Schalen-, Weichtiere";707;78,2;0,7;0,7;3,3;0;17,4;0;0,4;0;2
+"Lammfilet (Zubereitung Gastronomie)";"Menükomponenten";150;3,7;0;NA;28,8;0;65,5;0;2;0;16,3
+"Gouda mind. 50% Fett i. Tr.";"Milch, Milcherzeugnisse, Käse";367;31;0;NA;22,2;0;43,1;0;2,9;0,8;19
+"Oliven grün gesäuert";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";143;13,9;1,8;1,8;1,4;2,4;71,7;0;6,4;2,5;1,4
+"Riesengarnelen gegrillt (Zubereitung Großküche)";"Menükomponenten";142;5,2;1,7;1,7;21,9;0,1;69,2;0;1,8;0;12,5
+"Brathähnchen Magen frisch";"Fleisch (Wild, Geflügel, Federwild, Innereien)";113;4,2;0,6;0,6;18,2;0;76,2;0;0,9;0;8,4
+"Roter Thun frisch";"Fische, Krusten-, Schalen-, Weichtiere";138;4,9;0;NA;23,3;0;70,6;0;1,2;0;12,8
+"Hühnerei Eigelb";"Eier und Eierprodukte, Teigwaren";348;31,9;0,3;0,3;16,1;0;50;0;1,7;0;24,6
+"Gerste Vollkorn";"Cerealien, Getreide und Getreideprodukte, Reis";320;2,1;64,3;64,3;9,8;9,8;11,5;0;2,2;0;4,7
+"Sauerkraut abgetropft frisch";"Gemüse und Gemüseerzeugnisse";17;0,3;0,8;0,8;1,5;3,5;90;0;2,3;1,6;4,7
+"Linsen reif Konserve gegart abgetropft";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";28;0,1;4,5;4,5;2,1;1;91,6;0;0,4;0;0,7
+"Erbsen grün frisch";"Gemüse und Gemüseerzeugnisse";82;0,5;12,3;12,3;6,6;5;74,5;0;0,9;0,3;0,3
+"Zitrone frisch";"Früchte, Obst und Obsterzeugnisse";56;0,6;8,1;8,1;0,7;1,3;83,9;0;0,5;4,9;3,1
+"Schwein Schinkenspeck roh ungeräuchert";"Wurst, Fleischwaren";152;7,7;0;NA;20,7;0;70,6;0;1;0;9,5
+"Wurstsülze";"Wurst, Fleischwaren";227;19,5;0,1;0,1;13,3;0;65,4;0;1,6;0;4,7
+"Biologische pflanzliche Soja-Joghurtalternative";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";27;0,7;1,6;1,6;3,5;1,1;92,5;0;0,6;0;0,7
+"Zucchini frisch";"Gemüse und Gemüseerzeugnisse";19;0,4;2,1;NA;1,6;1,1;93,9;0;0,7;0,3;3,5
+"Gnocchi roh";"Kartoffeln und Kartoffelerzeugnisse, stärkereiche Pflanzenteile, Pilze";162;0,6;34,3;34,3;3,9;1,8;58,2;0;0,8;0,5;0,1
+"Fleischsalat Grundlage";"Wurst, Fleischwaren";302;27,7;0,2;0,2;13,7;0;55,9;0;2,3;0,1;6,6
+"Currywurst mit Curryketchup (Zubereitung Gastronomie)";"Menükomponenten";264;23,4;2,7;2,7;11,6;0,1;59,1;0;3,1;0,1;3,6
+"Vollkornbrötchen-Roggen, Weizenvollkornbrötchen";"Brot- und Kleingebäck";233;1,4;46,4;46,4;7,9;9,2;32,5;0;2,5;0,1;4,9
+"Krakauer Konserve";"Wurst, Fleischwaren";299;26,5;0,3;0,3;15,6;0,1;54,5;0;2,9;0,1;6,5
+"Schwein Fett (Schmalz)";"Fleisch (Rind, Kalb, Schwein, Hammel, Lamm)";882;99,7;0;NA;0,1;0;0,2;0;0;0;0,1
+"Remoulade 65% Fett";"Fette, Öle, Butter, Schmalz";641;65;15,2;15,2;1,1;0,5;16,1;0;2,1;0;1,3
+"Kidney-Bohnen Konserve abgetropft";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";126;0,6;15,5;15,5;9,4;9,3;61,2;0;2,2;0,1;1,4
+"Sauerkraut (Zubereitung Haushalt)";"Menükomponenten";44;2,7;3,3;3,2;1,1;2,4;87,8;0;1,7;1;3,4
+"Petersilienblatt tiefgefroren";"Gemüse und Gemüseerzeugnisse";54;0,4;7,3;7,3;4,6;4,5;80,7;0;2,1;0,4;17,1
+"Brötchen-Weizenbrötchen mit Mohn";"Brot- und Kleingebäck";259;3,3;48,4;48,4;8;4;34,3;0;1,8;0;3,5
+"Bärlauch roh";"Gemüse und Gemüseerzeugnisse";19;0,3;2,9;2,9;0,9;2,2;92,6;0;0,9;0,2;6,3
+"Pastinake gegart";"Gemüse und Gemüseerzeugnisse";55;0,4;11,1;11,1;1,2;2;83,4;0;1;0,4;5,9
+"Emmentaler";"Milch, Milcherzeugnisse, Käse";383;30;0;NA;28,7;0;36,9;0;3,9;0,5;22,4
+"Weintrauben";"Früchte, Obst und Obsterzeugnisse";71;0,3;15,6;15,4;0,7;0,8;81,3;0;0,5;0,8;3,4
+"Gutsleberwurst Konserve";"Wurst, Fleischwaren";323;27,8;1,3;1,3;17,5;0,1;50,4;0;2,7;0,1;9,3
+"Füllung für Rouladen";"Wurst, Fleischwaren";258;22,5;1,5;1,5;12,9;0,3;57,4;0;5,2;0,2;4,5
+"Weizen Vollkornflocken";"Cerealien, Getreide und Getreideprodukte, Reis";313;2;61;NA;11,7;10,3;13;0;1,8;0;6,5
+"Geflügeljagdwurst";"Wurst, Fleischwaren";153;5,2;0,3;0,3;25,9;0,1;64,8;0;3,7;0;12,1
+"Sauerkrautsalat mit Salatöl (Zubereitung Großküche)";"Menükomponenten";69;5,6;2,3;2,3;1,5;3,2;83,8;0;2,2;1,5;4,5
+"Krapfen (Zubereitung Gastronomie)";"Menükomponenten";171;1,1;33,2;33,2;6,4;1,6;56,9;0;0,7;0;2,4
+"Krakauer roh Colbassa";"Wurst, Fleischwaren";307;27,7;0,2;0,2;15,2;0;53,3;0;3,6;0;6,3
+"Sesam roh";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";572;50,4;10,2;10,2;20,9;11,2;2;0;5,3;0;3,9
+"Kaffee mit Zucker (Getränk)";"Alkoholfreie Getränke";10;0;2,3;2,3;0,2;0;97,5;0;0,1;0;1,4
+"Banane frisch mit Küchenabfall";"Früchte, Obst und Obsterzeugnisse";64;0,1;14,3;14,3;0,8;1,3;49,5;0;0,6;0,4;5,1
+"Schwein Bauchspeck roh geräuchert";"Wurst, Fleischwaren";320;28,9;0;NA;16;0;54,4;0;0,7;0;6,2
+"Schinkenplockwurst";"Wurst, Fleischwaren";396;31,9;0,3;0,3;28,1;0,1;34,1;0;5,7;0;11,3
+"Gerauchte Schinkenwurst";"Wurst, Fleischwaren";255;20,2;0,3;0,3;18,4;0,1;58;0;3;0,1;7,4
+"Limonaden kalorienarm";"Alkoholfreie Getränke";3;0;0,5;0,5;0;0;99,3;0;0,1;0,2;0,2
+"Braunschweiger Mettwurst";"Wurst, Fleischwaren";364;31,9;0,2;0,2;20,1;0;43,1;0;4,6;0;7,5
+"Kalbskäse";"Wurst, Fleischwaren";283;24,7;0,9;0,8;15;0,4;56,5;0;2,6;0;8,9
+"Roggen Mehl Type 997";"Cerealien, Getreide und Getreideprodukte, Reis";316;1,1;68,6;68,6;6,9;8;14,6;0;0,9;0;3,1
+"Fleischwurst mit Milcheiweiß Konserve           ";"Wurst, Fleischwaren";304;27,6;0,2;0,2;14,5;0;55;0;2,6;0;6
+"Schwein Gulasch (mittelfett) frisch";"Fleisch (Rind, Kalb, Schwein, Hammel, Lamm)";177;10,8;0;NA;19,9;0;68,3;0;0,9;0;8,5
+"Lachsfilets gebraten (Zubereitung Haushalt)";"Menükomponenten";170;9,6;1,3;1,3;19,7;0,3;67,4;0;1,8;0,1;10,4
+"Natürliches Mineralwasser mit Kohlensäure";"Alkoholfreie Getränke";0;0;0;NA;0;0;99,7;0;0,3;0;0,2
+"Milchreis mit Zucker und Zimt (Zubereitung Haushalt)";"Menükomponenten";130;3,2;20,8;20,8;4;0,3;70,8;0;0,7;0,2;0,8
+"Teigwaren (allgemein) Spätzle";"Eier und Eierprodukte, Teigwaren";352;2,8;68,3;68,3;12,3;5;10,7;0;0,9;0;7,6
+"Gänseleber in Aspik";"Wurst, Fleischwaren";117;3,3;4,4;4,4;17,2;0;72,5;0;2,6;0,1;11,5
+"Fleischkäse grob";"Wurst, Fleischwaren";269;22,1;0,2;0,2;17,9;0,1;56,6;0;3;0,1;7
+"Schafskopfbrasse frisch";"Fische, Krusten-, Schalen-, Weichtiere";108;2,8;0;NA;20,6;0;75,4;0;1,2;0;10,6
+"Kokosmilch mit Süßstoff";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";10;0,4;1,3;1,3;0,2;0;97,3;0;0,7;0;5,6
+"Mungobohnensprossen frisch";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";24;0,3;1,8;1,8;3,2;5,6;88,5;0;0,4;0,3;0,1
+"Hähnchenbrustfilets gebraten (Zubereitung Gastronomie)";"Menükomponenten";111;0,8;0,3;0,3;25,2;0,5;71,2;0;1,9;0;11,5
+"Kartoffelsalat mit Mayonnaise (Zubereitung Großküche)";"Menükomponenten";101;4,5;12,8;12,8;1,9;2,1;76,8;0;1,4;0,5;4,4
+"Trüffelleberwurst Konserve";"Wurst, Fleischwaren";321;28,6;1,7;1,5;15;0,6;51,4;0;2,5;0,1;8,8
+"Schwein Speck roh geräuchert";"Wurst, Fleischwaren";320;28,9;0;NA;16;0;54,4;0;0,7;0;6,2
+"Macadamianuss geröstet und gesalzen";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";692;75;0;NA;7,1;12,6;1,6;0;3,6;0;0,4
+"Sternpastete";"Wurst, Fleischwaren";261;22;0,3;0,3;15,9;0,1;58,6;0;3;0,1;6,2
+"Saure Sahne 10 % Fett";"Milch, Milcherzeugnisse, Käse";117;10;3,3;3,3;3,1;0;82,2;0;0,7;0,7;0,2
+"Bratwurst grob, Schweinsbratwurst grob";"Wurst, Fleischwaren";313;27,8;0,3;0,3;16,3;0,1;53;0;2,5;0;6,2
+"Brathähnchen Brustfilet mariniert gegrillt";"Fleisch (Wild, Geflügel, Federwild, Innereien)";112;1,9;0,7;0,7;22,7;0,2;72,8;0;1,7;0;12
+"Erbsen grün tiefgefroren";"Gemüse und Gemüseerzeugnisse";86;0,5;12,7;12,7;7,1;5,4;72,9;0;1;0,3;0
+"Rind Hackfleisch gegart";"Fleisch (Rind, Kalb, Schwein, Hammel, Lamm)";223;12,2;0,7;0,7;27,6;0;58,4;0;1,1;0;14,2
+"Mandel süß";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";589;53;5,7;5,7;24;11,4;4,6;0;1,3;0;3,6
+"Cocktailwürstchen Konserve";"Wurst, Fleischwaren";304;27,7;0,2;0,2;14,4;0,1;54,7;0;2,9;0,1;5,9
+"Wirsingkohl gegart";"Gemüse und Gemüseerzeugnisse";22;0,4;1,7;1,7;2,7;2,4;91,7;0;0,9;0,2;0,2
+"Rohkostsalat mit Salatsoße ";"Menükomponenten";50;3,9;2,4;2,4;1,2;2;89;0;1,2;0,2;4,6
+"Joghurt entrahmt";"Milch, Milcherzeugnisse, Käse";38;0,1;4,2;4,2;4,3;0;89,7;0;0,9;0,8;0,1
+"Avocadocreme (Guacamole)";"Menükomponenten";154;15,1;3,3;3,3;1,6;3,2;75,4;0;1,2;0,1;5,4
+"Weizen Kleie gegart";"Cerealien, Getreide und Getreideprodukte, Reis";21;0,5;2,1;2,1;1,9;5,4;89,3;0;0,5;0;1,5
+"Hartes Wasser   (14...21°d)";"Alkoholfreie Getränke";0;0;0;NA;0;0;100;0;0;0;0,2
+"Eierpfannkuchen - Eierkuchen (Zubereitung Haushalt)";"Menükomponenten";211;10,1;21,7;21,7;8,2;1,1;57,9;0;0,9;0,1;5,6
+"Sellerie frisch";"Gemüse und Gemüseerzeugnisse";17;0,2;2,2;NA;1,2;2,5;92,3;0;1,1;0,5;6,2
+"Stuttgarter Leberkäse";"Wurst, Fleischwaren";299;27,5;0,6;0,6;13;0,1;56,2;0;2,5;0;5,9
+"Frühstücksfleisch Konserve";"Wurst, Fleischwaren";289;25,2;0,3;0,3;16;0,1;55,7;0;2,7;0,1;6,1
+"Karotte Gemüsesaft";"Gemüse und Gemüseerzeugnisse";24;0,2;4,8;4,6;0,6;0,3;93,2;0;0,7;0,3;3,8
+"Blattspinat frisch";"Gemüse und Gemüseerzeugnisse";17;0,3;0,6;0,6;2,5;2,6;91,8;0;1,5;0,8;13,2
+"Hüttenkäse";"Milch, Milcherzeugnisse, Käse";102;4,3;2,6;2,6;12,6;0;78,3;0;1,4;0,8;8,4
+"Preßwurst";"Wurst, Fleischwaren";176;11;0,1;0,1;19,1;0;66,9;0;2,8;0;7,6
+"Schweineroulade";"Wurst, Fleischwaren";255;21,7;0,4;0,4;15,1;0;60,3;0;2,4;0;6,5
+"Vollkornbrot-Hafervollkornbrot";"Brot- und Kleingebäck";206;1,6;40,1;40,1;7,1;8,4;40,5;0;2,3;0,1;4,2
+"Gouda";"Milch, Milcherzeugnisse, Käse";364;30,8;0;NA;21,9;0;43,5;0;2,9;1;18,9
+"Tomaten geschält Konserve";"Gemüse und Gemüseerzeugnisse";24;0,3;3,9;3,9;1,2;0,9;92,8;0;0,6;0,3;3,3
+"Geflügelcabanossi";"Wurst, Fleischwaren";184;8,1;0,3;0,3;27,5;0,1;59,6;0;4,3;0;12,5
+"Brathering Konserve, abgetropft";"Fische, Krusten-, Schalen-, Weichtiere";193;10,5;9,9;9,9;14,5;0,9;62;0;1,8;0,4;7,3
+"Schwein Schnitzel (mager) frisch";"Fleisch (Rind, Kalb, Schwein, Hammel, Lamm)";107;1,9;0;NA;22,2;0;74,7;0;1,2;0;10,4
+"Weizen Keimflocken";"Cerealien, Getreide und Getreideprodukte, Reis";314;9,2;30,6;30,6;26,6;17,7;2,2;0;4,2;0;28,8
+"Mirabelle frisch";"Früchte, Obst und Obsterzeugnisse";64;0,2;14;NA;0,7;1,3;82,4;0;0,5;0,9;3,8
+"Gänseleberwurst mit Trüffeln";"Wurst, Fleischwaren";252;17,9;3,1;NA;19,9;0,2;55,7;0;3,1;0,1;13,2
+"Vollkornteigwaren aus Weizen";"Eier und Eierprodukte, Teigwaren";323;2,5;60,6;60,6;13,4;11,5;10,5;0;1,5;0;8,5
+"Orange frisch";"Früchte, Obst und Obsterzeugnisse";47;0,2;9,2;9,2;1;2,2;85,7;0;0,5;1,2;3,3
+"Tofu fest";"Vegetarische Produkte";144;8,7;0,6;0,6;15,8;0,6;72,9;0;1,4;0;0,5
+"Dinkelmehl 1050";"Cerealien, Getreide und Getreideprodukte, Reis";342;1,6;66,3;66,3;12,9;5,5;12,8;0;0,9;0;7,7
+"Kürbiskernöl";"Fette, Öle, Butter, Schmalz";884;100;0;NA;0;0;0;0;0;0;0
+"Hirse gegart";"Cerealien, Getreide und Getreideprodukte, Reis";127;1,3;24,7;24,7;3,8;1,4;68,1;0;0,4;0;3,2
+"Kaki frisch";"Früchte, Obst und Obsterzeugnisse";71;0,3;16;NA;0,6;3;79,1;0;0,7;0,3;2,6
+"Frischkäsezubereitung Magerstufe";"Milch, Milcherzeugnisse, Käse";82;1;4;NA;13,4;0;80;0;0,8;0,8;8,8
+"Vollkornbrötchen-Roggenbrötchen mit Sonnenblumenkernen";"Brot- und Kleingebäck";213;3;38,3;38,3;7,4;9;39,5;0;2,6;0,1;4,3
+"Margarine aus Sonnenblumenöl gehärtet";"Fette, Öle, Butter, Schmalz";709;80;0,4;0,4;0,2;0;19,2;0;0,3;0;0,1
+"Himbeere tiefgefroren";"Früchte, Obst und Obsterzeugnisse";36;0,3;5;NA;1,4;4,9;85,7;0;0,5;2,2;3,4
+"Joghurt vollfett";"Milch, Milcherzeugnisse, Käse";66;3,8;4;NA;3,3;0;87,4;0;0,7;0,8;0
+"Gouda mind. 30% Fett i. Tr.";"Milch, Milcherzeugnisse, Käse";256;16;0;NA;27,4;0;52,7;0;2,9;1;21,6
+"Kochsalami";"Wurst, Fleischwaren";321;29,1;0,2;0,2;15,4;0,1;51,9;0;3,2;0,1;6,5
+"Haselnuss roh";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";636;61,9;5,8;5,8;15,9;7,5;4,2;0;2,4;0;3,1
+"Bier Export Hell";"Alkoholische Getränke";44;0;3,2;3,2;0,5;0;91,9;4,2;0,2;0;0,1
+"Vollkornbrötchen-Weizenvollkornbrötchen mit Weizenkeimen";"Brot- und Kleingebäck";227;2;42,6;42,6;9;7,3;36,1;0;2,6;0;7,1
+"Brötchen-Weizenbrötchen mit Butter";"Brot- und Kleingebäck";263;3,9;49,1;49,1;7,2;3,1;35,1;0;1,5;0;3,5
+"Mettwurst gekocht";"Wurst, Fleischwaren";337;32,5;0,2;0,2;12;0,1;52,8;0;2,4;0;4,8
+"Erdmandelmehl";"Cerealien, Getreide und Getreideprodukte, Reis";451;23;48;NA;4,7;16;6,5;0;1,4;400;13,9
+"Vollkornbrot-Roggen, Weizenvollkornschrotbrot";"Brot- und Kleingebäck";209;1,1;42;NA;7;7,1;40,6;0;2,1;0,1;4,1
+"Paprikaspeckwurst";"Wurst, Fleischwaren";275;23,4;0,9;0,9;15,8;1;55,7;0;3;0,2;5,6
+"Berliner Knacker";"Wurst, Fleischwaren";326;29,3;0,2;0,2;16,4;0;51;0;3,1;0;6,7
+"Salami";"Wurst, Fleischwaren";360;30,8;1,9;1,9;19,7;0,5;42,9;0;4,3;0;7,3
+"Maltodextrin";"Süßwaren, Zucker, Bonbons, Schokolade, Brotaufstrich süß, Eis";360;0;94;NA;0;2;4;0;0;0;1
+"Tomate rot roh";"Gemüse und Gemüseerzeugnisse";17;0,2;2,6;2,6;1;1,3;93,9;0;0,6;0,4;4,1
+"Rind Filetsteak frisch";"Fleisch (Rind, Kalb, Schwein, Hammel, Lamm)";121;4;0;NA;21,2;0;73,6;0;1,2;0;8,6
+"Erdnussöl ";"Fette, Öle, Butter, Schmalz";879;99,4;0,2;0,2;0;0;0,4;0;0;0;0
+"Streichmettwurst";"Wurst, Fleischwaren";370;33,8;0,2;0,2;17,4;0,1;45,2;0;3,3;0;7
+"Graubrot-Weizenmischtoastbrot mit Schrotanteilen";"Brot- und Kleingebäck";251;3,4;46,2;46,2;8,1;4,8;35,2;0;2;0,1;4,1
+"Weißwurst hannoverisch";"Wurst, Fleischwaren";177;9,9;0,5;0,5;21,5;0,2;62,2;0;5,7;0;6,1
+"Rind Brust (Spannrippe) frisch";"Fleisch (Rind, Kalb, Schwein, Hammel, Lamm)";262;21,7;0;NA;17,2;0;60,2;0;0,9;0;9,3
+"Knäckebrot-Roggenbrot mit Milch";"Brot- und Kleingebäck";344;3;67,6;67,6;10,6;8,5;7;0;3,1;0,2;3,7
+"Spaghetti alla carbonara ""Köhlerart"" (Zubereitung Gastronomie)";"Menükomponenten";206;12,5;18,3;18,3;5,1;1,4;61,8;0;0,9;0;3,7
+"Vollkornbrötchen-Weizen, Roggenvollkornbrötchen";"Brot- und Kleingebäck";236;1,5;46,6;46,6;8,2;8,6;32,5;0;2,5;0;5,3
+"Flohsamen";"Cerealien, Getreide und Getreideprodukte, Reis";274;7,7;5,8;5,8;16,3;57,8;9,1;0;3,2;140;2,3
+"Rohwurst, Würstchen, grob gekörnt";"Wurst, Fleischwaren";303;25,2;0,3;0,3;19,6;0,1;50,9;0;4;0;8
+"Traubenkernöl";"Fette, Öle, Butter, Schmalz";879;99,5;0;NA;0;0;0,5;0;0;0;0
+"Gummibonbons und Gummibärchen";"Süßwaren, Zucker, Bonbons, Schokolade, Brotaufstrich süß, Eis";188;0;45;NA;1;0;51,4;0;2,1;0,5;14,5
+"Makrele Konserve abgetropft";"Fische, Krusten-, Schalen-, Weichtiere";179;11,7;0;NA;18,4;0;66,7;0;3,2;0;9,1
+"Erdbeere frisch gegart";"Früchte, Obst und Obsterzeugnisse";34;0,4;5,8;5,7;0,8;2,1;89,2;0;0,5;1,1;2,1
+"Sojabohne geröstet";"Vegetarische Produkte";359;23,3;0,4;0,4;37,1;17;8,4;0;4,5;0,3;9,1
+"Gemüsezwiebel roh";"Gemüse und Gemüseerzeugnisse";28;0,3;4,9;4,9;1,2;1,4;91,5;0;0,5;0,2;2,2
+"Romanosalat frisch";"Gemüse und Gemüseerzeugnisse";16;0,2;1,7;1,7;1,6;1,3;94,1;0;0,9;0,3;4,3
+"Maisbrot";"Brot- und Kleingebäck";236;2,1;46;NA;7,5;3,8;38,4;0;2,2;0;5,6
+"Reis Mehl";"Cerealien, Getreide und Getreideprodukte, Reis";348;0,7;77,6;77,6;6,7;2;12,5;0;0,6;0;3,7
+"Pflaumenmus";"Süßwaren, Zucker, Bonbons, Schokolade, Brotaufstrich süß, Eis";195;0,2;48;NA;0,9;2,5;46,3;0;0,6;1,5;2,7
+"Schwein Speck roh ungeräuchert";"Wurst, Fleischwaren";320;28,9;0;NA;16;0;54,4;0;0,8;0;6,2
+"Früchte-Müsli";"Cerealien, Getreide und Getreideprodukte, Reis";340;6;60,3;NA;9,9;8,5;12,6;0;1,9;0,6;2,6
+"Buttergebäck aus Mürbeteig";"Kuchen, Feinbackwaren, Dauerbackwaren";498;25,6;59,6;59,6;6,2;1,9;5,5;0,7;0,5;0;4,5
+"Schwein Schinken gekocht ungeräuchert";"Wurst, Fleischwaren";113;3,9;1;NA;18,4;0;73,8;0;3;0;9,4
+"Frischkäse aus Ziegenmilch (40% Fett i. Tr.)";"Milch, Milcherzeugnisse, Käse";156;11;3,2;3,2;10,8;0;73,5;0;0,7;0,7;8
+"Leinsamenbrot mit Hefe";"Brot- und Kleingebäck";226;2,2;42,9;42,9;7,9;5,6;39,4;0;1,8;0;4,1
+"Schaf Lende (Filet) (mager) frisch gegart";"Fleisch (Rind, Kalb, Schwein, Hammel, Lamm)";149;4;0;NA;27,9;0;66,9;0;1,1;0;16,4
+"Apfelmus (Zubereitung Großküche)";"Menükomponenten";73;0,3;17,1;16,7;0,2;1,4;80,5;0;0,2;0,4;1,9
+"Leberwurst frisch";"Wurst, Fleischwaren";328;29,4;1,5;1,5;15,2;0,1;51,1;0;2,6;0,1;9,2
+"Hamburger (Zubereitung Gastronomie)";"Menükomponenten";232;10;25;NA;10,4;1,5;51,6;0;1,5;0;4,7
+"Lachs gekocht (Zubereitung Haushalt)";"Menükomponenten";139;6,8;0,2;0,2;19,2;0,2;71,9;0;1,6;0,1;11,1
+"Grünkohl frisch";"Gemüse und Gemüseerzeugnisse";37;0,9;2,5;2,5;4,3;4,2;85,9;0;1,7;0,4;8,5
+"Paranuss geröstet";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";680;69,8;3,2;3,2;12,4;7,4;3,9;0;3,3;0;11,1
+"Hirse Vollkornflocken";"Cerealien, Getreide und Getreideprodukte, Reis";357;3,9;68,8;68,8;10,6;3,9;10,5;0;1,6;0;8,4
+"Wassermelone";"Früchte, Obst und Obsterzeugnisse";38;0,2;8,3;8,3;0,6;0,2;90,2;0;0,4;0,1;-2
+"Wildreis ungekocht";"Cerealien, Getreide und Getreideprodukte, Reis";374;1,1;74,9;74,9;14,7;6,2;1,6;0;1,5;0;9,4
+"Vollkornbrot";"Brot- und Kleingebäck";188;1;37,6;37,6;6,5;8,7;44,1;0;2,1;0,1;3,9
+"Gutsleberwurst";"Wurst, Fleischwaren";323;27,8;1,3;1,3;17,5;0,1;50,4;0;2,7;0,1;9,3
+"Rind Nacken (Kamm) (mittelfett) frisch";"Fleisch (Rind, Kalb, Schwein, Hammel, Lamm)";160;9,3;0;NA;19;0;70,7;0;1;0;9,9
+"Kuhmilch Trinkmilch vollfett";"Milch, Milcherzeugnisse, Käse";64;3,5;4,8;4,8;3,3;0;87,5;0;0,7;0,2;0
+"Reh Fleisch (mager) frisch";"Fleisch (Wild, Geflügel, Federwild, Innereien)";98;1,3;0;NA;21,4;0;76,3;0;1;0;11,6
+"Kalbszunge in Weißweinaspik";"Wurst, Fleischwaren";163;9,5;1,8;1,8;17,4;0;69,8;0;1,3;0,1;9,3
+"Gerste";"Cerealien, Getreide und Getreideprodukte, Reis";320;2,1;64,3;64,3;9,8;9,8;11,5;0;2,2;0;4,7
+"Knäckebrot-Roggenbrot mit Sonnenblumenkernen";"Brot- und Kleingebäck";351;4,6;65,9;65,9;10,5;8,9;7;0;3;0,1;4,1
+"Schinkenröllchen in Aspik";"Wurst, Fleischwaren";109;3,6;1,4;1,4;17,5;0,4;74,3;0;2,6;0;7,4
+"Kürbiskern roh";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";565;46,3;2,7;2,7;35,5;8,7;5,4;0;1,4;0;17
+"Roggen Mehl Type 1150";"Cerealien, Getreide und Getreideprodukte, Reis";318;1,3;67,2;67,2;8,3;8,6;13,6;0;1;0;3,1
+"Hauskaninchen Fleisch (mager) frisch";"Fleisch (Wild, Geflügel, Federwild, Innereien)";109;2,3;0;NA;21,8;0;74,8;0;1,1;0;10,1
+"Tomaten roh";"Gemüse und Gemüseerzeugnisse";17;0,2;2,6;2,6;1;1,3;93,9;0;0,6;0,4;4,1
+"Leberkäse";"Wurst, Fleischwaren";269;22,2;0,4;0,4;17,4;0,1;56,9;0;2,9;0,1;7,9
+"Apfel Fruchtsaft (Ohne Zuckerzusatz)";"Früchte, Obst und Obsterzeugnisse";57;0;13,4;12,4;0,3;0;85,3;0,2;0,3;0,5;1,9
+"Schwein Bauchspeck";"Fleisch (Rind, Kalb, Schwein, Hammel, Lamm)";796;88,7;0;NA;2,9;0;8,3;0;0,1;0;1,5
+"Brathähnchen Leber gegart";"Fleisch (Wild, Geflügel, Federwild, Innereien)";147;4,3;6;NA;20,8;0;67,3;0;1,6;0;15,1
+"Wirsingkohl frisch";"Gemüse und Gemüseerzeugnisse";26;0,4;2,4;2,4;3;2,6;90,4;0;1,1;0,2;2,7
+"Spritzgebäck aus Rührteig";"Kuchen, Feinbackwaren, Dauerbackwaren";531;32,5;53,5;53,5;6,5;3,5;3,4;0;0,5;0;1,9
+"Kartoffelsalat mit Essigmarinade (Zubereitung Haushalt)";"Menükomponenten";80;2,8;11,6;11,6;1,6;1,8;80,4;0;1,1;0,6;-4
+"Cashewnuss frisch";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";568;42,2;30,5;30,5;17,5;2,9;4;0;2,9;0;3,4
+"Polnische Bratwurst";"Wurst, Fleischwaren";303;25,2;0,3;0,3;19,6;0,1;50,9;0;4;0;8
+"Mohn";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";472;42,2;4,2;4,2;20,2;20,5;6,1;0;6,8;0;0,9
+"Pizza salami (Zubereitung Gastronomie)";"Menükomponenten";264;14;26,3;26,3;8,2;1,9;47,9;0;1,5;0,3;3,3
+"Leberpreßsack einfach";"Wurst, Fleischwaren";351;31,4;1;NA;17,2;0,1;47,8;0;2,5;0;9,6
+"Stangenbohnen grün frisch";"Gemüse und Gemüseerzeugnisse";25;0,2;3,2;3,2;2,4;3;88,7;0;0,7;0,2;-4
+"Fenchel gegart";"Gemüse und Gemüseerzeugnisse";20;0,2;3,2;NA;1,5;2,1;92,1;0;0,9;0;5,3
+"Würstchen, Bockwurst, Wiener Würstchen";"Wurst, Fleischwaren";296;26,4;0,3;0,3;15,2;0,1;55,1;0;2,9;0,1;6,4
+"Weißwurst Münchener";"Wurst, Fleischwaren";270;23,8;0,3;0,3;14,5;0,1;58,6;0;2,7;0;6,1
+"Nürnberger Lebkuchen";"Kuchen, Feinbackwaren, Dauerbackwaren";399;13,8;61,6;61,2;6,5;4,2;12,1;0;1,2;0,7;1,8
+"Sahneeiscreme";"Menükomponenten";220;15,6;16,9;16,9;3,4;0;63,5;0;0,6;0,1;1,6
+"Schinkentorte mit Mürbeteig";"Wurst, Fleischwaren";223;13,2;8,2;8,2;18;0,6;55,5;0;4,5;0;7,8
+"Zwiebeln roh";"Gemüse und Gemüseerzeugnisse";28;0,3;4,9;4,9;1,2;1,4;91,5;0;0,5;0,2;2,2
+"Buchweizen Mehl";"Cerealien, Getreide und Getreideprodukte, Reis";346;0,8;78,3;78,3;5,1;2,8;12,3;0;0,8;0;1,8
+"Rind Pökelfleisch roh geräuchert";"Wurst, Fleischwaren";135;7,3;0,9;0,9;16,6;0;68,4;0;6,8;0;8,8
+"Weinsauerkraut";"Gemüse und Gemüseerzeugnisse";17;0,3;0,8;0,8;1,5;3,5;90;0;2,3;1,6;4,7
+"Kasseler gebraten (zubereitet ohne Fett)";"Wurst, Fleischwaren";115;2,2;0;NA;23,5;0;70,8;0;3,5;0;12,7
+"Camembert";"Milch, Milcherzeugnisse, Käse";288;22,8;0;NA;21;0;52;0;3,9;0,3;13,1
+"Obstkuchen mit Steinobst";"Kuchen, Feinbackwaren, Dauerbackwaren";279;16,8;28,5;28,1;3,5;1,8;48,7;0;0,5;0,2;0,3
+"Teewurst Rügenwälder Art";"Wurst, Fleischwaren";295;24,9;0,4;0,4;18;0;53,4;0;3,2;0;7,4
+"Dinkelflocken";"Cerealien, Getreide und Getreideprodukte, Reis";388;2,1;77;NA;11;8,4;0,3;0;1,1;0;6,3
+"Weizen Mehl Type 1050";"Cerealien, Getreide und Getreideprodukte, Reis";337;1,8;67,2;67,2;12,1;5,2;12,8;0;0,9;0;7,8
+"Bierwurst 1a Konserve";"Wurst, Fleischwaren";252;22,2;0,2;0,2;13,3;0,1;61,4;0;2,7;0,1;5,7
+"Roggen, Weizen-Mischbrot mit Hefe";"Brot- und Kleingebäck";210;0,8;44,3;44,3;5,7;4,7;42,7;0;1,6;0,1;2,8
+"Hühnerbrüstchen in Spargelsoße (Zubereitung Großküche)";"Menükomponenten";79;1,5;2,3;2,3;13,7;0,3;80,9;0;1,2;0,1;6,3
+"Gemüsepaprika rot frisch";"Gemüse und Gemüseerzeugnisse";37;0,5;6,4;6,4;1,3;3,6;87,3;0;0,6;0,3;4,2
+"Cheeseburger (Zubereitung Gastronomie)";"Menükomponenten";226;11,6;19,2;19,2;11,1;1,1;54,8;0;1,9;0,2;7,4
+"Brötchen-Weizenbrötchen mit Sesam";"Brot- und Kleingebäck";263;3,7;48,7;48,7;7,9;3,5;34,3;0;1,7;0;3,6
+"Geflügelmortadella";"Wurst, Fleischwaren";236;19,1;4;NA;12,6;0,1;62,7;0;1,4;0,1;7,9
+"Schwein Schinkenspeck roh geräuchert";"Wurst, Fleischwaren";152;7,7;0;NA;20,7;0;70,6;0;1;0;9,5
+"Süßkirsche roh";"Früchte, Obst und Obsterzeugnisse";60;0,3;13,3;11,4;0,9;1,9;82,2;0;0,5;1;4,2
+"Gekochte Eier (Zubereitung Gastronomie)";"Menükomponenten";154;11,2;0,7;0,7;12,9;0;74,1;0;1,1;0;10,9
+"Westfälischer Panhas";"Wurst, Fleischwaren";303;20;20,4;20,4;10,7;0,9;45,4;0;2,6;0;2,4
+"Hühnerei Eigelb frisch";"Eier und Eierprodukte, Teigwaren";348;31,9;0,3;0,3;16,1;0;50;0;1,7;0;24,6
+"Mandarine frisch";"Früchte, Obst und Obsterzeugnisse";50;0,3;10,1;10,1;0,7;1,7;85,3;0;0,7;1,2;-4
+"Thunfisch Konserve";"Fische, Krusten-, Schalen-, Weichtiere";174;11,8;0;NA;17,3;0;68;0;3;0;7,2
+"Gänseleberrolle                      ";"Wurst, Fleischwaren";240;19,8;0,6;0,6;15,3;0,1;55,7;0;8,4;0;5,6
+"Karotte gegart";"Gemüse und Gemüseerzeugnisse";33;0,2;6,8;6,6;0,8;3,1;88,1;0;0,8;0,2;4,8
+"Streuselkuchen aus Hefeteig fettreich";"Kuchen, Feinbackwaren, Dauerbackwaren";376;14,9;54,4;54,4;5,9;2,2;22,2;0;0,4;0,1;2,5
+"Bierwurst bayrisch";"Wurst, Fleischwaren";299;27;0,2;0,2;14,7;0;55,4;0;2,6;0,1;6,2
+"Johannisbeere rot tiefgefroren";"Früchte, Obst und Obsterzeugnisse";45;0,2;7,6;7,6;1,1;7,7;80,2;0;0,6;2,5;4,3
+"Kräuterleberwurst";"Wurst, Fleischwaren";341;31,7;1,3;1,3;13,8;0,2;50,4;0;2,6;0;7,8
+"Tomaten gegart";"Gemüse und Gemüseerzeugnisse";20;0,2;3,1;3,1;1,1;1,5;93;0;0,6;0,4;3,7
+"Fleischkäse einfach";"Wurst, Fleischwaren";316;27,5;0,3;0,3;17,6;0,1;51;0;3,3;0,1;7,4
+"Mango frisch";"Früchte, Obst und Obsterzeugnisse";60;0,5;12,8;12,8;0,6;1,7;83,4;0;0,5;0,6;3,8
+"Himbeere";"Früchte, Obst und Obsterzeugnisse";34;0,3;4,8;4,8;1,3;4,7;86,3;0;0,5;2,1;3,2
+"Schweineschnitzel paniert, gebraten (Zubereitung Haushalt)";"Menükomponenten";238;10,5;14,3;14,3;21,4;1;51,1;0;1,7;0;11,7
+"Fenchel Knolle roh";"Gemüse und Gemüseerzeugnisse";19;0,2;3;2,9;1,4;2;92,4;0;1;0;6,5
+"Frischkäsezubereitung Rahmstufe";"Milch, Milcherzeugnisse, Käse";284;24;3,4;3,4;13,7;0;56,4;0;1,6;0,9;8,8
+"Leberrotwurst";"Wurst, Fleischwaren";219;16,7;0,9;0,9;16,6;0,2;62,7;0;2,9;0;7,5
+"Schweinebauch gefüllt Fleischerzeugnis";"Wurst, Fleischwaren";317;27,3;1;NA;17,5;0,3;52,9;0;0,9;0,1;5,9
+"Bohnen weiß reif Konserve gegart abgetropft";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";60;0,4;9,1;9,1;4,9;4;79,2;0;1,2;0;0,6
+"Brötchen mit Mohn";"Brot- und Kleingebäck";259;3,3;48,4;48,4;8;4;34,3;0;1,8;0;3,5
+"Pistazie frisch";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";574;51,6;11,6;11,6;17,6;10,6;5,9;0;2,7;0;0,2
+"Knäckebrote leicht & cross";"Brot- und Kleingebäck";345;1,3;70,8;70,8;11,2;6,6;7;0;2,6;0,1;5,8
+"Erdnuss geröstet und gesalzen";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";603;51,9;9,1;9,1;26,4;7,4;1,5;0;3,6;0;4,2
+"Forelle geräuchert";"Fische, Krusten-, Schalen-, Weichtiere";120;3,6;0;NA;21,8;0;73,4;0;1,3;0;11,1
+"Cashewmus pur";"Vegetarische Produkte";617;49,4;26,8;26,8;17,6;0,8;3;0;2,5;0;6,8
+"Schweineschnitzel paniert, gebraten (Zubereitung Gastronomie)";"Menükomponenten";221;8,9;16,3;16,3;18,2;1,2;53,2;0;1,5;0,7;9,4
+"Schinkensalami";"Wurst, Fleischwaren";348;29,8;0,2;0,2;20,6;0;45;0;4,3;0;8,2
+"Schinkenkrakauer Konserve";"Wurst, Fleischwaren";299;26,5;0,3;0,3;15,6;0,1;54,5;0;2,9;0,1;6,5
+"Bleichsellerie frisch";"Gemüse und Gemüseerzeugnisse";17;0,2;2,2;NA;1,2;2,5;92,3;0;1,1;0,5;6,2
+"Sekt";"Alkoholische Getränke";79;0;3,5;3,5;0,2;0;86,5;8,9;0,2;0,7;0,9
+"Gepuffte Getreide";"Cerealien, Getreide und Getreideprodukte, Reis";359;1,3;71,4;71,4;14,2;8,8;2,5;0;1,8;0;7,7
+"Quitte frisch";"Früchte, Obst und Obsterzeugnisse";39;0,5;7,3;7,3;0,4;5,8;84,7;0;0,4;0,9;3,6
+"Baguette-Brötchen";"Brot- und Kleingebäck";248;1,4;50,7;50,7;7,4;3,2;35,8;0;1,5;0;3,7
+"Weizen Keim";"Cerealien, Getreide und Getreideprodukte, Reis";314;9,2;30,6;30,6;26,6;17,7;2,2;0;4,2;0;28,8
+"Rind Gulasch (mager) frisch";"Fleisch (Rind, Kalb, Schwein, Hammel, Lamm)";129;5,3;0;NA;20,2;0;73,5;0;1;0;10,8
+"Schweinefleisch in Aspik";"Wurst, Fleischwaren";153;9,4;1;NA;16,1;0;67,7;0;5,8;0;6,6
+"Knoblauch roh";"Gemüse und Gemüseerzeugnisse";142;0,1;28,4;28,4;6,1;1,8;62;0;1,4;0,2;4,6
+"Kichererbsen reif gegart";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";119;1,6;16,8;16,8;9;9,9;60,4;0;0,9;0,2;2,5
+"Bierwurst";"Wurst, Fleischwaren";252;22,2;0,2;0,2;13,3;0,1;61,4;0;2,7;0,1;5,7
+"Hühnerei frisch gegart";"Eier und Eierprodukte, Teigwaren";149;10,8;0,7;0,7;12,4;0;75,2;0;0,9;0;10,8
+"Rind Herz gegart";"Fleisch (Wild, Geflügel, Federwild, Innereien)";102;2,4;0,7;0,7;19,2;0;76,5;0;1,1;0;10,5
+"Bratwurst Grundbrät";"Wurst, Fleischwaren";272;25,1;0,3;0,3;12,2;0;59,8;0;2,6;0;4,9
+"Batate (Süßkartoffel)";"Kartoffeln und Kartoffelerzeugnisse, stärkereiche Pflanzenteile, Pilze";111;0,6;24,1;24,1;1,6;3,1;68,9;0;1,1;0,5;6,1
+"Fleischbrühe klar (Zubereitung Haushalt)";"Menükomponenten";49;2,6;0,8;0,8;5,5;0,6;89,5;0;0,9;0,1;1,6
+"Gerste Flocken";"Cerealien, Getreide und Getreideprodukte, Reis";314;1,5;66,1;66,1;7,9;10,3;13;0;1,2;0;5,6
+"Schmierwurst (fette Mettwurst)";"Wurst, Fleischwaren";382;36,9;0,2;0,2;13,5;0,1;46,3;0;2,9;0;5,3
+"Cornflakes";"Cerealien, Getreide und Getreideprodukte, Reis";355;0,6;79,1;79,1;7,2;4;5,7;0;3,5;0;2,6
+"Bohnen grün Konserve";"Gemüse und Gemüseerzeugnisse";16;0,2;2;NA;1,6;2;92,2;0;1;0,1;2,2
+"Geflügelbockwurst erwärmt";"Wurst, Fleischwaren";146;5,7;0,4;0,4;23,2;0,1;67,2;0;3,4;0;11,2
+"Hartkäse";"Milch, Milcherzeugnisse, Käse";294;18,2;0;NA;31,9;0;43,5;0;5,1;1,3;23,3
+"Vollkornbrötchen-Roggenvollkornmischbrötchen";"Brot- und Kleingebäck";233;1,4;46,4;46,4;7,9;9,2;32,5;0;2,5;0,1;4,9
+"Zuckermais (Gemüsemais) gegart";"Gemüse und Gemüseerzeugnisse";89;1,2;15,7;15,6;3,3;2,9;75,4;0;0,7;0,6;0,8
+"Rotkohl frisch";"Gemüse und Gemüseerzeugnisse";23;0,2;3,5;3,5;1,5;2,5;91,4;0;0,7;0,2;4,7
+"Sauerkraut Saft";"Gemüse und Gemüseerzeugnisse";15;0,2;0,6;0,6;1,3;0,4;92,9;0;2,9;1,7;4,4
+"Knoblauchwurst";"Wurst, Fleischwaren";332;30,8;0,2;0,2;14,6;0;50,9;0;3,5;0;6
+"Kokosnussmilch 60% Kokosanteil";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";185;19;2;NA;1,6;0;76,4;0;1;0;7,1
+"Rind Keule (mittelfett) frisch";"Fleisch (Rind, Kalb, Schwein, Hammel, Lamm)";148;7,6;0;NA;20;0;71,4;0;1,1;0;8,7
+"Wiener";"Wurst, Fleischwaren";304;27,7;0,2;0,2;14,4;0,1;54,7;0;2,9;0,1;5,9
+"Limette frisch";"Früchte, Obst und Obsterzeugnisse";47;2,4;1,9;1,9;0,5;1;89;0;0,2;5;1,6
+"Pommes frites (verzehrsfertig ungesalzen)";"Kartoffeln und Kartoffelerzeugnisse, stärkereiche Pflanzenteile, Pilze";292;14,5;35,7;35,7;4,2;1,5;41,4;0;2;0,7;14,9
+"Pferd Fleisch gegart";"Fleisch (Wild, Geflügel, Federwild, Innereien)";154;3,5;0,6;0,6;29,8;0;65,3;0;0,9;0;13,8
+"Leberpastete";"Wurst, Fleischwaren";299;25,1;1,1;1,1;17,9;0,1;52,7;0;3,1;0;10,1
+"Göttinger Blasenwurst, Krakauer";"Wurst, Fleischwaren";299;26,5;0,3;0,3;15,6;0,1;54,5;0;2,9;0,1;6,5
+"Brötchen mit Sesam";"Brot- und Kleingebäck";263;3,7;48,7;48,7;7,9;3,5;34,3;0;1,7;0;3,6
+"Bockwurst";"Wurst, Fleischwaren";296;26,4;0,3;0,3;15,2;0,1;55,1;0;2,9;0,1;6,4
+"Brühwurst mit Fleischeinlage (umgerötet)";"Wurst, Fleischwaren";180;11,9;0,1;0,1;18,3;0;67;0;2,6;0,1;7,1
+"Kalbfleischsülze Konserve";"Wurst, Fleischwaren";109;3,2;0,2;0,2;19,7;0;74,7;0;2,1;0;8,3
+"Krakauer Schinkenwurst";"Wurst, Fleischwaren";210;12,9;0,2;0,2;23,4;0;60,1;0;3,2;0,1;9,3
+"Lammfleisch-Salami";"Wurst, Fleischwaren";349;30,2;0,2;0,2;19,9;0,1;45,2;0;4,4;0;10
+"Semmelknödel (Zubereitung Haushalt)";"Menükomponenten";169;6,5;20,9;20,9;6,5;1,3;63,7;0;1,1;0,1;3,3
+"Bitterschokolade";"Süßwaren, Zucker, Bonbons, Schokolade, Brotaufstrich süß, Eis";394;18,5;45,9;45,9;10,9;18;2,9;0;3,6;0,3;10,3
+"Markenbutter";"Fette, Öle, Butter, Schmalz";741;83,2;0,6;0,6;0,7;0;15,3;0;0,1;0,1;0,5
+"Nektarine frisch";"Früchte, Obst und Obsterzeugnisse";57;0,1;12,4;12,3;0,9;2,2;83,3;0;0,5;0,7;3,5
+"Rotwein schwer";"Alkoholische Getränke";78;0;2,5;2,5;0,2;0;87;9,5;0,3;0,5;1,1
+"Sauerkirsche tiefgefroren";"Früchte, Obst und Obsterzeugnisse";54;0,5;10,3;9,4;0,9;1,1;84,7;0;0,5;1,9;1,6
+"Schinkenwurst grob, Lyoner grob";"Wurst, Fleischwaren";293;25,2;0,2;0,2;17;0,1;54,4;0;2,9;0,1;6,7
+"Kalbsbries-Galantine                    ";"Wurst, Fleischwaren";154;8,1;0;NA;20,3;0;69,6;0;2;0;20,5
+"Frischkäsezubereitung Doppelrahmstufe";"Milch, Milcherzeugnisse, Käse";339;32;2,5;2,5;10,9;0;52,6;0;1,4;0,6;7,7
+"Kürbis frisch";"Gemüse und Gemüseerzeugnisse";27;0,2;4,6;4,5;1,4;0,8;92,1;0;0,7;0,3;-6
+"Zwiebeln geröstet (Zubereitung Gastronomie)";"Menükomponenten";96;5,1;10,2;10,2;2,2;2,5;78,6;0;1,1;0,2;2,1
+"Gemüsemischung tiefgefroren";"Gemüse und Gemüseerzeugnisse";37;0,3;5,6;5,5;2,8;3,8;86,5;0;0,8;0,3;3,1
+"Herzwurst Konserve";"Wurst, Fleischwaren";281;23,5;0,7;0,7;17,4;0,2;54,6;0;3,7;0;7,5
+"Pollack tiefgefroren";"Fische, Krusten-, Schalen-, Weichtiere";75;0,8;0;NA;16,7;0;81,1;0;1,4;0;11,6
+"Teewurst";"Wurst, Fleischwaren";367;34,8;0,2;0,2;14,4;0,1;47,6;0;2,9;0;5,8
+"Leberwurst 1a Konserve";"Wurst, Fleischwaren";328;29,4;1,5;1,5;15,2;0,1;51,1;0;2,6;0,1;9,2
+"Hühnerei Eiweiß frisch";"Eier und Eierprodukte, Teigwaren";50;0,2;0,7;0,7;11,1;0;87,2;0;0,8;0;2,5
+"Kopfsalat frisch";"Gemüse und Gemüseerzeugnisse";12;0,2;1,1;1,1;1,3;1,6;95;0;0,7;0,1;3,6
+"Tempeh";"Vegetarische Produkte";152;7,7;1,8;1,8;19;6,5;62,8;0;1,4;0;5,1
+"Creme, Schmand 30 % Fett";"Milch, Milcherzeugnisse, Käse";288;30;2,4;2,4;2,5;0;63,8;0;0,5;0,8;0,1
+"Spaghetti mit Tomatensoße ""neapolitanische Art"" (Zubereitung Gastronomie)";"Menükomponenten";124;3,8;17;NA;5,2;1,6;71,3;0;1;0,1;2,4
+"Kartoffeln gegart";"Kartoffeln und Kartoffelerzeugnisse, stärkereiche Pflanzenteile, Pilze";70;0;15;NA;1,9;1,2;80,4;0;0,9;0,6;5,7
+"Zunge roh ungeräuchert";"Wurst, Fleischwaren";265;22,3;0,7;0,7;15,9;0,2;57,5;0;3,4;0;6,8
+"Frühlingspastete";"Wurst, Fleischwaren";257;21,7;0,8;0,8;14,9;0,9;58,3;0;3,1;0,3;4,9
+"Weizenbier (Weißbier) obergärig";"Alkoholische Getränke";43;0;3;NA;0,3;0;92,3;4,2;0,1;0;0,1
+"Topinambur frisch";"Kartoffeln und Kartoffelerzeugnisse, stärkereiche Pflanzenteile, Pilze";31;0,4;4;NA;2,4;12,5;78,5;0;1,7;0,4;6,6
+"Frankfurter Würstchen Schinkenwürste";"Wurst, Fleischwaren";276;24,5;0,2;0,2;14,5;0,1;57,8;0;2,8;0,1;5,7
+"Kalbsroulade mit Lachsschinken";"Wurst, Fleischwaren";192;11,9;1,1;1,1;20,2;0,1;59,2;0;7,5;0;9,4
+"Dampfbrötchen mit Hefe";"Brot- und Kleingebäck";248;1,4;50,7;50,7;7,4;3,2;35,8;0;1,5;0;3,7
+"Blumenkohl roh";"Gemüse und Gemüseerzeugnisse";23;0,3;2,3;2,3;2,5;2,9;91;0;0,8;0,2;3,6
+"Mayonnaise 80% Fett";"Fette, Öle, Butter, Schmalz";743;82,5;2;NA;1,5;0;11,9;0;2,1;0;1,5
+"Rind Steak mager (mager)";"Fleisch (Rind, Kalb, Schwein, Hammel, Lamm)";130;4,5;0;NA;22,5;0;72,1;0;1,1;0;8,7
+"Tzatziki (Zubereitung Gastronomie)";"Menükomponenten";48;2,8;3;NA;2,2;0,2;79,4;0;1,1;0,6;0,9
+"Papaya roh";"Früchte, Obst und Obsterzeugnisse";32;0,1;7,1;7,1;0,5;1,9;89,8;0;0,6;0,1;4,5
+"Mettwurst einfach streichfähig";"Wurst, Fleischwaren";413;40,5;0,3;0,3;13,5;0,1;42,2;0;3,4;0;6
+"Teigwaren (allgemein) Spaghetti";"Eier und Eierprodukte, Teigwaren";352;2,8;68,3;68,3;12,3;5;10,7;0;0,9;0;7,6
+"Pökelwaren Rippchen, Schälrippchen";"Wurst, Fleischwaren";147;8,3;0,9;0,9;17,4;0;66,6;0;6,9;0;6,3
+"Kalbsbrust in Aspik";"Wurst, Fleischwaren";165;10,8;0,2;0,2;16,9;0;70,6;0;1,4;0,1;6,9
+"Vollkornbrot mit Sesam";"Brot- und Kleingebäck";203;3;36,4;36,4;6,9;8,8;42,5;0;2,3;0,1;3,9
+"Peperonisalat mit Olivenöl und Knoblauch (Zubereitung Gastronomie)";"Menükomponenten";105;9,8;3;NA;1,1;2,9;81,7;0;0,9;0,6;2,3
+"Kokosöl";"Fette, Öle, Butter, Schmalz";878;99;0;NA;0,8;0;0,1;0;0,1;0;0,4
+"Tee schwarz fermentiert (Getränk)";"Alkoholfreie Getränke";0;0;0;NA;0,1;0;99,8;0;0,1;0;0,5
+"Karotte roh";"Gemüse und Gemüseerzeugnisse";33;0,2;6,8;6,6;0,8;3,1;88;0;0,9;0,3;6,3
+"Frühstücks Porridge (Zubereitung Haushalt)";"Menükomponenten";99,4;4,5;11,5;11,5;2,4;1,8;79,3;0;0,5;0;1
+"Brathähnchen Fleisch mit Haut gegart";"Fleisch (Wild, Geflügel, Federwild, Innereien)";188;9,4;0;NA;25,9;0;63,3;0;1,4;0;14
+"Paprikaschoten frisch gegart";"Gemüse und Gemüseerzeugnisse";20;0,3;2,9;2,9;1,2;3,7;91,1;0;0,5;0,4;1,9
+"Brombeere tiefgefroren";"Früchte, Obst und Obsterzeugnisse";31;1;2,8;2,8;1,3;6,9;85,7;0;0,5;1,8;3,8
+"Heringsfilet Matjesart";"Fische, Krusten-, Schalen-, Weichtiere";209;15,5;0;NA;17,8;0;56,9;0;9,7;0;8,8
+"Mettwurst schnittfest";"Wurst, Fleischwaren";367;34,8;0,2;0,2;14,6;0;46,9;0;3,5;0;6
+"Fleischwurst einfach, Stadtwurst einfach";"Wurst, Fleischwaren";326;30,1;0,2;0,2;14,4;0,1;52,1;0;3;0,1;5,9
+"Gefüllter Schinken";"Wurst, Fleischwaren";200;10,8;0,2;0,2;25,5;0;59,9;0;3,4;0,1;10
+"Rinderbrust in Weißweinaspik";"Wurst, Fleischwaren";146;6,6;0,2;0,2;21,3;0;70,4;0;1,4;0,1;7,6
+"Schmelzkäse";"Milch, Milcherzeugnisse, Käse";327;30,4;0,9;0,9;13,2;0;50,9;0;4,1;0,5;24,4
+"Sauerkirsche Konfitüre";"Früchte, Obst und Obsterzeugnisse";251;0,1;60,8;60,4;0,5;0,5;37,2;0;0,3;0,7;1,5
+"Schinkenbrät-Terrine";"Wurst, Fleischwaren";265;22;1,9;1,9;15,5;0,4;58,5;0;1,6;0,2;5,8
+"Würstchen Konserve";"Wurst, Fleischwaren";276;24,5;0,2;0,2;14,5;0,1;57,8;0;2,8;0,1;5,7
+"Kohlrabi gedünstet (Zubereitung Haushalt)";"Menükomponenten";49;3;4;NA;1,6;1,2;89;0;1,2;0,1;5,1
+"Würziger Nudelsalat (Zubereitung Haushalt)";"Menükomponenten";118;7,4;10,4;10,4;2,3;1,7;77;0;0,9;0,3;0,4
+"Geflügelbratwurst gebraten (zubereitet ohne Fett)";"Wurst, Fleischwaren";122;2,9;0,4;0,4;23,4;0,1;69,5;0;3,7;0,1;11,3
+"Seidentofu";"Vegetarische Produkte";52;3,2;0,4;0,4;5,5;0,4;89,9;0;0,6;0;1,3
+"Wodka";"Alkoholische Getränke";231;0;0;NA;0;0;66,6;33,4;0;0;0,2
+"Kürbiskern";"Hülsenfrüchte (reif), Schalenobst, Öl- und andere Samen";565;46,3;2,7;2,7;35,5;8,7;5,4;0;1,4;0;17
+"Weintraube rot Fruchtsaft";"Früchte, Obst und Obsterzeugnisse";70;0,2;15,6;15,4;0,6;0;82,3;0;0,5;0,8;2,8
+"Geflügelknackwurst erwärmt";"Wurst, Fleischwaren";130;5;0,5;0,5;20,4;0,2;70,8;0;3;0,1;9,7
+"Mais Stärke";"Cerealien, Getreide und Getreideprodukte, Reis";351;0,1;85,8;85,8;0,4;1;12,6;0;0,1;0;1,1
+"Schwein Leber roh";"Fleisch (Wild, Geflügel, Federwild, Innereien)";130;4,5;0,9;0,9;21,2;0;71,9;0;1,5;0;17,8
+"Weißbrot mit Rosinen";"Brot- und Kleingebäck";241;1,2;49,6;49,6;6,7;3,2;37,4;0;1,5;0,4;2,2
+"Rinderfilet (Zubereitung Haushalt)";"Menükomponenten";159;4,3;0;NA;29,7;0;63,8;0;2,2;0;14,4
+"Lachs pazifisch geräuchert";"Fische, Krusten-, Schalen-, Weichtiere";183;11;0;NA;21,1;0;66,5;0;1,4;0;11,8
+"Zucchini frisch gegart";"Gemüse und Gemüseerzeugnisse";19;0,4;2,1;NA;1,6;1,1;93,9;0;0,6;0,3;2,9
+"Wurzelpetersilie frisch gegart";"Gemüse und Gemüseerzeugnisse";31;0,5;4;3,4;2,8;4,3;86,5;0;1,4;0,2;1,6
