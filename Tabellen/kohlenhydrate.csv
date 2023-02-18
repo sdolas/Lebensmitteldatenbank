@@ -1,5 +1,4 @@
 "name";"Mannit";"Sorbit";"Xylit";"Summe Zuckeralkohole";"Glucose (Traubenzucker)";"Fructose (Fruchtzucker)";"Galactose (Schleimzucker)";"Monosaccharide (1 M)";"Saccharose (Rübenzucker)";"Maltose (Malzzucker)";"Lactose (Milchzucker)";"Disaccharide (2 M)";"Oligosaccharide, resorbierbar (3-9 M)";"Oligosaccharide, nicht resorbierbar";"Glykogen (tierische Stärke)";"Stärke";"Polysaccharide (> 9 M)"
-"Hühnerei Vollei frisch";0;0;0;0;700;0;0;700;0;0;0;0;0;0;0;0;0
 "Gnocchi gekocht";454;155;0;315;0;0;78;0;470;10;68;30896;376;0;30896;0;0
 "Kopfsalat mit Essigmarinade (Zubereitung Haushalt)";354;415;0;343;0;0;0;0;758;0;0;16;354;0;16;0;0
 "Salami Kroatische Art";12;106;0;127;0;0;0;0;236;0;0;12;12;0;12;0;0
@@ -15,6 +14,7 @@
 "Walnüsse geröstet";6268;0;0;0;0;0;0;0;0;0;0;3376;6268;0;3376;0;0
 "Gouda mind. 45% Fett i. Tr.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 "Haferflockenbrei (Zubereitung Haushalt)";9741;0;0;61;0;3608;6;0;61;2;59;5780;6127;0;5780;0;0
+"Dresdner Stollen aus Hefeteig fettreich";9789;6010;0;5928;0;557;0;0;11938;19;100;24856;9232;0;24856;0;0
 "Kefir entrahmt";4158;0;0;0;0;4158;0;0;0;0;0;0;0;0;0;0;0
 "Lachsschinkenpastete";434;0;0;0;0;0;0;0;0;0;0;108;434;0;108;0;0
 "Mais-Fladenbrot";820;45;0;45;0;0;0;0;90;0;182;44441;820;0;44441;0;0
@@ -39,6 +39,7 @@
 "Zucchini gedünstet mit Knoblauch (Zubereitung Haushalt)";496;956;0;885;0;12;0;10;1842;0;93;339;484;0;339;17;7
 "Eier gekocht, gesalzen (Zubereitung Haushalt)";0;0;0;698;0;0;0;0;698;0;0;0;0;0;0;0;0
 "Rind Leber roh";0;0;0;0;5300;0;0;0;0;0;0;5300;0;0;0;0;0
+"Quark mit Früchten Magerstufe- Magerquark";14374;1621;0;933;0;2271;0;0;2554;4;0;345;12103;204;345;204;0
 "Krabbe klein (Shrimps) gegart";0;0;0;0;775;0;0;0;0;0;0;775;0;0;0;0;0
 "Wildreis gekocht";27;27;0;27;0;0;0;0;54;0;0;26806;27;0;26806;0;0
 "Sülzwurst hervorhebend";131;84;0;102;49;0;0;0;186;0;0;60;131;0;11;0;0
@@ -99,6 +100,7 @@
 "Schweinefilet im Netz                   ";531;132;0;207;0;396;0;0;339;0;0;210;135;0;210;0;0
 "Geflügelwiener Würstchen";48;182;0;204;0;0;0;0;386;0;0;14;48;0;14;0;0
 "Spekulatius aus Mürbeteig";24042;243;0;334;0;136;0;0;577;32;129;32064;23906;0;32064;0;0
+"Geflügelgalantinen                     ";26;122;0;162;653;0;0;220;284;0;0;665;26;0;12;220;0
 "Mosaik-, Schachbrettpastete und andere";17;104;0;124;5;0;0;0;228;0;0;16;17;0;11;0;0
 "Kresse frisch";0;620;0;1488;0;0;0;0;2108;0;0;372;0;0;372;0;0
 "Banane frisch";11016;3636;0;3786;0;0;0;0;7422;0;0;2952;11016;0;2952;0;0
@@ -136,6 +138,7 @@
 "Marmelade";64991;2148;0;762;0;0;0;0;2910;25;0;222;64991;192;222;192;0
 "Griechischer Joghurt";3032,4;4071,9;3,5;3983,2;0;1821,2;0;0;8058,6;0;634,6;0;1200;0;1730,8;0;0
 "Rind Pökelfleisch gekocht ungeräuchert";851;0;0;0;0;0;0;0;0;0;0;0;851;0;0;0;0
+"Rote Rübe Konserve abgetropft";6073;264;0;264;0;0;0;0;528;0;0;0;6073;0;0;0;0
 "Schwein Nacken (Kamm) (fett) frisch gegart";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 "Hirsch Fleisch (mager) frisch";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 "Geflügelleberwurst";127;117;0;136;2460;0;0;0;253;0;26;2467;127;0;7;0;0
@@ -272,7 +275,6 @@
 "Eisbergsalat frisch";298;628;0;628;0;0;0;0;1256;0;0;16;298;0;16;0;0
 "Geflügelsalami fettarm";88;91;0;119;0;0;0;0;210;0;0;99;88;0;99;0;0
 "Gesülzter Hackbraten";6;222;0;150;280;0;0;1;376;0;0;281;6;0;1;1;0
-"Pizza margherita (Zubereitung Gastronomie)";192;181;0;163;0;0;0;0;344;31;175;43233;192;0;43233;0;0
 "Graubrot-Weizenmischbrot mit Sauermilch";1838;211;0;291;0;390;971;0;502;181;169;42721;477;0;42721;0;0
 "Preiselbeere Konfitüre";63089;1232;0;1274;0;0;0;0;2506;25;0;52;63089;0;52;0;0
 "Tomatensuppe (Zubereitung Haushalt)";53;410;0;354;0;10;0;0;764;1;12;1890;43;0;1890;0;0
@@ -321,6 +323,7 @@
 "Sojabohnen reif frisch gegart";168;0;0;0;0;0;0;0;0;4250;0;2;168;0;2;0;0
 "Schokoladenpudding mit Vanillesoße (Zubereitung Großküche)";15926;0;0;0;0;3889;0;0;0;5;0;5673;12037;0;5673;0;0
 "Kaffee mit Milch und Zucker (Getränk)";2053;2;0;2;0;151;0;0;6;1;0;271;1902;0;0;0;0
+"Erythrit";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1e+05;0
 "Maultaschen ""schwäbisch"" (Zubereitung Haushalt)";164;86;0;228;50;0;0;0;314;10;80;14914;164;0;14864;0;0
 "Teigwaren aus Hartgrieß";282;70;0;70;0;0;0;0;140;0;282;69746;282;0;69746;0;0
 "Leberwurst fein";72;208;0;245;867;0;0;0;453;0;61;874;72;0;7;0;0
@@ -440,6 +443,7 @@
 "Hühnerei Vollei frisch";0;0;0;700;0;0;0;0;700;0;0;0;0;0;0;0;0
 "Cabanossi (Brühwurst)";15;113;0;131;60;0;0;0;244;0;0;72;15;0;12;0;0
 "Gemüsepaprika rot";64;3744;256;2336;0;0;0;0;6336;0;0;0;64;0;0;0;0
+"Gewürfelte Zungenwurst Konserve";612;0;0;0;307;0;0;0;0;0;0;307;612;0;0;0;0
 "Lasagne al forno (Zubereitung Gastronomie)";885;113;0;157;298;715;0;2;270;4;56;6387;170;0;6089;2;0
 "Straßburger Gänseleberwurst";108;111;0;139;2698;0;0;0;250;0;26;2705;108;0;7;0;0
 "Joghurt teilentrahmt";3034;0;1025;41;0;3034;0;0;1066;0;0;0;0;0;0;0;0
@@ -471,7 +475,6 @@
 "Blattspinat gegart";191;95;0;119;0;0;0;0;214;0;0;72;191;0;72;0;0
 "Erdbeere frisch";985;2281;0;2156;0;0;0;0;4454;0;0;0;985;33;0;61;28
 "Tilsiter";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-"Wiener Schnitzel (Zubereitung Großküche)";1491;53;0;85;0;856;0;0;138;4;26;15640;635;0;15640;0;0
 "Graupenblutwurst";482;142;0;168;179;0;159;0;310;0;105;15544;323;0;15365;0;0
 "Schupfnudeln (Zubereitung Haushalt)";249;107;0;266;0;0;0;0;373;8;48;20939;249;0;20939;0;0
 "Kasseler Rippenspeer roh geräuchert";889;0;0;0;0;0;0;0;0;0;0;0;889;0;0;0;0
@@ -541,12 +544,6 @@
 "Sprotte frisch";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 "Buchweizen Vollkorn";284;71;0;71;0;0;0;0;142;0;0;70574;284;0;70574;0;0
 "Rührei (Zubereitung Haushalt)";982;0;0;565;0;982;0;0;565;0;0;0;0;0;0;0;0
-"Dresdner Stollen aus Hefeteig fettreich";9789;6010;0;5928;0;557;0;0;11938;19;100;24856;9232;0;24856;0;0
-"Quark mit Früchten Magerstufe- Magerquark";14374;1621;0;933;0;2271;0;0;2554;4;0;345;12103;204;345;204;0
-"Geflügelgalantinen                     ";26;122;0;162;653;0;0;220;284;0;0;665;26;0;12;220;0
-"Rote Rübe Konserve abgetropft";6073;264;0;264;0;0;0;0;528;0;0;0;6073;0;0;0;0
-"Erythrit";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1e+05;0
-"Gewürfelte Zungenwurst Konserve";612;0;0;0;307;0;0;0;0;0;0;307;612;0;0;0;0
 "Bratensoße dunkel Konserve";237;233;0;346;79;0;0;4;579;0;166;4218;237;0;4139;4;0
 "Weizen Vollkornmehl";595;60;0;60;0;0;0;0;120;0;357;58458;595;0;58458;0;0
 "Puffmais";1210;67;0;67;0;0;0;0;134;0;269;65617;1210;0;65617;0;0

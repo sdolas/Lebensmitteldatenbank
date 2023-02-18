@@ -1,5 +1,4 @@
 "name";"Eisen";"Zink";"Kupfer";"Mangan";"Fluorid";"Iodid"
-"Hühnerei Vollei frisch";2100;1350;140;30;110;10
 "Gnocchi gekocht";310;14;6,4;59;135;272
 "Kopfsalat mit Essigmarinade (Zubereitung Haushalt)";789;26;2,8;44;159;291
 "Salami Kroatische Art";1352;72;3;84;129;2368
@@ -15,6 +14,7 @@
 "Walnüsse geröstet";2284;619;3;801;1792;2457
 "Gouda mind. 45% Fett i. Tr.";280;115;11,8;40;40;4250
 "Haferflockenbrei (Zubereitung Haushalt)";673;26;6,6;74;434;791
+"Dresdner Stollen aus Hefeteig fettreich";986;57;2;168;719;674
 "Kefir entrahmt";51;13;8;12;5;375
 "Lachsschinkenpastete";1616;48;2,4;73;68;1397
 "Mais-Fladenbrot";1510;43;3,3;131;179;1614
@@ -39,6 +39,7 @@
 "Zucchini gedünstet mit Knoblauch (Zubereitung Haushalt)";2090;28;2,7;83;185;254
 "Eier gekocht, gesalzen (Zubereitung Haushalt)";1570;105;10;126;30;1346
 "Rind Leber roh";6895;130;14;3195;338;4816
+"Quark mit Früchten Magerstufe- Magerquark";346;13;6;46;70;351
 "Krabbe klein (Shrimps) gegart";1751;159;89;309;30;2160
 "Wildreis gekocht";741;17;1,1;198;502;2139
 "Sülzwurst hervorhebend";1564;64;2,7;106;104;2048
@@ -99,6 +100,7 @@
 "Schweinefilet im Netz                   ";1341;59;3,7;94;240;1775
 "Geflügelwiener Würstchen";943;42;1,7;111;73;1506
 "Spekulatius aus Mürbeteig";1722;76;2,3;187;487;958
+"Geflügelgalantinen                     ";5832;123;3,5;484;177;3198
 "Mosaik-, Schachbrettpastete und andere";5593;50;2,4;84;89;1673
 "Kresse frisch";2900;24;2;130;350;150
 "Banane frisch";550;20;2,8;130;530;220
@@ -136,6 +138,7 @@
 "Marmelade";366;3;1;47;30;58
 "Griechischer Joghurt";700;0;7,9;200;500;700
 "Rind Pökelfleisch gekocht ungeräuchert";1939;50;2,1;67;31;4125
+"Rote Rübe Konserve abgetropft";661;22;1,6;88;134;315
 "Schwein Nacken (Kamm) (fett) frisch gegart";2159;60;1,4;78;60;1455
 "Hirsch Fleisch (mager) frisch";2310;30;0,6;170;20;3210
 "Geflügelleberwurst";23420;132;5;4146;271;3792
@@ -272,7 +275,6 @@
 "Eisbergsalat frisch";500;100;2;28;151;220
 "Geflügelsalami fettarm";1328;43;3,8;154;86;2528
 "Gesülzter Hackbraten";1306;49;2,5;79;66;2207
-"Pizza margherita (Zubereitung Gastronomie)";1208;42;2,7;172;354;893
 "Graubrot-Weizenmischbrot mit Sauermilch";1698;65;3,3;230;1119;1292
 "Preiselbeere Konfitüre";367;15;2;72;102;83
 "Tomatensuppe (Zubereitung Haushalt)";445;20;3;49;60;157
@@ -321,6 +323,7 @@
 "Sojabohnen reif frisch gegart";4014;153;2,8;397;1152;1777
 "Schokoladenpudding mit Vanillesoße (Zubereitung Großküche)";374;14;5,7;87;56;410
 "Kaffee mit Milch und Zucker (Getränk)";197;1;1,2;99;76;22
+"Erythrit";0;0;0;0;0;0
 "Maultaschen ""schwäbisch"" (Zubereitung Haushalt)";1420;55;4;96;236;1050
 "Teigwaren aus Hartgrieß";1500;40;0,6;300;860;1500
 "Leberwurst fein";7054;145;2,2;595;188;3442
@@ -440,6 +443,7 @@
 "Hühnerei Vollei frisch";2100;110;10;140;30;1350
 "Cabanossi (Brühwurst)";1201;44;1,1;77;55;2096
 "Gemüsepaprika rot";550;20;1;80;100;260
+"Gewürfelte Zungenwurst Konserve";2601;46;2,6;163;72;2619
 "Lasagne al forno (Zubereitung Gastronomie)";1266;44;4,6;85;113;1238
 "Straßburger Gänseleberwurst";23249;132;3,7;4160;273;3706
 "Joghurt teilentrahmt";50;16;7,5;12;3;370
@@ -471,7 +475,6 @@
 "Blattspinat gegart";3810;123;13,6;141;529;543
 "Erdbeere frisch";960;24;1;120;225;120
 "Tilsiter";400;115;30;100;40;3800
-"Wiener Schnitzel (Zubereitung Großküche)";1975;34;2,2;115;149;1828
 "Graupenblutwurst";14170;81;2,3;202;354;1539
 "Schupfnudeln (Zubereitung Haushalt)";768;32;4,4;104;173;602
 "Kasseler Rippenspeer roh geräuchert";1528;44;2,6;50;61;1134
@@ -541,12 +544,6 @@
 "Sprotte frisch";1900;350;55;80;27;1500
 "Buchweizen Vollkorn";3100;170;0,6;700;3000;4000
 "Rührei (Zubereitung Haushalt)";1623;93;9,7;117;27;1117
-"Dresdner Stollen aus Hefeteig fettreich";986;57;2;168;719;674
-"Quark mit Früchten Magerstufe- Magerquark";346;13;6;46;70;351
-"Geflügelgalantinen                     ";5832;123;3,5;484;177;3198
-"Rote Rübe Konserve abgetropft";661;22;1,6;88;134;315
-"Erythrit";0;0;0;0;0;0
-"Gewürfelte Zungenwurst Konserve";2601;46;2,6;163;72;2619
 "Bratensoße dunkel Konserve";615;24;3;56;56;758
 "Weizen Vollkornmehl";3400;90;2,7;630;3100;3400
 "Puffmais";1700;30;0,5;170;320;1700

@@ -1,5 +1,4 @@
 "name";"Natrium";"Kalium";"Calcium";"Magnesium";"Phosphor";"Chlorid";"Schwefel"
-"Hühnerei Vollei frisch";144;147;56;12;216;180;180
 "Gnocchi gekocht";17;82;123;11;421;44;34
 "Kopfsalat mit Essigmarinade (Zubereitung Haushalt)";31;262;171;10;150;27;13
 "Salami Kroatische Art";18;1983;477;37;1470;238;232
@@ -15,6 +14,7 @@
 "Walnüsse geröstet";79;21;495;118;2;373;127
 "Gouda mind. 45% Fett i. Tr.";958;788;123;33;1089;650;220
 "Haferflockenbrei (Zubereitung Haushalt)";101;98;160;23;51;127;58
+"Dresdner Stollen aus Hefeteig fettreich";39;38;254;24;11;94;53
 "Kefir entrahmt";122;101;152;12;51;101;30
 "Lachsschinkenpastete";22;1662;263;41;1369;132;157
 "Mais-Fladenbrot";17;780;75;31;501;162;39
@@ -39,6 +39,7 @@
 "Zucchini gedünstet mit Knoblauch (Zubereitung Haushalt)";41;325;194;22;185;28;27
 "Eier gekocht, gesalzen (Zubereitung Haushalt)";54;289;96;10;201;205;171
 "Rind Leber roh";6;68;340;21;116;351;240
+"Quark mit Früchten Magerstufe- Magerquark";71;70;156;12;24;95;50
 "Krabbe klein (Shrimps) gegart";91;94;265;67;146;223;298
 "Wildreis gekocht";8;13;129;67;2;155;34
 "Sülzwurst hervorhebend";11;898;342;30;707;169;203
@@ -99,6 +100,7 @@
 "Schweinefilet im Netz                   ";33;214;351;28;125;162;179
 "Geflügelwiener Würstchen";21;1148;264;21;837;150;164
 "Spekulatius aus Mürbeteig";49;53;156;33;84;150;81
+"Geflügelgalantinen                     ";14;968;255;25;726;182;175
 "Mosaik-, Schachbrettpastete und andere";12;1177;264;23;876;126;141
 "Kresse frisch";214;100;550;40;5;38;200
 "Banane frisch";9;109;393;36;1;28;13
@@ -136,6 +138,7 @@
 "Marmelade";3;2;55;2;1;4;2
 "Griechischer Joghurt";89,9;60,9;200,5;32;46,3;108,6;40,3
 "Rind Pökelfleisch gekocht ungeräuchert";25;3097;221;24;2357;167;149
+"Rote Rübe Konserve abgetropft";30;527;192;19;255;38;14
 "Schwein Nacken (Kamm) (fett) frisch gegart";7;72;220;49;42;124;195
 "Hirsch Fleisch (mager) frisch";10;40;306;21;62;197;200
 "Geflügelleberwurst";18;1162;286;25;893;284;230
@@ -272,7 +275,6 @@
 "Eisbergsalat frisch";19;42;160;7;12;20;16
 "Geflügelsalami fettarm";24;1730;436;32;1271;242;255
 "Gesülzter Hackbraten";14;956;306;22;716;147;141
-"Pizza margherita (Zubereitung Gastronomie)";46;327;122;18;191;87;81
 "Graubrot-Weizenmischbrot mit Sauermilch";33;684;170;41;425;139;62
 "Preiselbeere Konfitüre";6;3;27;2;1;4;4
 "Tomatensuppe (Zubereitung Haushalt)";12;327;83;6;201;19;7
@@ -321,6 +323,7 @@
 "Sojabohnen reif frisch gegart";106;2;638;101;1;234;85
 "Schokoladenpudding mit Vanillesoße (Zubereitung Großküche)";101;112;159;17;61;89;28
 "Kaffee mit Milch und Zucker (Getränk)";6;4;67;6;3;5;2
+"Erythrit";0;0;0;0;0;0;0
 "Maultaschen ""schwäbisch"" (Zubereitung Haushalt)";36;275;134;15;174;79;85
 "Teigwaren aus Hartgrieß";22;22;200;56;5;165;175
 "Leberwurst fein";13;888;206;21;663;183;167
@@ -440,6 +443,7 @@
 "Hühnerei Vollei frisch";56;180;147;12;144;216;180
 "Cabanossi (Brühwurst)";11;1040;181;20;779;90;127
 "Gemüsepaprika rot";10;18;260;14;5;30;20
+"Gewürfelte Zungenwurst Konserve";18;1748;349;30;1512;215;220
 "Lasagne al forno (Zubereitung Gastronomie)";76;520;165;17;358;115;81
 "Straßburger Gänseleberwurst";18;1166;265;26;894;271;230
 "Joghurt teilentrahmt";130;100;160;12;50;90;30
@@ -471,7 +475,6 @@
 "Blattspinat gegart";149;61;393;43;61;62;22
 "Erdbeere frisch";25;14;145;15;3;25;13
 "Tilsiter";750;1400;100;37;773;500;200
-"Wiener Schnitzel (Zubereitung Großküche)";35;325;232;24;213;180;145
 "Graupenblutwurst";16;850;187;27;627;89;71
 "Schupfnudeln (Zubereitung Haushalt)";16;242;257;17;140;76;66
 "Kasseler Rippenspeer roh geräuchert";32;3243;242;28;2472;127;157
@@ -541,12 +544,6 @@
 "Sprotte frisch";85;170;300;30;100;200;200
 "Buchweizen Vollkorn";75;30;400;130;1;290;120
 "Rührei (Zubereitung Haushalt)";67;381;134;13;266;185;144
-"Dresdner Stollen aus Hefeteig fettreich";39;38;254;24;11;94;53
-"Quark mit Früchten Magerstufe- Magerquark";71;70;156;12;24;95;50
-"Geflügelgalantinen                     ";14;968;255;25;726;182;175
-"Rote Rübe Konserve abgetropft";30;527;192;19;255;38;14
-"Erythrit";0;0;0;0;0;0;0
-"Gewürfelte Zungenwurst Konserve";18;1748;349;30;1512;215;220
 "Bratensoße dunkel Konserve";18;609;95;8;397;40;38
 "Weizen Vollkornmehl";32;37;337;124;3;345;125
 "Puffmais";11;8;240;81;3;281;50

@@ -85,7 +85,7 @@ for(url in urls$URL){
   t5 <- t5$X2 |> t() |> data.frame() |> `colnames<-`(names(vitamine)) 
   t5[,-1] <- apply(t5[,-1], 2, as.numeric)
   
-  ### Sechste Tabelle: Mineralstoffe in mg
+  ### Mineralstoffe in mg
   t6 <- html_table(tables[[6]])[,c(1,2)] |> 
     filter(!(grepl("Tagesbedarf", X1)) & 
              X1 != "") |> format_strToNum() |> merge_rownames(names(mineralstoffe)[-1])
@@ -140,17 +140,27 @@ for(url in urls$URL){
   t12[,-1] <- apply(t12[,-1], 2, as.numeric)
   
   # verbinde alte und neue df
-  makros <- rbind(makros, t2) |> unique()
-  vitamine <- rbind(vitamine, t5) |> unique()
-  mineralstoffe <- rbind(mineralstoffe, t6) |> unique()
-  spurenelemente <- rbind(spurenelemente, t7) |> unique()
-  kohlenhydrate <- rbind(kohlenhydrate, t8) |> unique()
-  aminos <- rbind(aminos, t9) |> unique()
-  ballaststoffe <- rbind(ballaststoffe, t10) |> unique()
-  fette <- rbind(fette, t12) |> unique()
+  makros <- rbind(makros, t2)
+  vitamine <- rbind(vitamine, t5) 
+  mineralstoffe <- rbind(mineralstoffe, t6) 
+  spurenelemente <- rbind(spurenelemente, t7) 
+  kohlenhydrate <- rbind(kohlenhydrate, t8)
+  aminos <- rbind(aminos, t9) 
+  ballaststoffe <- rbind(ballaststoffe, t10)
+  fette <- rbind(fette, t12)
 
 }
 close(pb) # Close the connection
+
+# jedes lebensmittel soll nur einmal vorkommen
+makros <- makros[!duplicated(makros$name),]
+mineralstoffe <- mineralstoffe[!duplicated(mineralstoffe$name),]
+spurenelemente <- spurenelemente[!duplicated(spurenelemente$name),]
+vitamine <- vitamine[!duplicated(vitamine$name),]
+kohlenhydrate <- kohlenhydrate[!duplicated(kohlenhydrate$name),]
+aminos <- aminos[!duplicated(aminos$name),]
+ballaststoffe <- ballaststoffe[!duplicated(ballaststoffe$name),]
+fette <- fette[!duplicated(fette$name),]
 
 
 # speichere die Tabellen
